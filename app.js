@@ -2202,33 +2202,43 @@ function normalizeCoachName(name) {
 function computeCoachStats(matches) {
   const coaches = new Map();
 
+  // Build a lookup of 'A' matches by date
+  const aMatchByDate = new Map();
   matches.forEach((match) => {
-    if (nationalSquadType(match) !== "A") return;
+    if (nationalSquadType(match) === "A") {
+      aMatchByDate.set(match.date, match);
+    }
+  });
 
-    const detailKey = match.detailKey || nationalDetailKey(match.date, match.opponent);
-    const detail = nationalMatchDetails.get(detailKey);
-    let rawCoachName = detail && detail.coach ? detail.coach : "Non renseigne";
+  // Iterate over all filled fiches (details)
+  for (const detail of nationalMatchDetails.values()) {
+    const match = aMatchByDate.get(detail.date);
+    if (!match) continue; // Skip if it's not an 'A' match or not in our summary list
+
+    let rawCoachName = detail.coach ? detail.coach : "Non renseigne";
     let coachName = normalizeCoachName(rawCoachName);
 
-    if (coachName === "Non renseigne") return;
-    if (coachName === "NAME" || coachName.includes("NAME.")) return;
+    if (coachName === "Non renseigne" || coachName === "NAME" || coachName.includes("NAME.")) continue;
 
     if (!coaches.has(coachName)) {
       coaches.set(coachName, {
         name: coachName,
-        firstMatch: match,
-        lastMatch: match,
         matches: 0,
         wins: 0,
         draws: 0,
         losses: 0,
         goalsFor: 0,
-        goalsAgainst: 0
+        goalsAgainst: 0,
+        firstMatch: match,
+        lastMatch: match,
       });
     }
 
     const stats = coaches.get(coachName);
     stats.matches++;
+    if (match.result === "w") stats.wins++;
+    else if (match.result === "d") stats.draws++;
+    else if (match.result === "l") stats.losses++;
     
     // Sort matches chronologically (matches array is newest first usually, but checking)
     if (match.year < stats.firstMatch.year || (match.year === stats.firstMatch.year && match.date < stats.firstMatch.date)) {
