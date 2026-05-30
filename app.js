@@ -2236,9 +2236,9 @@ function computeCoachStats(matches) {
 
     const stats = coaches.get(coachName);
     stats.matches++;
-    if (match.result === "w") stats.wins++;
-    else if (match.result === "d") stats.draws++;
-    else if (match.result === "l") stats.losses++;
+    if (match.result === "Victoire") stats.wins++;
+    else if (match.result === "Nul") stats.draws++;
+    else if (match.result === "Defaite") stats.losses++;
     
     // Sort matches chronologically (matches array is newest first usually, but checking)
     if (match.year < stats.firstMatch.year || (match.year === stats.firstMatch.year && match.date < stats.firstMatch.date)) {
