@@ -1,0 +1,297 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Football Marocain - Saison 1956/57</title>
+    <link rel="stylesheet" href="styles.css?v=20260529e">
+  </head>
+  <body>
+    <header class="app-header">
+      <div class="header-content">
+        <div>
+          <p class="eyebrow">Archives du football marocain</p>
+          <h1>Championnat & Coupe du Trone</h1>
+          <p class="intro">Base historique des saisons nationales depuis 1956/57.</p>
+        </div>
+        <label class="season-picker">
+          <span>Saison</span>
+          <select id="seasonSelect" aria-label="Choisir une saison"></select>
+        </label>
+      </div>
+    </header>
+
+    <main>
+      <section class="season-overview" aria-labelledby="seasonTitle">
+        <div>
+          <p class="eyebrow">Saison selectionnee</p>
+          <h2 id="seasonTitle"></h2>
+          <p id="seasonCompetitions" class="muted"></p>
+        </div>
+        <div class="stat-grid" id="seasonStats"></div>
+      </section>
+
+      <nav class="tabs" aria-label="Sections de la saison">
+        <button class="tab is-active" type="button" data-tab="championship">Championnat</button>
+        <button class="tab" type="button" data-tab="matches">Grille des matchs</button>
+        <button class="tab" type="button" data-tab="cup">Coupe du Trone</button>
+        <button class="tab" type="button" data-tab="statistics">Statistiques</button>
+        <button class="tab" type="button" data-tab="honours">Palmares</button>
+        <button class="tab" type="button" data-tab="national">Selection</button>
+      </nav>
+
+      <section class="tab-panel is-active" id="championship" aria-labelledby="championshipTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Championnat National</p>
+            <h2 id="championshipTitle">Classement final</h2>
+          </div>
+          <input id="clubSearch" type="search" placeholder="Filtrer un club" aria-label="Filtrer un club">
+        </div>
+        <div class="table-wrap">
+          <table class="ranking-table">
+            <thead>
+              <tr>
+                <th>Rang</th>
+                <th>Club</th>
+                <th>PJ</th>
+                <th>V</th>
+                <th>N</th>
+                <th>D</th>
+                <th>BP</th>
+                <th>BC</th>
+                <th>Diff.</th>
+                <th>Pts</th>
+                <th>Statut</th>
+              </tr>
+            </thead>
+            <tbody id="rankingBody"></tbody>
+          </table>
+        </div>
+        <div class="info-strip" id="championshipNotes"></div>
+      </section>
+
+      <section class="tab-panel" id="matches" aria-labelledby="matchesTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Domicile / exterieur</p>
+            <h2 id="matchesTitle">Grille complete des matchs</h2>
+          </div>
+          <p class="muted compact">L'equipe en ligne recoit, l'equipe en colonne se deplace.</p>
+        </div>
+        <div class="grid-shell">
+          <table class="match-grid" id="matchGrid"></table>
+        </div>
+        <div class="legend" id="clubLegend"></div>
+      </section>
+
+      <section class="tab-panel" id="cup" aria-labelledby="cupTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Coupe du Trone</p>
+            <h2 id="cupTitle">Parcours et finale</h2>
+          </div>
+          <div class="winner-pill" id="cupWinner"></div>
+        </div>
+        <div class="cup-rounds" id="cupRounds"></div>
+        <article class="final-card" id="cupFinal"></article>
+      </section>
+
+      <section class="tab-panel" id="statistics" aria-labelledby="statisticsTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Analyse de la saison</p>
+            <h2 id="statisticsTitle">Statistiques filtrees</h2>
+          </div>
+        </div>
+        <div class="stats-filter-panel">
+          <label>
+            <span>Equipe</span>
+            <select id="teamStatsSelect" aria-label="Choisir une equipe"></select>
+          </label>
+          <div class="filter-field">
+            <span>Saison</span>
+            <details id="statsSeasonSelect" class="checkbox-filter"></details>
+          </div>
+          <div class="filter-field">
+            <span>Competition</span>
+            <details id="competitionStatsSelect" class="checkbox-filter"></details>
+          </div>
+          <label>
+            <span>Adversaire</span>
+            <select id="opponentStatsSelect" aria-label="Choisir un adversaire"></select>
+          </label>
+          <label>
+            <span>Lieu</span>
+            <select id="placeStatsSelect" aria-label="Choisir un lieu"></select>
+          </label>
+          <button id="resetStatsFilters" type="button">Reset</button>
+        </div>
+        <div class="stats-kpis" id="statsCards"></div>
+        <div class="stats-note" id="statsDataNote"></div>
+        <div class="table-wrap stats-table-wrap">
+          <table class="ranking-table">
+            <thead>
+              <tr>
+                <th>Saison</th>
+                <th>Competition</th>
+                <th>Phase</th>
+                <th>Club</th>
+                <th>Adversaire</th>
+                <th>Lieu</th>
+                <th>Score</th>
+                <th>Resultat</th>
+                <th>Precision</th>
+              </tr>
+            </thead>
+            <tbody id="filteredMatchesBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="tab-panel" id="honours" aria-labelledby="honoursTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Titres nationaux</p>
+            <h2 id="honoursTitle">Palmares</h2>
+          </div>
+        </div>
+        <div class="honours-section">
+          <article class="honours-card">
+            <h3>Tenants par saison</h3>
+            <div class="table-wrap">
+              <table class="ranking-table">
+                <thead>
+                  <tr>
+                    <th>Saison</th>
+                    <th>Championnat</th>
+                    <th>Coupe du Trone</th>
+                  </tr>
+                </thead>
+                <tbody id="honoursBySeasonBody"></tbody>
+              </table>
+            </div>
+          </article>
+          <article class="honours-card">
+            <h3>Palmares championnat</h3>
+            <div id="leagueHonoursList" class="honours-list"></div>
+          </article>
+          <article class="honours-card">
+            <h3>Palmares Coupe du Trone</h3>
+            <div id="cupHonoursList" class="honours-list"></div>
+          </article>
+        </div>
+      </section>
+
+      <section class="tab-panel" id="national" aria-labelledby="nationalTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Equipe nationale</p>
+            <h2 id="nationalTitle">Tableau de bord de la selection</h2>
+          </div>
+        </div>
+        <div class="stats-filter-panel national-filter-panel">
+          <label>
+            <span>Type</span>
+            <select id="nationalSquadSelect" aria-label="Filtrer par type de selection">
+              <option value="A">Equipe A</option>
+              <option value="A_PRIME">Equipe A'</option>
+              <option value="U23">Equipe Olympique (U23)</option>
+              <option value="all">Global</option>
+            </select>
+          </label>
+          <label>
+            <span>Annee</span>
+            <select id="nationalYearSelect" aria-label="Filtrer par annee"></select>
+          </label>
+          <label>
+            <span>Competition</span>
+            <select id="nationalCompetitionSelect" aria-label="Filtrer par competition"></select>
+          </label>
+          <label>
+            <span>Adversaire</span>
+            <select id="nationalOpponentSelect" aria-label="Filtrer par adversaire"></select>
+          </label>
+          <label>
+            <span>Lieu</span>
+            <select id="nationalVenueSelect" aria-label="Filtrer par lieu"></select>
+          </label>
+          <button id="resetNationalFilters" type="button">Reset</button>
+        </div>
+        <div class="stats-kpis national-kpis" id="nationalCards"></div>
+        <div class="table-wrap stats-table-wrap scorer-table-wrap">
+          <table class="ranking-table">
+            <thead>
+              <tr>
+                <th>Rang</th>
+                <th>Buteur</th>
+                <th>Buts</th>
+                <th>Matchs</th>
+                <th>Pen.</th>
+                <th>Annees</th>
+              </tr>
+            </thead>
+            <tbody id="nationalScorersBody"></tbody>
+          </table>
+        </div>
+        <div class="table-wrap stats-table-wrap scorer-table-wrap">
+          <table class="ranking-table">
+            <thead>
+              <tr>
+                <th>Joueur</th>
+                <th>Matchs</th>
+                <th>Tit.</th>
+                <th>Min.</th>
+                <th>Buts</th>
+                <th>Jaunes</th>
+                <th>Rouges</th>
+              </tr>
+            </thead>
+            <tbody id="nationalDetailedPlayersBody"></tbody>
+          </table>
+        </div>
+        <div class="table-wrap stats-table-wrap">
+          <table class="ranking-table">
+            <thead>
+              <tr>
+                <th>Date</th>
+                <th>Details</th>
+                <th>Adversaire</th>
+                <th>Lieu</th>
+                <th>Competition</th>
+                <th>Phase</th>
+                <th>Score</th>
+                <th>Resultat</th>
+                <th>Buteurs Maroc</th>
+              </tr>
+            </thead>
+            <tbody id="nationalMatchesBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+
+    <dialog id="nationalDetailDialog" class="match-detail-dialog">
+      <div class="dialog-shell">
+        <button id="closeNationalDetail" class="dialog-close" type="button" aria-label="Fermer">x</button>
+        <div id="nationalDetailContent"></div>
+      </div>
+    </dialog>
+
+    <script src="data.js?v=20260529"></script>
+    <script src="pre-independence-seasons.js?v=20260529"></script>
+    <script src="extra-seasons.js?v=20260529"></script>
+    <script src="seventies-seasons.js?v=20260529"></script>
+    <script src="eighties-seasons.js?v=20260529"></script>
+    <script src="nineties-seasons.js?v=20260529"></script>
+    <script src="two-thousands-seasons.js?v=20260529"></script>
+    <script src="modern-seasons.js?v=20260529"></script>
+    <script src="recent-seasons.js?v=20260529"></script>
+    <script src="cup-final-details.js?v=20260529"></script>
+    <script src="national-team-data.js?v=20260529"></script>
+    <script src="wc-match-details-data.js?v=20260529c"></script>
+    <script src="international-2000-2009-details-data.js?v=20260529d"></script>
+  <script src="international-2016-2020-details-data.js?v=20260530ad"></script>
+  <script src="app.js?v=20260530ad"></script>
+  </body>
+</html>

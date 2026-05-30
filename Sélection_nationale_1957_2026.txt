@@ -1,0 +1,922 @@
+DATE     VERSUS          VENUE SCORE [HT]  [PEN] CROWD  COMP      SCORERS
+
+18/01/26 SENEGAL         [MAR] L 0-1 [0-0] AET    66526 CAN Final
+14/01/26 NIGERIA         [MAR] D 0-0 [0-0] [4-2]  65458 CAN Sf
+09/01/26 CAMEROON        [MAR] W 2-0 [1-0]        64178 CAN Qf    [B.Diaz 26>I.Saibari 74]
+04/01/26 TANZANIA        [MAR] W 1-0 [0-0]        63894 CAN Rd 2  [B.Diaz 64]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+29/12/25 ZAMBIA          [MAR] W 3-0 [2-0]        62532 CAN Rd 1  [A.El-Kaabi 9,50>B.Diaz 27]
+26/12/25 MALI            [MAR] D 1-1 [1-0]        63844 CAN Rd 1  [B.Diaz 45+5Pen]
+21/12/25 COMOROS ISLANDS [MAR] W 2-0 [0-0]        60180 CAN Rd 1  [B.Diaz 55>A.El-Kaabi 74]
+18/12/25 Jordan          [QAT] w 3-2 [1-0]        84157 ARAB Final[O.Tannane 4>A.Hamdallah 88,100]
+15/12/25 U.A.E.          [QAT] w 3-0 [1-0]        33898 ARAB Sf   [K.El-Berkaoui 26>A.El-Mahdioui 83>A.Hamdallah 90+2]
+11/12/25 Syria           [QAT] w 1-0 [0-0]        39167 ARAB Qf   [O.Azaro 79]
+08/12/25 Saudi Arabia    [QAT] w 1-0 [1-0]        78131 ARAB Rd 1 [K.El-Berkaoui 11]
+05/12/25 Oman            [QAT] d 0-0 [0-0]        37996 ARAB Rd 1
+02/12/25 Comoros Islands [QAT] w 3-1 [3-0]        10246 ARAB Rd 1 [S.Bouftini 5>T.Tissoudali 11>K.El-Berkaoui 45+4]
+18/11/25 Uganda          [MAR] w 4-0 [2-0]        70000 Fr        [H.Achayi 4 OG>I.Saibari 33>S.Rahimi 79Pen>B.El-Khannous 88]
+14/11/25 Mozambique      [MAR] w 1-0 [1-0]        60000 Fr        [A.Ounahi 7]
+14/10/25 CONGO           [MAR] W 1-0 [0-0]       -      WCQ       [Y.En-Nesyri 63]
+09/10/25 Bahrain         [MAR] w 1-0 [0-0]        53000 Fr        [J.El-Yamiq 90+4]
+08/09/25 ZAMBIA          [ZAM] W 2-0 [1-0]        49800 WCQ       [Y.En-Nesyri 7>H.Igamane 47]
+05/09/25 NIGER           [MAR] W 5-0 [2-0]        63000 WCQ       [I.Saibari 29,38>A.El-Kaabi 51>H.Igamane 69>A.Ounahi 84]
+30/08/25 Madagascar      [KEN] w 3-2 [2-1]       -      ANC Final [Y.Mehri 27>O.Lamlioui 44,80]
+26/08/25 Senegal         [UGA] d 1-1 [1-1] [5-3] -      ANC Sf    [S.Bougrine 23]
+22/08/25 Tanzania        [TAN] w 1-0 [0-0]       -      ANC Qf    [O.Lamlioui 65]
+17/08/25 DR Congo        [KEN] w 3-1 [1-1]       -      ANC Rd 1  [O.Lamlioui 8,80>M.Hrimat 70Pen]
+14/08/25 Zambia          [KEN] w 3-1 [1-0]       -      ANC Rd 1  [M.Hrimat 45+2>O.Lamlioui 67>S.Bougrine 90+5]
+10/08/25 Kenya           [KEN] l 0-1 [0-1]       -      ANC Rd 1
+03/08/25 Angola          [KEN] w 2-0 [1-0]       -      ANC Rd 1  [I.Riahi 29>Kinito 81 OG]
+09/06/25 Benin           [MAR] w 1-0 [1-0]        34000 Fr        [A.El-Kaabi 45+2]
+06/06/25 Tunisia         [MAR] w 2-0 [0-0]        35000 Fr        [A.Hakimi 80>A.El-Kaabi 90+4]
+25/03/25 TANZANIA        [MAR] W 2-0 [0-0]       -      WCQ       [N.Aguerd 51>B.Diaz 58Pen]
+21/03/25 NIGER           [MAR] W 2-1 [0-0]        20000 WCQ       [I.Saibari 59>B.El-Khannous 90+1]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+18/11/24 LESOTHO         [MAR] W 7-0 [5-0]        33000 CANQ      [B.Diaz 5,15,42>S.Rahimi 37,45Pen>Y.En-Nesyri 68>I.Saibari 70]
+15/11/24 GABON           [GAB] W 5-1 [3-1]        19360 CANQ      [J.Harkness 17>B.Diaz 20,23>Y.En-Nesyri 81>I.Saibari 90]
+15/10/24 CEN. AFRICAN R. [MAR] W 4-0 [2-0]        19920 CANQ      [E.Ben Seghir 34,37>Y.En-Nesyri 50Pen>A.Ezzalzouli 65]
+12/10/24 CEN. AFRICAN R. [MAR] W 5-0 [4-0]        19800 CANQ      [A.Ezzalzouli 18>A.Ounahi 38,45+2>S.Rahimi 71Pen]
+09/09/24 LESOTHO         [MAR] W 1-0 [0-0]       -      CANQ      [B.Diaz 90+3]
+06/09/24 GABON           [MAR] W 4-1 [2-1]        38000 CANQ      [H.Ziyech 10Pen,26Pen>B.Diaz 59>A.El-Kaabi 82]
+11/06/24 CONGO           [MAR] W 6-0 [4-0]        30000 WCQ       [A.Ounahi 8>C.Riad 16>A.El-Kaabi 30,39,53>S.Rahimi 62]
+07/06/24 ZAMBIA          [MAR] W 2-1 [1-0]       -      WCQ       [H.Ziyech 6Pen>E.Ben Seghir 67]
+26/03/24 Mauritania      [MAR] d 0-0 [0-0]        45000 Fr
+22/03/24 Angola          [MAR] w 1-0 [0-0]        36786 Fr        [D.Carmo 72 OG]
+30/01/24 SOUTH AFRICA    [CIV] L 0-2 [0-0]        19078 CAN Rd 2
+24/01/24 ZAMBIA          [CIV] W 1-0 [1-0]        15231 CAN Rd 1  [H.Ziyech 37]
+21/01/24 DR CONGO        [CIV] D 1-1 [1-0]        13342 CAN Rd 1  [A.Hakimi 6]
+17/01/24 TANZANIA        [CIV] W 3-0 [1-0]        15478 CAN Rd 1  [R.Saiss 30>A.Ounahi 77>Y.En-Nesyri 80]
+11/01/24 Sierra Leone    [CIV] w 3-1 [2-1]       -      Fr        [Y.En-Nesyri 30,55>S.Boufal 35]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+21/11/23 TANZANIA        [TAN] W 2-0 [1-0]        60000 WCQ       [H.Ziyech 28>B.Mwamnyeto 54 OG]
+17/10/23 LIBERIA         [MAR] W 3-0 [1-0]       -      WCQ       [A.Harit 45+2>A.El-Kaabi 59Pen>A.Adli 89]
+14/10/23 Ivory Coast     [CIV] d 1-1 [0-0]        22135 Fr        [A.El-Kaabi 81]
+12/09/23 Burkina Faso    [FRA] w 1-0 [1-0]       -      Fr        [A.Ounahi 36]
+17/06/23 SOUTH AFRICA    [RSA] L 1-2 [0-1]       -      CANQ      [H.Ziyech 60]
+12/06/23 Cape Verde Isl. [MAR] d 0-0 [0-0]        52000 Fr
+28/03/23 Peru            [ESP] d 0-0 [0-0]        32000 Fr
+25/03/23 Brazil          [MAR] w 2-1 [1-0]        65000 Fr        [S.Boufal 29>A.Sabiri 79]
+09/01/23 Ethiopia        [MAR] w 2-1 [2-0]       -      Fr*       []
+07/01/23 Ethiopia        [MAR] w 1-0 [0-0]       -      Fr*       [Alemi 81]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+21/12/22 Senegal         [MAR] w 1-0 [1-0]       -      Fr*       [Y.Mehri 38]
+17/12/22 CROATIA         [QAT] L 1-2 [1-2]        44137 WCF 3-4   [A.Dari 9]
+14/12/22 FRANCE          [QAT] L 0-2 [0-1]        68294 WCF Sf
+10/12/22 PORTUGAL        [QAT] W 1-0 [1-0]        44198 WCF Qf    [Y.En-Nesyri 42]
+06/12/22 SPAIN           [QAT] D 0-0 [0-0] [3-0]  44667 WCF Rd 2
+01/12/22 CANADA          [QAT] W 2-1 [2-1]        43102 WCF Rd 1  [H.Ziyech 4>Y.En-Nesyri 23]
+27/11/22 BELGIUM         [QAT] W 2-0 [0-0]        43738 WCF Rd 1  [A.Sabiri 73>Z.Aboukhlal 90]
+23/11/22 CROATIA         [QAT] D 0-0 [0-0]        59407 WCF Rd 1
+17/11/22 Georgia         [UAE] w 3-0 [2-0]        10000 Fr        [Y.En-Nesyri 5>H.Ziyech 29>S.Boufal 72Pen]
+27/09/22 Paraguay        [ESP] d 0-0 [0-0]       -      Fr
+23/09/22 Chile           [ESP] w 2-0 [0-0]        25000 Fr        [S.Boufal 66Pen>A.Sabiri 78]
+21/09/22 Madagascar      [MAR] w 1-0 [1-0]       -      Fr*       [W.Cheddira 24]
+23/08/22 Jamaica         [AUT] w 3-0 [1-0]       -      Fr        [A.Hammoudan 33>M.Nahiri 74Pen>R.Slim 80]
+20/08/22 Qatar           [AUT] d 2-2 [2-1]       -      Fr        [Y.Jabrane 13Pen>M.Oubila 42]
+13/06/22 LIBERIA         [MAR] W 2-0 [0-0]       -      CANQ      [F.Fajr 56Pen>Y.En-Nesyri 57]
+09/06/22 SOUTH AFRICA    [MAR] W 2-1 [0-1]       -      CANQ      [Y.En-Nesyri 51>A.El-Kaabi 87]
+01/06/22 United States   [USA] l 0-3 [0-2]        19512 Fr
+29/03/22 DR CONGO        [MAR] W 4-1 [2-0]        45891 WCQ       [A.Ounahi 21,54>T.Tissoudali 45+7>A.Hakimi 69]
+25/03/22 DR CONGO        [COD] D 1-1 [0-1]        25000 WCQ       [T.Tissoudali 76]
+30/01/22 EGYPT           [CMR] L 1-2 [1-0] AET   -      CAN Qf    [S.Boufal 7Pen]
+25/01/22 MALAWI          [CMR] W 2-1 [0-1]       -      CAN Rd 2  [Y.En-Nesyri 47>A.Hakimi 70]
+18/01/22 GABON           [CMR] D 2-2 [0-1]       -      CAN Rd 1  [S.Boufal 74Pen>A.Hakimi 84]
+14/01/22 COMOROS ISLANDS [CMR] W 2-0 [1-0]       -      CAN Rd 1  [S.Amallah 16>Z.Aboukhlal 88]
+10/01/22 GHANA           [CMR] W 1-0 [0-0]       -      CAN Rd 1  [S.Boufal 83]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+11/12/21 Algeria         [QAT] d 2-2 [0-0] [3-5]  24823 ARAB Qf   [M.Nahiri 64>B.Benoun 111]
+07/12/21 Saudi Arabia    [QAT] w 1-0 [1-0]         8502 ARAB Rd 1 [K.El-Berkaoui 45+4Pen]
+04/12/21 Jordan          [QAT] w 4-0 [3-0]         7890 ARAB Rd 1 [Y.Jabrane 4>B.Benoun 25>M.Chibi 45+3>S.Rahimi 88Pen]
+01/12/21 Palestine       [QAT] w 4-0 [1-0]         3843 ARAB Rd 1 [M.Nahiri 31>A.Hafidi 56,64>B.Benoun 87Pen]
+16/11/21 GUINEA          [MAR] W 3-0 [2-0]       -      WCQ       [R.Mmaee 21,29>A.El-Kaabi 60]
+12/11/21 SUDAN           [MAR] W 3-0 [1-0]       -      WCQ       [R.Mmaee 3,62>I.Louza 90+3]
+12/10/21 GUINEA          [MAR] W 4-1 [2-1]       -      WCQ       [A.El-Kaabi 21>S.Amallah 43,65>S.Boufal 89]
+09/10/21 GUINEA BISSAU   [MAR] W 3-0 [2-0]       -      WCQ       [A.El-Kaabi 10,70>A.Barkok 20]
+06/10/21 GUINEA BISSAU   [MAR] W 5-0 [2-0]       -      WCQ       [A.Hakimi 31>I.Louza 45+1Pen>I.Chair 49>A.El-Kaabi 62>M.El-Haddadi 82]
+02/09/21 SUDAN           [MAR] W 2-0 [1-0]       -      WCQ       [N.Aguerd 10>A.Abdalla 53 OG]
+12/06/21 Burkina Faso    [MAR] w 1-0 [0-0]       -      Fr        [A.Hakimi 51]
+08/06/21 Ghana           [MAR] w 1-0 [0-0]       -      Fr        [J.El-Yamiq 68]
+30/03/21 BURUNDI         [MAR] W 1-0 [1-0]       -      CANQ      [M.El-Haddadi 45]
+26/03/21 MAURITANIA      [MTN] D 0-0 [0-0]          900 CANQ
+07/02/21 Mali            [CMR] w 2-0 [0-0]       -      ANC Final [S.Bouftini 69>A.El-Kaabi 79]
+03/02/21 Cameroon        [CMR] w 4-0 [2-0]       -      ANC Sf    [S.Bouftini 28>S.Rahimi 40,73>M.Bemaamer 82]
+31/01/21 Zambia          [CMR] w 3-1 [3-0]       -      ANC Qf    [S.Rahimi 1>M.Bemaamer 8>A.El-Kaabi 39Pen]
+26/01/21 Uganda          [CMR] w 5-2 [1-1]       -      ANC Rd 1  [A.El-Kaabi 45+4Pen>S.Rahimi 51,80>H.El-Moussaoui 71>C.Lukwago 90+2 OG]
+22/01/21 Rwanda          [CMR] d 0-0 [0-0]       -      ANC Rd 1
+18/01/21 Togo            [CMR] w 1-0 [1-0]       -      ANC Rd 1  [Y.Jabrane 27Pen]
+12/01/21 Guinea          [MAR] w 1-0 [1-0]       -      Fr*       [A.El-Kaabi 6]
+08/01/21 Guinea          [MAR] w 2-1 [0-0]       -      Fr*       [I.Khalfi 71>M.El-Fakih 90+10]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+17/11/20 CEN AFRICAN REP [CMR] W 2-0 [1-0]       -      CANQ      [H.Ziyech 39>Y.En-Nesyri 90+1]
+13/11/20 CEN AFRICAN REP [MAR] W 4-1 [3-1]       -      CANQ      [A.Hakimi 10>H.Ziyech 31Pen,34>Z.Aboukhlal 64]
+04/11/20 Niger           [NIG] w 2-0 [1-0]       -      Tournoi*  [I.Khafi 45>B.El-Bahraoui 50]
+01/11/20 Mali            [NIG] w 1-0 [1-0]       -      Tournoi*  [A.El-Kaabi 33]
+13/10/20 DR Congo        [MAR] d 1-1 [1-0]       -      Fr        [N.Mazraoui 45]
+09/10/20 Senegal         [MAR] w 3-1 [1-0]       -      Fr        [S.Amallah 10>Y.En-Nesyri 71>Y.El-Arabi 86]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+19/11/19 BURUNDI         [BDI] W 3-0 [2-0]        10000 CANQ      [N.Mazraoui 26>Y.En-Nesyri 39>A.Hakimi 82]
+19/11/19 Guinea          [MAR] W 3-1 [2-1]       -      Fr*       [A.El-Kaabi 7>H.Ahaddad 11>A.Nanah 47]
+15/11/19 MAURITANIA      [MAR] D 0-0 [0-0]        15000 CANQ
+19/10/19 Algeria         [MAR] w 3-0 [3-0]        10000 Ancq      [B.Banoun 27Pen>H.Ahaddad 32>M.Nahiri 41]
+15/10/19 Gabon           [MAR] l 2-3 [1-1]        29000 Fr        [N.Amrabat 33,69Pen]
+11/10/19 Libya           [MAR] d 1-1 [1-1]        33000 Fr        [J.El-Yamiq 20]
+21/09/19 Algeria         [ALG] d 0-0 [0-0]        23000 Fr
+10/09/19 Niger           [MAR] w 1-0 [1-0]         4700 Fr        [W.El-Karti 21]
+06/09/19 Burkina Faso    [MAR] d 1-1 [0-0]        25000 Fr        [Z.Feddal 88]
+05/07/19 BENIN           [EGY] D 1-1 [0-0] [1-4]   7500 CAN Rd 2  [Y.En-Nesyri 75]
+01/07/19 SOUTH AFRICA    [EGY] W 1-0 [0-0]        12098 CAN Rd 1  [M.Boussoufa 90]
+28/06/19 IVORY COAST     [EGY] W 1-0 [1-0]        27500 CAN Rd 1  [Y.En-Nesyri 23]
+23/06/19 NAMIBIA         [EGY] W 1-0 [0-0]         6857 CAN Rd 1  [I.Keimuine 90 OG]
+16/06/19 Zambia          [MAR] l 2-3 [1-2]        10000 Fr        [H.Ziyech 24,54Pen]
+12/06/19 Gambia          [MAR] l 0-1 [0-1]         4000 Fr*
+26/03/19 Argentina       [MAR] l 0-1 [0-0]        35000 Fr
+22/03/19 MALAWI          [MWL] D 0-0 [0-0]         5000 CANQ
+----------------------------------------------------------------------------------------------------------------------------------------------------
+20/11/18 Tunisia         [TUN] w 1-0 [1-0]        15000 Fr        [Y.En-Nesri 41]
+16/11/18 CAMEROON        [MAR] W 2-0 [0-0]        35000 CANQ      [H.Ziyech 54Pen,66]
+16/10/18 COMOROS ISLANDS [COM] D 2-2 [0-1]         2000 CANQ      [K.Boutaib 53>N.Amrabat 62]
+13/10/18 COMOROS ISLANDS [MAR] W 1-0 [0-0]        38000 CANQ      [F.Fajr 90+7Pen]
+08/09/18 MALAWI          [MAR] W 3-0 [2-0]        25000 CANQ      [H.Ziyech 3>Y.En-Nesyri 42,78]
+25/06/18 SPAIN           [RUS] D 2-2 [1-1]        33974 WCF Rd 1  [K.Boutaib 14>Y.En-Nesyri 81]
+20/06/18 PORTUGAL        [RUS] L 0-1 [0-1]        78011 WCF Rd 1
+15/06/18 IRAN            [RUS] L 0-1 [0-0]        62548 WCF Rd 1
+09/06/18 Estonia         [EST] w 3-1 [2-0]         4756 Fr        [Y.Belhanda 11>H.Ziyech 38Pen>Y.En-Nesyri 72]
+04/06/18 Slovakia        [SUI] w 2-1 [0-0]         7000 Fr        [A.El-Kaabi 63>Y.Belhanda 74]
+31/05/18 Ukraine         [SUI] d 0-0 [0-0]         8000 Fr
+27/03/18 Uzbekistan      [MAR] w 2-0 [2-0]        15000 Fr        [A.El-Kaabi 3>M.da Costa 42]
+23/03/18 Serbia          [ITA] w 2-1 [2-1]        15700 Fr        [H.Ziyech 29Pen>K.Boutaib 40]
+04/02/18 Nigeria         [MAR] w 4-0 [1-0]        45000 ANC Final [Z.Hadraf 44,64>W.El-Karti 61>A.El-Kaabi 73]
+31/01/18 Libya           [MAR] w 3-1 [0-0] AET   -      ANC Sf    [A.El-Kaabi 73,97>W.El-Karti 119Pen]
+27/01/18 Namibia         [MAR] w 2-0 [1-0]       -      ANC Qf    [A.El-Kaabi 36>S.Saidi 54]
+21/01/18 Sudan           [MAR] d 0-0 [0-0]       -      ANC Rd 1
+17/01/18 Guinea          [MAR] w 3-1 [1-1]       -      ANC Rd 1  [A.El-Kaabi 27,65,68]
+13/01/18 Mauritania      [MAR] w 4-0 [0-0]        51000 ANC Rd 1  [A.El-Kaabi 66,79>I.El-Haddad 71>A.Bencharki 90+2]
+06/01/18 Cameroon        [MAR] w 3-1 [3-0]       -      Fr*       [M.Nahiri 31>A.El-Kaabi 33>I.El-Haddad 42]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+11/11/17 IVORY COAST     [CIV] W 2-0 [2-0]        32000 WCQ       [N.Dirar 24>M.Benatia 30]
+10/10/17 South Korea     [SUI] w 3-1 [2-0]         2000 Fr        [O.Tannane 7,11>I.El-Haddad 46]
+07/10/17 GABON           [MAR] W 3-0 [1-0]        25000 WCQ       [K.Boutaib 38,56,72]
+05/09/17 MALI            [MLI] D 0-0 [0-0]        20000 WCQ
+01/09/17 MALI            [MAR] W 6-0 [2-0]        42000 WCQ       [H.Ziyech 19Pen,61>K.Boutaib 27>A.Hakimi 72>F.Fajr 86>M.Mahi 88]
+18/08/17 Egypt           [MAR] w 3-1 [0-0]         3146 Ancq      [J.El-Yamiq 50>A.Makrane 53>B.Boulehroude 69Pen]
+11/08/17 Egypt           [EGY] d 1-1 [0-1]        10000 Ancq      [B.Banoun 52]
+10/06/17 CAMEROON        [CMR] L 0-1 [0-1]        20000 CANQ
+31/05/17 Netherlands     [MAR] l 1-2 [0-1]        25000 Fr        [M.Boussoufa 72]
+28/03/17 Tunisia         [MAR] w 1-0 [1-0]        10000 Fr        [H.Younes 14 OG]
+24/03/17 Burkina Faso    [MAR] w 2-0 [1-0]         5000 Fr        [F.Fajr 35>A.Bouhaddouz 64]
+29/01/17 EGYPT           [GAB] L 0-1 [0-0]         6000 CAN Qf
+24/01/17 IVORY COAST     [GAB] W 1-0 [0-0]         8000 CAN Rd 1  [R.Alioui 64]
+20/01/17 TOGO            [GAB] W 3-1 [2-1]         5000 CAN Rd 1  [A.Bouhaddouz 14>R.Saiss 21>Y.En-Nesyri 72]
+16/01/17 DR CONGO        [GAB] L 0-1 [0-0]         3000 CAN Rd 1
+09/01/17 Finland         [UAE] l 0-1 [0-1]         3800 Fr*
+----------------------------------------------------------------------------------------------------------------------------------------------------
+15/11/16 Togo            [MAR] w 2-1 [1-1]         4000 Fr        [K.Boutaib 17,58]
+12/11/16 IVORY COAST     [MAR] D 0-0 [0-0]        40000 WCQ
+11/10/16 Canada          [MAR] w 4-0 [1-0]         8000 Fr        [M.Gonzalez 12>H.Ziyech 65Pen,81Pen>R.Alioui 86]
+08/10/16 GABON           [GAB] D 0-0 [0-0]        18000 WCQ
+04/09/16 SAO TOME/PRIN.  [MAR] W 2-0 [0-0]        15000 CANQ      [H.Ziyech 55Pen>A.Bouhaddouz 83]
+31/08/16 Albania         [ALB] d 0-0 [0-0]         7000 Fr
+03/06/16 LIBYA           [TUN] D 1-1 [1-0]         1000 CANQ      [N.Dirar 36]
+27/05/16 Congo           [MAR] w 2-0 [1-0]        10000 Fr        [H.Ziyech 4,55Pen]
+29/03/16 CAPE VERDE ISL. [MAR] W 2-0 [0-0]        45000 CANQ      [Y.El-Arabi 56Pen,61]
+26/03/16 CAPE VERDE ISL. [CPV] W 1-0 [1-0]        10000 CANQ      [Y.El-Arabi 26Pen]
+24/01/16 Rwanda          [RWA] w 4-1 [4-1]        18000 Anc Rd 1  [A.Mouaoui 16,43>M.Aziz 24>A.Khadrouf 38]
+20/01/16 Ivory Coast     [RWA] l 0-1 [0-1]         7000 Anc Rd 1
+16/01/16 Gabon           [RWA] d 0-0 [0-0]        19000 Anc Rd 1
+----------------------------------------------------------------------------------------------------------------------------------------------------
+15/11/15 EQ. GUINEA      [EQG] L 0-1 [0-1]        20000 WCQ
+12/11/15 EQ. GUINEA      [MAR] W 2-0 [1-0]        32000 WCQ       [Y.El-Arabi 30>Y.Bammou 66]
+25/10/15 Tunisia         [TUN] w 3-2 [1-1]       -      Ancq      [A.Khadrouf 20>A.Achchakir 70Pen>M.Ounajem 84]
+22/10/15 Libya           [TUN] w 4-0 [2-0]       -      Ancq      [A.Ben Jelloun 26>A.El-Moubarki 39>R.Housni 84>M.Ounajem 90+4]
+12/10/15 Guinea          [MAR] d 1-1 [1-1]        10000 Fr        [O.El-Kaddouri 24Pen]
+09/10/15 Ivory Coast     [MAR] l 0-1 [0-0]        22000 Fr
+05/09/15 SAO TOME/PRIN.  [STP] W 3-0 [3-0]         5000 CANQ      [N.Amrabat 35>Y.El-Arabi 39>N.Dirar 42]
+21/06/15 Libya           [MAR] w 3-0 [2-0]        20000 Ancq      [M.Iajour 16>A.Hafidi 40>M.Saadane 73]
+15/06/15 Tunisia         [MAR] d 1-1 [0-1]        15000 Ancq      [A.Hafidi 68]
+12/06/15 LIBYA           [MAR] W 1-0 [0-0]        40000 CANQ      [O.El-Kaddouri 50]
+28/03/15 Uruguay         [MAR] l 0-1 [0-0]        58000 Fr
+----------------------------------------------------------------------------------------------------------------------------------------------------
+16/11/14 Zimbabwe U23    [MAR] w 2-1 [0-1]         3000 Fr*       [O.Assaidi 64>M.Iajour 79Pen]
+13/11/14 Benin           [MAR] w 6-1 [3-1]        15000 Fr        [N.Amrabat 7>A.Hamdallah 28,81>O.El-Kaddouri 31>A.El-Khaliqi 60>M.Chamakh 90]
+13/10/14 Kenya           [MAR] w 3-0 [0-0]         5000 Fr        [E.Karnass 77>M.Boussoufa 86Pen>M.Iajour 89]
+12/10/14 Mauritania      [MAR] w 5-0 [1-0]       -      Fr*       [A.Ben Jelloun 45>A.Nanah 78Pen,83>O.El-Mansouri 86>A.Khadrouf 90+3]
+09/10/14 Cen African Rep [MAR] w 4-0 [2-0]        31728 Fr        [A.Hamdallah 34,41,67>O.El-Kaddouri 57]
+07/09/14 Libya           [MAR] w 3-0 [1-0]         5000 Fr        [Y.Belhanda 42>A.Barrada 55>M.Iajour 88]
+03/09/14 Qatar           [MAR] d 0-0 [0-0]         9500 Fr
+06/06/14 Russia          [RUS] l 0-2 [0-1]         7000 Fr
+28/05/14 Angola          [POR] l 0-2 [0-0]          400 Fr
+23/05/14 Mozambique      [POR] w 4-0 [2-0]          100 Fr        [O.El-Kaddouri 29>Y.El-Arabi 36,88>A.Chahechouhe 64]
+05/03/14 Gabon           [MOR] d 1-1 [1-0]        10000 Fr        [Y.El-Arabi 27Pen]
+25/01/14 Nigeria         [RSA] l 3-4 [3-0] AET     8000 ANC Qf    [M.Moutouali 33,40>M.Iajour 37]
+20/01/14 Uganda          [RSA] w 3-1 [1-0]         2500 ANC Rd 1  [R.Abdessamad 29>M.Iajour 77>A.El-Ouadi 90+3]
+16/01/14 Burkina Faso    [RSA] d 1-1 [1-0]         3000 ANC Rd 1  [B.El-Bahri 1]
+12/01/14 Zimbabwe        [RSA] d 0-0 [0-0]         4000 ANC Rd 1
+----------------------------------------------------------------------------------------------------------------------------------------------------
+11/10/13 South Africa    [MAR] d 1-1 [0-1]        44000 Fr        [I.El-Adoua 50]
+07/09/13 IVORY COAST     [CIV] D 1-1 [0-0]        20000 WCQ       [Y.El-Arabi 52]
+14/08/13 Burkina Faso    [BFA] l 1-2 [1-0]        10000 Fr        [A.Barrada 64]
+13/07/13 Tunisia         [MAR] d 0-0 [0-0]       -      Ancq
+06/07/13 Tunisia         [TUN] w 1-0 [0-0]       -      Ancq      [A.El-Moubarki 89]
+15/06/13 GAMBIA          [MAR] W 2-0 [1-0]        15000 WCQ       [A.Barrada 3>Y.Belhanda 51]
+08/06/13 TANZANIA        [MAR] W 2-1 [1-0]        15000 WCQ       [A.Hamdallah 39Pen>Y.El-Arabi 51]
+24/03/13 TANZANIA        [TAN] L 1-3 [0-0]        40000 WCQ       [Y.El-Arabi 90+3]
+06/03/13 Mali            [MAR] w 2-1 [1-0]        -     Fr*       [H.Abourazzouk 42>M.Bemaamer 70]
+27/01/13 SOUTH AFRICA    [RSA] D 2-2 [1-0]        45000 CAN Rd 1  [I.El-Adoua 10>A.Hafidi 82]
+23/01/13 CAPE VERDE ISL. [RSA] D 1-1 [0-1]        25000 CAN Rd 1  [Y.El-Arabi 78]
+19/01/13 ANGOLA          [RSA] D 0-0 [0-0]        25000 CAN Rd 1
+12/01/13 Namibia         [RSA] w 2-1 [1-1]          100 Fr*       [M.El-Hamdaoui 2>Y.Kaddioui 80]
+08/01/13 Zambia          [RSA] d 0-0 [0-0]          100 Fr*
+----------------------------------------------------------------------------------------------------------------------------------------------------
+14/11/12 Togo            [MAR] l 0-1 [0-0]        25000 Fr
+13/10/12 MOZAMBIQUE      [MAR] W 4-0 [1-0]        40000 CANQ      [A.Barrada 39>H.Kharja 64Pen>Y.El-Arabi 85>N.Amrabat 90+4]
+09/09/12 MOZAMBIQUE      [MOZ] L 0-2 [0-0]        25000 CANQ
+15/08/12 Guinea          [MAR] l 1-2 [0-2]         5000 Fr        [Y.Salhi 90+2]
+06/07/12 Libya           [KSA] d 1-1 [1-0] [3-1]   2500 ARB Final*[B.El-Bahri 5]
+03/07/12 Iraq            [KSA] w 2-1 [2-0]         2500 ARAB Sf*  [O.El-Gharib 23>Y.Salhi 27]
+29/06/12 Yemen           [KSA] w 4-0 [1-0]       -      ARAB Rd 1*[Y.Salhi 9Pen,47,54,62Pen]
+26/06/12 Libya           [KSA] d 0-0 [0-0]       -      ARAB Rd 1*
+23/06/12 Bahrain         [KSA] w 4-0 [1-0]       -      ARAB Rd 1*[B.El-Bahri 15>Y.Salhi 77>W.Al-Hayam 83 OG>A.Ben Jelloun 90+3]
+09/06/12 IVORY COAST     [MAR] D 2-2 [1-1]        36000 WCQ       [H.Kharja 42>H.Abourazzouk 89]
+02/06/12 GAMBIA          [GMB] D 1-1 [0-1]        15000 WCQ       [H.Kharja 76]
+25/05/12 Senegal         [MAR] l 0-1 [0-1]         5000 Fr
+29/02/12 Burkina Faso    [MAR] w 2-0 [1-0]         5000 Fr        [M.Boussoufa 18>Y.El-Arabi 64]
+31/01/12 NIGER           [GAB] W 1-0 [0-0]         4000 CAN Rd 1  [Y.Belhanda 79]
+27/01/12 GABON           [GAB] L 2-3 [1-0]        38000 CAN Rd 1  [H.Kharja 25,90+1Pen]
+23/01/12 TUNISIA         [GAB] L 1-2 [0-1]        28000 CAN Rd 1  [H.Kharja 86]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+13/11/11 Cameroon        [MAR] d 1-1 [0-1] [2-4]  20000 LG Cup    [M.Boussoufa 90]
+11/11/11 Uganda          [MAR] l 0-1 [0-0]        10000 LG Cup
+09/10/11 TANZANIA        [MAR] W 3-1 [1-1]        38000 CANQ      [M.Chamakh 20>A.Taarabt 69>M.Boussoufa 89]
+04/09/11 CEN AFRICAN REP [CTA] D 0-0 [0-0]        20000 CANQ
+10/08/11 Senegal         [SEN] w 2-0 [2-0]         8000 Fr        [H.Kharja 9>Y.El-Arabi 24]
+04/06/11 ALGERIA         [MAR] W 4-0 [2-0]        20000 CANQ      [M.Benatia 27>M.Chamakh 39>Y.Hadji 60>O.Assaidi 69]
+30/03/11 Botswana        [MAR] d 1-1 [0-0]       -      Fr*       [H.Tair 48Pen]
+27/03/11 ALGERIA         [ALG] L 0-1 [0-1]        25000 CANQ
+09/02/11 Niger           [MAR] w 3-0 [1-0]        30000 Fr        [M.Boussoufa 16,82Pen>M.El-Bakkali 90+1]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+17/11/10 Nth. Ireland    [NIR] d 1-1 [0-0]        15000 Fr        [M.Chamakh 55]
+09/10/10 TANZANIA        [TAN] W 1-0 [1-0]        55000 CANQ      [M.El-Hamdaoui 43]
+04/09/10 CEN AFRICAN REP [MAR] D 0-0 [0-0]        20000 CANQ
+11/08/10 Eq. Guinea      [MAR] w 2-1 [0-1]        10000 Fr        [Y.Hadji 65,79]
+05/06/10 Tunisia         [MAR] d 2-2 [1-0]         5000 Ancq*     [A.Erbate 32Pen>R.Suleiman 85]
+23/05/10 Tunisia         [TUN] d 1-1 [1-0]         1000 Ancq*     [Y.Salhi 1]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+14/11/09 CAMEROON        [MAR] L 0-2 [0-1]        17000 WCQ/CANQ
+10/10/09 GABON           [GAB] L 1-3 [0-1]        14000 WCQ/CANQ  [A.Taarabt 88]
+06/09/09 TOGO            [TGO] D 1-1 [0-1]        24651 WCQ/CANQ  [A.Taarabt 90+2]
+12/08/09 Congo           [MAR] d 1-1 [1-1]         5000 Fr        [K.El-Ahmadi 44]
+20/06/09 TOGO            [MAR] D 0-0 [0-0]        22000 WCQ/CANQ
+07/06/09 CAMEROON        [CMR] D 0-0 [0-0]        35000 WCQ/CANQ
+31/03/09 Angola          [POR] w 2-0 [1-0]         2500 Fr        [A.Taarabt 9>M.Chamakh 50]
+28/03/09 GABON           [MAR] L 1-2 [0-2]        38000 WCQ/CANQ  [M.El-Hamdaoui 84]
+11/02/09 Czech Republic  [MAR] d 0-0 [0-0]        38000 Fr
+----------------------------------------------------------------------------------------------------------------------------------------------------
+13/12/08 Libya           [LBY] l 0-3 [0-1]        10000 Ancq*
+29/11/08 Libya           [MAR] w 3-1 [1-1]         5000 Ancq*     [M.Allaoui 12,63>M.Madihi 85]
+19/11/08 Zambia          [MAR] w 3-0 [2-0]         5000 Fr        [H.Kharja 2>T.Sektioui 24Pen>N.Baha 63]
+11/10/08 MAURITANIA      [MAR] W 4-1 [1-0]         1472 WCQ/CANQ  [Y.Safri 35>Y.Hadji 55,60>M.Zemmama 65]
+06/09/08 Oman            [OMA] d 0-0 [0-0]         3000 Fr
+20/08/08 Benin           [MAR] w 3-1 [1-1]         4000 Fr        [H.Kharja 24>Y.Safri 54Pen>M.Zerka 78]
+21/06/08 RWANDA          [MAR] W 2-0 [1-0]         2500 WCQ/CANQ  [Y.Safri 12Pen>N.El-Zhar 49]
+14/06/08 RWANDA          [RWA] L 1-3 [0-1]        12000 WCQ/CANQ  [Y.Safri 78]
+07/06/08 MAURITANIA      [MTN] W 4-1 [2-0]         9500 WCQ/CANQ  [T.Sektioui 9>A.Ben Jelloun 37>Y.Safri 58>H.Kharja 79]
+31/05/08 ETHIOPIA        [MAR] W 3-0 [2-0]         5000 WCQ/CANQ  [A.Ben Jelloun 4>H.Aboucharouane 13>H.Kharja 85]
+17/05/08 Algeria         [MAR] d 1-1 [1-0] [3-1]   5000 Ancq*     [M.Madihi 29]
+03/05/08 Algeria         [ALG] d 1-1 [1-1]         5000 Ancq*     [M.Ainy 32]
+26/03/08 Belgium         [BEL] w 4-1 [2-0]        15000 Fr        [S.Alloudi 14>T.Sektioui 34>N.El-Zhar 85>A.Ben Jelloun 89]
+28/01/08 GHANA           [GHA] L 0-2 [0-2]        40000 CAN Rd 1
+24/01/08 GUINEA          [GHA] L 2-3 [0-1]        15000 CAN Rd 1  [H.Aboucharouane 60>A.Ouaddou 90]
+21/01/08 NAMIBIA         [GHA] W 5-1 [4-1]         1000 CAN Rd 1  [S.Alloudi 2,5,28>T.Sektioui 39Pen>M.Zerka 73]
+16/01/08 Angola          [MAR] w 2-1 [1-1]        25000 Fr        [M.Chamakh 45+3>H.Aboucharouane 52]
+12/01/08 Zambia          [MAR] w 2-0 [0-0]        45000 Fr        [T.Sektioui 51Pen>S.Alloudi 60]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+21/11/07 Senegal         [FRA] w 3-0 [1-0]         6000 Fr        [H.Aboucharouane 36>Y.Mokhtari 65>S.Alloudi 75]
+16/11/07 France          [FRA] d 2-2 [1-1]        78000 Fr        [T.Sektioui 9>Y.Mokhtari 85]
+17/10/07 Namibia         [MAR] w 2-0 [0-0]         3000 Fr        [S.Alloudi 71>T.El-Karkouri 90]
+08/09/07 Ghana           [FRA] l 0-2 [0-0]         3000 Fr
+16/06/07 MALAWI          [MWL] W 1-0 [1-0]        30000 CANQ      [B.El-Moubarki 9]
+02/06/07 ZIMBABWE        [MAR] W 2-0 [2-0]        35000 CANQ      [M.Chamakh 3>Y.Hadji 26]
+25/03/07 ZIMBABWE        [ZIM] D 1-1 [1-0]        40000 CANQ      [Y.Hadji 7]
+07/02/07 Tunisia         [MAR] d 1-1 [1-0]        15000 Fr        [M.Chamakh 29]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+15/11/06 Gabon           [MAR] w 6-0 [1-0]         5000 Fr        [B.El-Moubarki 40,64>J.Ouaddouch 61>N.Boukhari 68>H.El-Mahdoufi 71>H.Souari 85]
+03/09/06 MALAWI          [MAR] W 2-0 [0-0]        15000 CANQ      [M.Chamakh 53>M.Boussoufa 75]
+16/08/06 Burkina Faso    [MAR] w 1-0 [1-0]         5000 Fr        [Y.Hadji 44]
+04/06/06 Colombia        [ESP] l 0-2 [0-1]        10500 Fr
+28/05/06 Mali            [FRA] l 0-1 [0-0]         1500 Fr
+23/05/06 United States   [USA] w 1-0 [0-0]        26141 Fr        [M.Madihi 90]
+28/01/06 LIBYA           [EGY] D 0-0 [0-0]         5000 CAN Rd 1
+24/01/06 EGYPT           [EGY] D 0-0 [0-0]        75000 CAN Rd 1
+21/01/06 IVORY COAST     [EGY] L 0-1 [0-1]         8000 CAN Rd 1
+17/01/06 Angola          [MAR] d 2-2 [2-1]         5000 Fr        [M.Chamakh 5>Y.Hadji 7]
+14/01/06 Zimbabwe        [MAR] w 1-0 [0-0]         2000 Fr        [M.Armoumen 89]
+09/01/06 DR Congo        [MAR] w 3-0 [1-0]        10000 Fr        [M.Chamakh 32>H.Aboucharouane 52>M.Armoumen 67]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+15/11/05 Cameroon        [FRA] d 0-0 [0-0]       Closed Fr
+08/10/05 TUNISIA         [TUN] D 2-2 [2-1]        60000 WCQ/CANQ  [M.Chamakh 3>T.El-Karkouri 42]
+03/09/05 BOTSWANA        [MAR] W 1-0 [0-0]        25000 WCQ/CANQ  [T.El-Karkouri 56]
+17/08/05 Togo            [FRA] l 0-1 [0-1]         2000 Fr
+18/06/05 KENYA           [KEN] D 0-0 [0-0]        50000 WCQ/CANQ
+04/06/05 MALAWI          [MAR] W 4-1 [2-1]        48000 WCQ/CANQ  [M.Chamakh 16>Y.Hadji 21,75>H.Kharja 72]
+26/03/05 GUINEA          [MAR] W 1-0 [0-0]        70000 WCQ/CANQ  [Y.Hadji 62]
+09/02/05 KENYA           [MAR] W 5-1 [2-0]        40000 WCQ/CANQ  [J.Zairi 12,39,90>M.Diane 46>Y.Hadji 81]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+17/11/04 Burkina Faso    [MAR] w 4-0 [0-0]         5000 Fr        [A.Oulmers 52>N.Boukhari 68>S.Sarsar 78>Y.Abdessadki 82]
+10/10/04 GUINEA          [GUI] D 1-1 [1-0]        25000 WCQ/CANQ  [M.Chamakh 5]
+04/09/04 TUNISIA         [MAR] D 1-1 [0-1]        45000 WCQ/CANQ  [T.El-Karkouri 74]
+03/07/04 BOTSWANA        [BOT] W 1-0 [0-0]        22000 WCQ/CANQ  [Y.Mokhtari 30]
+05/06/04 MALAWI          [MWL] D 1-1 [1-1]        30040 WCQ/CANQ  [Y.Safri 25]
+28/05/04 Mali            [MLI] d 0-0 [0-0]        35000 Fr
+28/04/04 Argentina       [MAR] l 0-1 [0-0]        65000 Fr
+31/03/04 Angola          [MAR] w 3-1 [0-0]         7000 Fr        [N.Baha 67,74>J.Zairi 77]
+18/02/04 Switzerland     [SUI] w 2-1 [0-0]         1700 Fr*       [A.Ajeddou 78>M.Iajour 82]
+14/02/04 TUNISIA         [TUN] L 1-2 [1-1]        60000 CAN Final [Y.Mokhtari 38]
+11/02/04 MALI            [TUN] W 4-0 [1-0]        15000 CAN Sf    [Y.Mokhtari 14,58>Y.Hadji 80>N.Baha 90]
+08/02/04 ALGERIA         [TUN] W 3-1 [0-0] AET    22000 CAN Qf    [M.Chamakh 90>Y.Hadji 113>J.Zairi 120]
+04/02/04 SOUTH AFRICA    [TUN] D 1-1 [1-1]         6000 CAN Rd 1  [Y.Safri 38Pen]
+31/01/04 BENIN           [TUN] W 4-0 [1-0]        20000 CAN Rd 1  [M.Chamakh 17>Y.Mokhtari 73>A.Ouaddou 75>T.El-Karkouri 80]
+27/01/04 NIGERIA         [TUN] W 1-0 [0-0]        15000 CAN Rd 1  [Y.Hadji 77]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+19/11/03 Mali            [MAR] l 0-1 [0-1]         6000 Fr
+15/11/03 Burkina Faso    [MAR] w 1-0 [1-0]        25000 Fr        [A.Ouaddou 24]
+11/10/03 Tunisia         [TUN] d 0-0 [0-0]        13000 Fr
+10/09/03 Trinidad/Tobago [MAR] w 2-0 [1-0]        15000 Fr        [M.Chamakh 38,49]
+06/07/03 EQ. GUINEA      [EQG] W 1-0 [0-0]         1000 CANQ      [J.Akkadar 61]
+20/06/03 GABON           [MAR] W 2-0 [1-0]        15000 CANQ      [M.El-Yaacoubi 22>J.Zairi 75]
+08/06/03 SIERRA LEONE    [MAR] W 1-0 [1-0]        25000 CANQ      [Y.Chippo 26]
+30/04/03 Ivory Coast     [MAR] l 0-1 [0-0]        20000 Fr
+29/03/03 SIERRA LEONE    [SLE] D 0-0 [0-0]        35000 CANQ
+12/02/03 Senegal         [FRA] w 1-0 [0-0]         8000 Fr        [A.Saber 63]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+28/12/02 Saudi Arabia    [KUW] l 0-2 [0-1]         2000 ARAB Sf*
+20/12/02 Palestine       [KUW] w 3-1 [2-0]          700 ARAB Rd 1*[M.Armoumen 30,40>S.Kharazi 88]
+18/12/02 Jordan          [KUW] d 1-1 [1-0]         1500 ARAB Rd 1*[Y.Kaissi 4]
+16/12/02 Kuwait          [KUW] d 1-1 [1-0]         7000 ARAB Rd 1*[B.El-Moubarki 26]
+20/11/02 Mali            [MAR] l 1-3 [1-0]        15000 Fr        [R.Rokki 5]
+13/10/02 EQ. GUINEA      [MAR] W 5-0 [4-0]        25000 CANQ      [A.Ramzi 8>M.Bidodane 24>Y.Safri 27>R.Rokki 45>N.Kacemi 70]
+03/10/02 Niger           [MAR] w 6-1 [2-0]         4300 Fr        [M.Bidodane 9>B.Bouden 29Pen>O.El-Assas 50>M.Jebrane 70>O.Hassi 78>H.Zerouali 83]
+07/09/02 GABON           [GAB] W 1-0 [1-0]        30000 CANQ      [Y.Chippo 19]
+21/08/02 Luxembourg      [LUX] w 2-0 [0-0]         1654 Fr        [M.Jebrane 72>N.Kacemi 84]
+30/01/02 SOUTH AFRICA    [MLI] L 1-3 [0-1]         5000 CAN Rd 1  [R.Benmahmoud 80Pen]
+26/01/02 BURKINA FASO    [MLI] W 2-1 [1-0]         6000 CAN Rd 1  [H.Zerouali 23,85]
+21/01/02 GHANA           [MLI] D 0-0 [0-0]         4000 CAN Rd 1
+16/01/02 Gambia          [GMB] w 2-0 [2-0]        10000 Fr        [A.Ramzi 15>A.Hadda 28]
+13/01/02 Guinea          [MAR] w 2-1 [1-1]         5000 Fr        [A.Hadda 10>A.Ramzi 49]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+12/12/01 Mali            [MAR] d 1-1 [1-1]         4000 Fr        [Y.Chippo 9Pen]
+14/11/01 Zambia          [MAR] w 1-0 [0-0]         2000 Fr        [R.Rokki 86Pen]
+14/10/01 Mali            [MLI] l 1-2 [1-2]        35000 MLI Tmt*  [R.Rokki 10]
+12/10/01 Gambia          [MLI] w 2-0 [1-0]        50000 MLI Tmt*  [H.Zerouali 25,55]
+05/09/01 Italy           [ITA] l 0-1 [0-1]        18740 Fr
+14/07/01 SENEGAL         [SEN] L 0-1 [0-1]        60000 WCQ
+30/06/01 EGYPT           [MAR] W 1-0 [1-0]        45000 WCQ       [M.Hadji 32]
+16/06/01 GABON           [MAR] L 0-1 [0-1]        12000 CANQ
+02/06/01 KENYA           [KEN] D 1-1 [1-1]        17000 CANQ      [S.Bassir 43]
+04/05/01 ALGERIA         [ALG] W 2-1 [1-1]        15000 WCQ       [R.Benmahmoud 17>G.Amzine 46]
+21/04/01 NAMIBIA         [MAR] W 3-0 [0-0]        15000 WCQ       [R.Rokki 48>A.Hadda 75,90]
+24/03/01 TUNISIA         [MAR] W 2-0 [1-0]        25000 CANQ      [Y.Chippo 20>A.Hadda 60]
+24/02/01 SENEGAL         [MAR] D 0-0 [0-0]        60000 WCQ
+14/02/01 U.A.E.          [UAE] d 1-1 [0-1]        10000 UAE Tmt   [T.Sektioui 75]
+11/02/01 Denmark         [UAE] w 4-2 [1-2]         1000 UAE Tmt*  [S.Bassir 4,68>R.Daoudi 44>B.El-Moubarki 81]
+08/02/01 South Korea     [UAE] d 1-1 [1-0]          500 UAE Tmt   [O.El-Assas 10]
+28/01/01 EGYPT           [EGY] D 0-0 [0-0]        60000 WCQ
+13/01/01 TUNISIA         [TUN] W 1-0 [0-0]        35000 CANQ      [A.Hadda 49]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+29/12/00 Basque Country  [ESP] l 2-3 [0-2]       -      Fr        [A.Hadda 55>O.Regragui 55]
+22/11/00 Libya           [MAR] d 0-0 [0-0]         6000 Fr
+08/10/00 KENYA           [MAR] W 1-0 [1-0]        20000 CANQ      [Y.Chippo 43]
+02/09/00 GABON           [GAB] L 0-2 [0-1]         4000 CANQ
+09/07/00 ALGERIA         [MAR] W 2-1 [0-1]        10000 WCQ       [A.Hadda 51,75]
+17/06/00 NAMIBIA         [NAM] D 0-0 [0-0]         5000 WCQ
+06/06/00 France          [MAR] l 1-5 [0-1]        55000 MOR Final [N.Naybet 66]
+04/06/00 Jamaica         [MAR] w 1-0 [0-0]        40000 MOR Sf    [H.Zerouali 61]
+22/04/00 GAMBIA          [MAR] W 2-0 [2-0]        10800 WCQ       [A.El-Khattari 17,31]
+09/04/00 GAMBIA          [GMB] W 1-0 [0-0]        20000 WCQ       [B.El-Moubarki 63]
+03/02/00 NIGERIA         [NGA] L 0-2 [0-1]        40000 CAN Rd 1
+29/01/00 TUNISIA         [NGA] D 0-0 [0-0]         5000 CAN Rd 1
+25/01/00 CONGO           [NGA] W 1-0 [0-0]         8000 CAN Rd 1  [S.Bassir 85]
+18/01/00 Trinidad/Tobago [MAR] w 1-0 [1-0]        10000 Fr        [M.Hadji 34]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+21/12/99 Senegal         [MAR] d 0-0 [0-0]         8000 Fr
+17/11/99 United States   [MAR] w 2-1 [2-1]        18000 Fr        [A.Ramzi 18>M.Hadji 27Pen]
+07/09/99 Belgium         [BEL] l 0-4 [0-3]        15000 Fr
+06/06/99 GUINEA          [MAR] W 1-0 [1-0]        70000 CANQ      [A.Hadda 6]
+28/04/99 Netherlands     [NED] w 2-1 [0-0]        26600 Fr        [Y.Chippo 58>S.Bassir 69]
+11/04/99 TOGO            [MAR] D 1-1 [1-0]        50000 CANQ      [Y.Chippo 38]
+28/02/99 TOGO            [TGO] W 3-2 [2-1]        15000 CANQ      [A.Hadda 2,72>M.Hadji 39]
+24/01/99 GUINEA          [GUI] D 1-1 [0-1]        18000 CANQ      [M.Hadji 46]
+20/01/99 France          [FRA] l 0-1 [0-0]        46756 Fr
+----------------------------------------------------------------------------------------------------------------------------------------------------
+23/12/98 Bulgaria        [MAR] w 4-1 [2-0]        25000 Fr        [N.Naybet 30>A.Hadda 44>S.Bassir 61>A.Ramzi 74]
+03/10/98 SIERRA LEONE    [MAR] W 3-0 [2-0]        25000 CANQ      [Y.Chippo 22>S.Bassir 42>A.Hadda 82]
+25/09/98 Sudan           [QAT] l 1-2 [1-2]        13000 ARAB Rd 1*[T.Sektioui 25]
+23/09/98 U.A.E.          [QAT] w 1-0 [0-0]         5000 ARAB Rd 1*[H.Termina 86]
+02/09/98 Senegal         [MAR] w 2-0 [1-0]        20000 Fr        [S.Chiba 30>S.Bassir 73]
+23/06/98 SCOTLAND        [FRA] W 3-0 [1-0]        30600 WCF Rd 1  [S.Bassir 22,84>A.Hadda 47]
+16/06/98 BRAZIL          [FRA] L 0-3 [0-2]        33266 WCF Rd 1
+10/06/98 NORWAY          [FRA] D 2-2 [1-1]        29800 WCF Rd 1  [M.Hadji 38>A.Hadda 59]
+04/06/98 Chile           [FRA] d 1-1 [0-0]         6000 Fr        [M.Hadji 46]
+29/05/98 France          [MAR] d 2-2 [1-1] [6-5]  65000 MOR Tmt   [S.Bassir 9,64]
+27/05/98 England         [MAR] l 0-1 [0-0]        80000 MOR Tmt
+22/04/98 Bulgaria        [BUL] l 1-2 [0-1]        18000 Fr        [S.Bassir 80]
+22/02/98 SOUTH AFRICA    [BFA] L 1-2 [1-1]         2000 CAN Qf    [S.Chiba 36]
+17/02/98 EGYPT           [BFA] W 1-0 [0-0]          500 CAN Rd 1  [M.Hadji 90]
+13/02/98 MOZAMBIQUE      [BFA] W 3-0 [2-0]         3000 CAN Rd 1  [S.Chiba 39>A.El-Khattabi 40>Y.Fertout 82]
+09/02/98 ZAMBIA          [BFA] D 1-1 [1-0]        10000 CAN Rd 1  [A.Bahja 37]
+05/02/98 Niger           [MAR] w 3-0 [2-0]         8000 Fr        [S.Bassir 15>Y.Chippo 19>A.Bahja 58Pen]
+14/01/98 Angola          [MAR] w 2-1 [0-1]        80000 Fr        [M.Hadji 51>A.Ouakili 58]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+26/11/97 Togo            [MAR] w 3-0 [0-0]         3000 Fr        [L.Abrami 56Pen>A.Hadda 72>A.Ouakili 88]
+09/10/97 Brazil          [BRZ] l 0-2 [0-0]        45000 Fr
+17/08/97 GABON           [MAR] W 2-0 [2-0]        25000 WCQ       [N.Naybet 24>A.Bahja 40Pen]
+27/07/97 SENEGAL         [MAR] W 3-0 [2-0]        20000 CANQ      [S.Bassir 11,67>S.Chiba 40]
+13/07/97 ETHIOPIA        [ETH] W 1-0 [1-0]        20000 CANQ      [S.Bassir 21]
+21/06/97 EGYPT           [MAR] W 1-0 [0-0]        80000 CANQ      [S.Bassir 71]
+07/06/97 GHANA           [MAR] W 1-0 [0-0]        60000 WCQ       [K.Raghib 67]
+31/05/97 ETHIOPIA        [MAR] W 4-0 [3-0]        30000 CANQ      [S.Chiba 8>A.Bahja 18>N.Naybet 34>A.El-Hadrioui 81]
+26/04/97 SIERRA LEONE    [SLE] W 1-0 [1-0]        45000 WCQ       [S.Bassir 40]
+06/04/97 GABON           [GAB] W 4-0 [4-0] [a53]  35000 WCQ       [S.Bassir 10,14>A.Bahja 43,44]
+22/02/97 SENEGAL         [SEN] D 0-0 [0-0]        30000 CANQ
+12/01/97 GHANA           [GHA] D 2-2 [1-0]        45000 WCQ       [S.Bassir 30>M.Hadji 70]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+12/12/96 Nigeria         [MAR] w 2-0 [0-0]        75000 MOR 3-4   [S.Bassir 49>A.Jrindou 90]
+11/12/96 Croatia         [MAR] d 2-2 [1-2] [6-7]  80000 MOR Sf    [S.Bassir 21>A.Bahja 72]
+09/11/96 SIERRA LEONE    [MAR] W 4-0 [1-0]        30000 WCQ       [L.Hababi 18>K.Raghib 50,55>Y.Fertout 57]
+04/10/96 EGYPT           [EGY] D 1-1 [0-0]        50000 CANQ      [S.Bassir 76]
+29/08/96 Zaire           [MAR] w 7-0 [4-0]        10000 Fr        [M.Hadji 22>Y.Fertout 24,32,90>H.Nader 36>K.Raghib 70>L.Abrami 72Pen]
+26/03/96 U.A.E.          [UAE] l 0-1 [0-0]        12000 UAE Tmt
+23/03/96 South Korea     [UAE] d 2-2 [2-1]         6000 UAE Tmt   [A.Fahmi 35>A.Nazir 37]
+20/03/96 Egypt           [UAE] w 2-0 [1-0]        12000 UAE Tmt   [A.El-Hadrioui 9>R.Benmahmoud 80]
+07/02/96 Luxembourg      [MAR] w 2-0 [1-0]        20000 Fr        [J.Sellami 36>A.Hadda 79]
+23/01/96 France U21      [FRA] l 0-1 [0-0]         1500 Fr*
+17/01/96 Armenia         [FRA] w 6-0 [4-0]          400 Fr        [L.Hababi 5,37>S.Bassir 31>M.Khalif 39>A.Hadda 82>J.Sellami 85]
+03/01/96 Tunisia         [MAR] w 3-1 [2-1]         7000 Fr        [Y.Fertout 3>S.Bassir 20>A.Hadda 70]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+15/11/95 Mali            [MAR] w 2-0 [1-0]         2000 Fr        [A.Fahmi 9>M.Hadji 60]
+04/06/95 IVORY COAST     [CIV] L 0-2 [0-1]        45000 CANQ
+17/05/95 Egypt           [MAR] d 0-0 [0-0]        15000 Fr
+09/04/95 BURKINA FASO    [MAR] D 0-0 [0-0]        45000 CANQ
+23/03/95 Mali            [MAR] w 3-0 [1-0]       -      Fr        [H.Nader 4>Hammou 76>S.Chiba 90]
+01/03/95 Senegal         [MAR] w 2-0 [2-0]        30000 Fr        [Darouiche 5,26]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+13/11/94 IVORY COAST     [MAR] W 1-0 [1-0]        12000 CANQ      [H.Nader 15]
+07/11/94 Cameroon        [MAR] d 1-1 [0-0]         6000 Fr        [I.El-Loumari 80]
+04/09/94 BURKINA FASO    [BFA] L 1-2 [1-0]        25000 CANQ      [T.El-Khalej 32]
+29/06/94 NETHERLANDS     [USA] L 1-2 [0-1]        60578 WCF Rd 1  [H.Nader 47]
+25/06/94 SAUDI ARABIA    [USA] L 1-2 [1-2]        76322 WCF Rd 1  [M.Chaouch 26]
+19/06/94 BELGIUM         [USA] L 0-1 [0-1]        61219 WCF Rd 1
+01/06/94 Canada          [CAN] d 1-1 [0-0]         3816 Fr        [M.Chaouch 57]
+20/04/94 Argentina       [ARG] l 1-3 [1-1]        35000 Fr        [M.Chaouch 43]
+23/03/94 Luxembourg      [LUX] w 2-1 [1-0]          500 Fr        [L.Hababi 45+2>A.El-Hadrioui 90+1]
+23/02/94 Finland         [MAR] d 0-0 [0-0]        12000 Fr
+06/02/94 Slovakia        [UAE] w 2-1 [1-1]         8000 UAE Tmt   [Y.Fertout 23>A.El-Hadrioui 87]
+04/02/94 U.A.E.          [UAE] d 1-1 [0-0]         5000 UAE Tmt   [Y.Fertout 73]
+02/02/94 Egypt           [UAE] d 1-1 [1-0]         2000 UAE Tmt   [R.Daoudi 44Pen]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+10/10/93 ZAMBIA          [MAR] W 1-0 [0-0]       105000 WCQ       [A.El-Ghrissi 50]
+27/09/93 Gabon           [FRA] w 1-0 [0-0]         1500 Fr*       [V.Ondo 58 OG]
+22/09/93 Algeria         [MAR] d 0-0 [0-0]        12000 Fr
+15/09/93 Mali            [MAR] w 3-0 [2-0]         8000 Fr        [A.El-Ghrissi 25,55>M.Chaouch 37]
+24/07/93 MALAWI          [MWL] W 2-0 [1-0]        20000 CANQ      [M.Sabak 33Pen>S.Rokbi 80]
+17/07/93 SENEGAL         [SEN] W 3-1 [1-0]        43412 WCQ       [A.Bouyboud 9>R.Daoudi 62>Y.Fertout 74]
+11/07/93 EGYPT           [EGY] D 1-1 [1-0]        15000 CANQ      [A.El-Ghrissi 22]
+04/07/93 ZAMBIA          [ZAM] L 1-2 [1-0]        50000 WCQ       [R.Daoudi 16]
+25/04/93 MALI            [MAR] W 1-0 [0-0]        20000 CANQ      [Y.Fertout 76]
+18/04/93 SENEGAL         [MAR] W 1-0 [0-0]        75000 WCQ       [M.Chaouch 82]
+11/04/93 MALAWI          [MAR] L 0-1 [0-0]        22000 CANQ
+28/02/93 TUNISIA         [MAR] D 0-0 [0-0]        25000 WCQ
+31/01/93 BENIN           [MAR] W 5-0 [3-0]         9602 WCQ       [M.Chaouch 2,17>T.El-Khalej 42>L.Abrami 60>A.Mezyane 72]
+17/01/93 ETHIOPIA        [ETH] W 1-0 [1-0]        12757 WCQ       [Y.Fertout 18]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+20/12/92 TUNISIA         [TUN] D 1-1 [0-1]        36950 WCQ       [A.Bouyboud 86]
+08/11/92 EGYPT           [MAR] D 0-0 [0-0]        40000 CANQ
+25/10/92 BENIN           [BEN] W 1-0 [0-0]        10000 WCQ       [R.Daoudi 49]
+11/10/92 ETHIOPIA        [MAR] W 5-0 [4-0]         6820 WCQ       [M.Chaouch 2,29>Y.Fertout 14>M.Lashaf 41>M.Samadi 60]
+04/10/92 MALI            [MLI] L 1-2 [0-1]        25000 CANQ      [T.El-Khalej 89]
+08/04/92 Spain B         [ESP] l 0-6 [0-3]        30000 Fr*
+18/03/92 United States   [MAR] w 3-1 [2-0]        20000 Fr        [A.Bahja 4>S.Rokbi 25>S.Chiba 81]
+14/01/92 ZAIRE           [SEN] D 1-1 [0-0]         5000 CAN Rd 1  [S.Rokbi 89]
+12/01/92 CAMEROON        [SEN] L 0-1 [0-1]        70000 CAN Rd 1
+----------------------------------------------------------------------------------------------------------------------------------------------------
+26/12/91 Algeria         [MAR] d 1-1 [0-0]        21500 Fr        [K.Raghib 70]
+04/12/91 Mali            [MAR] w 3-0 [2-0]        12000 Fr        [H.Amouta 13>S.Rokbi 26>H.Dmaei 55]
+28/07/91 IVORY COAST     [CIV] L 0-2 [0-1]        20000 CANQ
+12/04/91 MAURITANIA      [MTN] W 2-0 [0-0]         8000 CANQ      [A.El-Ghrissi 46>A.Bouderbala 66]
+03/04/91 Algeria         [ALG] d 2-2 [2-0]        12000 Fr        [A.El-Ghrissi 9,44]
+27/03/91 Greece          [MAR] d 0-0 [0-0]         3000 Fr
+27/01/91 NIGER           [NIG] L 0-1 [0-1]        25000 CANQ
+13/01/91 IVORY COAST     [MAR] W 3-1 [1-0]        18000 CANQ      [A.El-Ghrissi 9,72>M.Lashaf 48]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+19/12/90 Senegal         [MAR] d 0-0 [0-0]        11000 Fr
+12/09/90 Ireland         [IRE] l 0-1 [0-0]        19450 Fr
+02/09/90 MAURITANIA      [MAR] W 4-0 [3-0]        12000 CANQ      [H.Nader 8>A.Bouderbala 38>K.Raghib 44>A.El-Ghrissi 63]
+19/08/90 NIGER           [MAR] W 2-0 [1-0]        15000 CANQ      [L.Hababi 18Pen>A.El-Ghrissi 89]
+09/08/90 Tunisia         [TUN] d 0-0 [0-0]        20000 Fr
+23/05/90 Ivory Coast     [MAR] w 2-1 [-/-]         5000 Fr        [R.Daoudi x2]
+09/05/90 U.A.E.          [MAR] w 3-1 [3-0]         5000 Fr        [H.Nader 25>A.Khairi 26>A.El-Ghrissi 31]
+17/01/90 Spain B         [MAR] l 1-2 [0-2]        10000 Fr*       [S.Rokbi 84]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+27/08/89 ZAIRE           [MAR] D 1-1 [0-0]         1839 WCQ       [M.Madihi 58]
+13/08/89 TUNISIA         [MAR] D 0-0 [0-0]        35111 WCQ
+25/06/89 ZAMBIA          [ZAM] L 1-2 [0-1]        40000 WCQ       [M.Timoumi 73]
+11/06/89 ZAIRE           [ZAI] D 0-0 [0-0]        80000 WCQ
+24/05/89 Algeria         [MAR] w 1-0 [1-0]        15000 Fr        [H.Nader 18]
+23/04/89 MALI            [MAR] D 1-1 [1-1]        20000 CANQ      [H.Nader 20]
+09/04/89 MALI            [MLI] D 0-0 [0-0]        25000 CANQ
+01/04/89 Senegal         [SEN] l 1-2 [1-2]         5000 Fr        [A.Rhiati 24]
+22/03/89 Algeria         [ALG] d 1-1 [1-1]        15000 Fr        [A.Haidamou 24]
+22/01/89 TUNISIA         [TUN] L 1-2 [1-2]        45000 WCQ       [A.Bouderbala 4]
+08/01/89 ZAMBIA          [MAR] W 1-0 [1-0]        35000 WCQ       [A.Rhiati 40]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+22/12/88 Guinea          [MAR] w 1-0 [0-0]         1000 Fr        [H.Fadil 78]
+15/12/88 Gabon           [MAR] w 5-2 [3-1]         7000 Fr        [A.El-Ghrissi 10,16,61>A.Ouzougate 26Pen>A.Rhiati 76]
+06/12/88 Egypt           [MAR] d 0-0 [0-0]        10000 Fr
+26/03/88 ALGERIA         [MAR] D 1-1 [0-0] [3-4]  10000 CAN 3-4   [H.Nader 67]
+23/03/88 CAMEROON        [MAR] L 0-1 [0-0]        45000 CAN Sf
+19/03/88 IVORY COAST     [MAR] D 0-0 [0-0]        80000 CAN Rd 1
+16/03/88 ALGERIA         [MAR] W 1-0 [0-0]        78000 CAN Rd 1  [M.El-Haddaoui 51]
+13/03/88 ZAIRE           [MAR] D 1-1 [1-0]        80000 CAN Rd 1  [A.Krimau 43Pen]
+02/03/88 East Germany    [MAR] w 2-1 [1-0]         5000 Fr        [A.Khairi 23>A.Hamraoui 89]
+05/02/88 France          [FRA] l 1-2 [1-1]        10000 Tournoi   [A.Lamriss 34]
+02/02/88 Austria         [FRA] w 3-1 [0-1]        15000 Tournoi*  [M.Lachabi 54>M.El-Gharef 56,63]
+30/01/88 Tunisia         [MAR] d 2-2 [2-1]        70000 Ogq       [A.Khairi 26>A>Krimau 32]
+17/01/88 Tunisia         [TUN] l 0-1 [0-1]        45000 Ogq
+----------------------------------------------------------------------------------------------------------------------------------------------------
+15/11/87 Ivory Coast     [MAR] w 2-1 [1-0]        80000 Ogq       [M.El-Haddaoui 28Pen>M.El-Biyaz 86]
+01/11/87 Ivory Coast     [CIV] d 0-0 [0-0]        25000 Ogq
+29/07/87 Liberia         [LBR] l 1-2 [-/-]        20000 LBR IND   []
+17/06/87 Chile B         [KOR] w 3-1 [-/-]         1000 KOR Rd 1* [A.Khairi x2>A.El-Ghrissi]
+11/06/87 South Korea B   [KOR] l 0-1 [0-0]         5000 KOR Rd 1*
+09/06/87 Australia       [KOR] l 0-1 [0-0]         3000 KOR Rd 1
+18/02/87 France Oly      [MAR] d 1-1 [1-1]       -      Fr*       [N.Hassan 27]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+24/09/86 Spain B         [MAR] d 0-0 [0-0]        30000 Fr*
+17/06/86 WEST GERMANY    [MEX] L 0-1 [0-0]        19800 WCF Rd 2
+11/06/86 PORTUGAL        [MEX] W 3-1 [2-0]        28000 WCF Rd 1  [A.Khairi 19,27>A.Krimau 62]
+06/06/86 ENGLAND         [MEX] D 0-0 [0-0]        20200 WCF Rd 1
+02/06/86 POLAND          [MEX] D 0-0 [0-0]        19900 WCF Rd 1
+23/04/86 Nth. Ireland    [NIR] l 1-2 [0-1]        12000 Fr        [M.Timoumi 65Pen]
+20/03/86 IVORY COAST     [EGY] L 2-3 [1-2]         1000 CAN 3-4   [A.Rhiati 44>M.Sahil 78]
+17/03/86 EGYPT           [EGY] L 0-1 [0-0]        95000 CAN Sf
+14/03/86 ZAMBIA          [EGY] W 1-0 [1-0]         5000 CAN Rd 1  [J.Chilenga 18 OG]
+11/03/86 CAMEROON        [EGY] D 1-1 [0-0]         8000 CAN Rd 1  [A.Krimau 63]
+08/03/86 ALGERIA         [EGY] D 0-0 [0-0]        12000 CAN Rd 1
+19/02/86 Bulgaria        [MAR] d 0-0 [0-0]        22000 Fr
+29/01/86 Spain B         [ESP] l 0-3 [0-1]        15000 Fr*
+----------------------------------------------------------------------------------------------------------------------------------------------------
+18/10/85 LIBYA           [LBY] L 0-1 [0-1]        40000 WCQ
+06/10/85 LIBYA           [MAR] W 3-0 [1-0]        60000 WCQ       [M.Merry 44Pen>M.Timoumi 85>A.Bouderbala 90]
+08/09/85 ZAIRE           [ZAI] D 0-0 [0-0]        50000 CANQ
+25/08/85 ZAIRE           [MAR] W 1-0 [0-0]        80000 CANQ      [M.Merry 46Pen]
+16/08/85 Iraq B          [MAR] l 0-1 [0-1]        60000 PAG Final*
+13/08/85 Algeria B       [MAR] w 1-0 [0-0] AET    15000 PAG Sf*   [A.Lamriss]
+10/08/85 Mauritania      [MAR] w 3-0 [-/-]         1000 PAG Rd 1  [A.Souadi>M.Timoumi>]
+07/08/85 Tunisia         [MAR] d 2-2 [0-2]        10000 PAG Rd 1  [K.Ben Yahia 55 OG>H.Anafal 60]
+04/08/85 Somalia         [MAR] w 3-0 [-/-]         1000 PAG Rd 1  [A.El-Ghrissi>M.Timoumi x2]
+28/07/85 EGYPT           [MAR] W 2-0 [1-0]        50000 WCQ       [M.Timoumi 37>A.Bouderbala 85]
+12/07/85 EGYPT           [EGY] D 0-0 [0-0]        75000 WCQ
+21/04/85 MALAWI          [MWL] D 0-0 [0-0]        20000 WCQ
+07/04/85 MALAWI          [MAR] W 2-0 [1-0]        20862 WCQ       [M.El-Haddaoui 10>S.Dahani 73]
+02/02/85 U.S.S.R.        [IND] l 0-1 [0-1]        10000 Nehru Sf
+31/01/85 India           [IND] w 1-0 [1-0]        15000 Nehru Rd1 [F.Rajhy 34]
+26/01/85 South Korea U20 [IND] d 2-2 [1-1]         1000 Nehru Rd1*[M.Timoumi 29>M.El-Biyaz 78]
+22/01/85 Algeria B       [IND] w 4-0 [2-0]         1000 Nehru Rd1*[A.Benhaki 12>M.El-Biyaz 44>M.Timoumi 56>S.Dahane 64]
+02/01/85 Libya           [LBY] d 0-0 [0-0]        10000 Fr
+----------------------------------------------------------------------------------------------------------------------------------------------------
+24/10/84 Canada          [MAR] w 3-2 [-/0]        15000 Fr        [M.El-Haddaoui x2>M.Gharghouch]
+03/08/84 Brazil          [USA] l 0-2 [0-0]        49355 OLY Rd 1*
+01/08/84 Saudi Arabia    [USA] w 1-0 [0-0]        36909 OLY Rd 1* [M.Merry 72]
+26/07/84 West Germany    [USA] l 0-2 [0-1]        23228 OLY Rd 1*
+15/07/84 SIERRA LEONE    [MAR] W 4-0 [1-0]        25000 WCQ       [M.Merry 34,77>S.Dahani 51Pen>K.El-Bied 81]
+30/06/84 SIERRA LEONE    [SLE] W 1-0 [0-0]        15000 WCQ       [M.Merry 87]
+23/06/84 Senegal         [MAR] w 2-1 [-/-]        10000 Fr        [A.El-Ghrissi>S.Dahani]
+26/02/84 Nigeria         [MAR] d 0-0 [0-0] [4-3]  90000 Ogq
+11/02/84 Nigeria         [NGA] d 0-0 [0-0]        80000 Ogq
+04/02/84 Bulgaria        [MAR] d 1-1 [0-0]        47500 Fr        [K.Khalifa 62Pen]
+15/01/84 Ivory Coast     [CIV] d 3-3 [-/-]        15000 Fr        [A.Bouderbala>K.Khalifa>A.Amanallah]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+09/10/83 Senegal         [SEN] d 1-1 [-/-]        18000 Ogq       [A.Souadi Pen]
+25/09/83 Senegal         [MAR] w 1-0 [-/0]        40000 Ogq       [M.El-Haddaoui Pen]
+18/09/83 Turkey Am       [MAR] w 3-0 [2-0]        80000 MED Final*[M.El-Haddaoui 25>A.Souadi 45>K.El-Bied 80]
+15/09/83 Egypt           [MAR] w 2-1 [1-0]        60000 MED Sf    [M.El-Haddaoui 16,25]
+13/09/83 Libya           [MAR] w 2-0 [-/-]        15000 MED Rd 1  [M.El-Haddaoui>K.Khalifa]
+09/09/83 Greece Am       [MAR] d 0-0 [0-0]        10000 MED Rd 1*
+28/08/83 NIGERIA         [MAR] D 0-0 [0-0] [3-4]  60000 CANQ
+14/08/83 NIGERIA         [NGA] D 0-0 [0-0]        20000 CANQ
+29/05/83 Guinea          [MAR] w 3-0 [1-0]        30000 Ogq       [A.Krimau 5>]
+15/05/83 Guinea          [GUI] d 0-0 [0-0]        25000 Ogq
+24/04/83 MALI            [MLI] L 0-2 [0/-]        15000 CANQ
+10/04/83 MALI            [MAR] W 4-0 [2-0]        30000 CANQ      [A.Krimau 10,81>A.Bouderbala 44,64]
+23/03/83 Tunisia         [TUN] l 0-1 [0-1]        15000 Fr
+10/03/83 Senegal         [SEN] d 0-0 [0-0]       -      Fr*
+09/03/83 Senegal         [SEN] l 0-1 [0/-]         5000 Fr
+----------------------------------------------------------------------------------------------------------------------------------------------------
+03/10/82 Saudi Arabia    [KSA] l 1-2 [1-1]        15000 Fr        [A.Bouderbala 41]
+25/07/82 Hong Kong       [PRC] d 0-0 [0-0]         5000 PRC Rd 1
+24/07/82 China           [PRC] d 3-3 [2-1]        30000 PRC Rd 1  [15,42,65]
+03/06/82 Kuwait          [MAR] d 3-3 [1-2]        15000 Fr        [M.Taissir 10,86>S.Dahani 89]
+12/05/82 Senegal         [SEN] w 2-1 [-/1]         5000 Fr        []
+----------------------------------------------------------------------------------------------------------------------------------------------------
+29/11/81 CAMEROON        [CMR] L 1-2 [1-1]       100000 WCQ       [M.Yaghcha 25Pen]
+15/11/81 CAMEROON        [MAR] L 0-2 [0-2]        16000 WCQ
+01/11/81 Senegal         [SEN] l 0-2 [0/-]         5000 Fr
+02/09/81 Tunisia         [MAR] d 2-2 [-/0]        10000 Fr        [M.Bousati>A.Bouderbala]
+30/08/81 ZAMBIA          [ZAM] L 0-2 [0-1]        30000 CANQ
+16/08/81 ZAMBIA          [MAR] W 2-1 [1/-]        10000 CANQ      [A.Limane 16>M.Bousati 77]
+08/05/81 EGYPT           [EGY] D 0-0 [0-0]       100000 WCQ
+26/04/81 EGYPT           [MAR] W 1-0 [1-0]        30265 WCQ       [A.Daidi 44]
+04/04/81 LIBERIA         [LBR] W 5-0 [-/0]         5000 CANQ      [A.Bouderbala>]
+22/03/81 LIBERIA         [MAR] W 3-1 [-/-]        10000 CANQ      [M.Bousati>A.Bouderbala x2]
+08/03/81 Iraq            [MAR] d 1-1 [-/-]        10000 Fr        [M.Bousati]
+15/02/81 Syria           [MAR] w 3-0 [-/0]        10000 Fr        [J.Jebrane>]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+30/11/80 ZAMBIA          [ZAM] L 0-2 [0-0] [5-4]   6334 WCQ
+16/11/80 ZAMBIA          [MAR] W 2-0 [2-0]         6375 WCQ       [M.Bousati 30>A.Limane 34]
+03/11/80 Singapore       [SIN] w 1-0 [0-0]        20000 Fr        [M.Taissir 89]
+02/11/80 Malaysia        [MAL] w 2-1 [1-0] AET    40000 MER Final [H.Khourag 41>K.Khalifa 112]
+31/10/80 Kuwait U20      [MAL] w 3-0 [1-0]         5000 MER Rd 1* [A.Fathi 4>H.Khourag 72>M.Sghir 90]
+29/10/80 Indonesia       [MAL] w 2-0 [2-0]        10000 MER Rd 1  [M.Taissir 16,33]
+26/10/80 New Zealand     [MAL] w 3-0 [1-0]        24500 MER Rd 1  [A.Fathi 26>J.Leijh 62 OG>H.Khourag 76]
+23/10/80 South Korea     [MAL] d 1-1 [0-1]        10000 MER Rd 1  [M.Sghir 51Pen]
+20/10/80 Burma           [MAL] d 2-2 [1-0]         5000 MER Rd 1  [A.Fathi 19>H.Khourag 69]
+17/10/80 Thailand        [MAL] w 2-1 [1-0]        10000 MER Rd 1  [H.Khourag 45>A.Marzak 53]
+15/10/80 Malaysia        [MAL] l 0-2 [0-0]        30000 MER Rd 1
+06/07/80 SENEGAL         [MAR] D 0-0 [0-0]        15032 WCQ
+22/06/80 SENEGAL         [SEN] W 1-0 [1-0]         7872 WCQ       [M.Timoumi 21]
+08/06/80 Tunisia         [TUN] w 1-0 [1-0]        15000 Fr        [A.Bouderbala 39]
+21/03/80 EGYPT           [NGA] W 2-0 [1-0]         3000 CAN 3-4   [K.El-Bied 9,78]
+19/03/80 NIGERIA         [NGA] L 0-1 [0-1]        70000 CAN Sf
+16/03/80 GHANA           [NGA] W 1-0 [1-0]        20000 CAN Rd 1  [K.El-Bied 44]
+13/03/80 ALGERIA         [NGA] L 0-1 [0-0]        20000 CAN Rd 1
+09/03/80 GUINEA          [NGA] D 1-1 [1-1]        50000 CAN Rd 1  [M.Tahir 7]
+27/02/80 Tunisia         [MAR] d 0-0 [0-0]        15000 Fr
+25/02/80 Senegal         [MAR] w 3-2 [-/-]         5000 Fr        [K.El-Bied x2>M.Timoumi]
+17/02/80 Poland          [MAR] w 1-0 [0-0]        20000 Fr        [J.Jebrane 47]
+12/02/80 Ivory Coast     [CIV] d 4-4 [-/-]        10000 Fr        []
+----------------------------------------------------------------------------------------------------------------------------------------------------
+21/12/79 Algeria         [ALG] l 0-3 [0-1]        50000 Ogq
+09/12/79 Algeria         [MAR] l 1-5 [1-2]         8000 Ogq       [A.Limane 43Pen]
+25/09/79 Yugoslavia Am   [YUG] l 1-2 [0-1]        12000 MED Rd 1* [M.Boussati 50]
+23/09/79 Egypt           [YUG] d 0-0 [0-0]        14000 MED Rd 1
+21/09/79 Greece Am       [YUG] d 1-1 [-/-]       -      MED Rd 1* [A.Dolmy]
+06/07/79 TOGO            [TGO] L 1-2 [0-1]         1000 CANQ      [A.Beggar]
+24/06/79 TOGO            [MAR] W 7-0 [3-0]        25000 CANQ      [A.Faras 9>H.Amcharrat 16>A.Dolmy 44>J.Jebrane 54,70,86>K.El-Bied 80]
+22/04/79 Senegal         [SEN] l 0-1 [0/-] [6-5]  15000 Ogq
+15/04/79 Senegal         [MAR] w 1-0 [1-0]        25000 Ogq       [H.Amcharrat 26]
+08/04/79 MAURITANIA      [MAR] W 4-1 [4-0]        10000 CANQ      [H.Anafal 1>H.Amcharrat 6>A.Saber 12>A.Faras 26]
+18/02/79 MAURITANIA      [MTN] D 2-2 [0-1]         1000 CANQ      [H.Belhiouane 6>H.Anafal 48]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+21/09/78 South Korea B   [KOR] l 1-2 [-/-]       -      KOR 3-4*  []
+13/09/78 New Zealand     [KOR] w 3-0 [0-0]       -      KOR Rd 1* [A.Amanallah 48>K.El-Bied 55>M.Dariouch 85]
+11/03/78 UGANDA          [GHA] L 0-3 [0-3]         5000 CAN Rd 1
+09/03/78 CONGO           [GHA] W 1-0 [1-0]         5000 CAN Rd 1  [H.Amcharrat 28]
+06/03/78 TUNISIA         [GHA] D 1-1 [1-0]         5000 CAN Rd 1  [H.Amcharrat 29]
+26/02/78 U.S.S.R.        [MAR] l 2-3 [1-2]        15000 Fr        [M.El-Fetoui 6>H.Amcharrat 74]
+18/01/78 Libya           [LBY] w 1-0 [-/0]        10000 Fr        []
+----------------------------------------------------------------------------------------------------------------------------------------------------
+26/12/77 Iraq            [MAR] d 0-0 [0-0]        10000 Fr
+09/12/77 Iraq            [IRQ] l 0-3 [0-1]        15000 Fr
+29/07/77 China B         [PRC] l 2-3 [-/-]         5000 PRC 7-8*  [M.Darouich x2]
+27/07/77 Iran            [PRC] d 1-1 [-/-] [3-4]   1000 PRC 5-8   [A.Sheita]
+25/07/77 China           [PRC] l 2-3 [-/-] AET    20000 PRC Qf    []
+23/07/77 Japan B         [PRC] w 4-0 [-/-]         1000 PRC Rd 1* [A.Sheita 37>K.El-Bied>]
+21/07/77 China U20       [PRC] d 1-1 [1-1]         5000 PRC Rd 1* [OG 35]
+28/05/77 Senegal         [SEN] w 3-2 [-/-]         5000 Fr        [M.Bousati x3]
+06/04/77 Gabon           [MAR] w 5-1 [-/-]         5000 Fr        [A.Tazi>H.Amcharrat>M.Bousati x2>H.Anafal]
+23/03/77 Syria           [SYR] w 2-0 [-/0]         5000 Fr        []
+05/02/77 Gabon           [GAB] w 1-0 [1-0]        45000 Fr        [M.Bousati 33]
+09/01/77 TUNISIA         [TUN] D 1-1 [0-1] [2-4]  44500 WCQ       [M.Tahir 55]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+12/12/76 TUNISIA         [MAR] D 1-1 [1-0]        13056 WCQ       [A.Lakdhal 35]
+18/10/76 Syria           [SYR] d 0-0 [0-0]        10000 PAG
+16/10/76 Mauritania      [SYR] w 2-0 [1-0]          500 PAG       [A.Faras 15>A.Zahraoui 76]
+14/10/76 South Yemen     [SYR] w 4-0 [-/0]          500 PAG       [H.Amcharrat x2>A.Zahraoui>A.Sheita]
+12/10/76 Jordan          [SYR] w 3-0 [-/0]         1000 PAG       [H.Amcharrat x2>K.Smiri]
+10/10/76 Saudi Arabia    [SYR] d 0-0 [0-0]         5000 PAG
+08/10/76 Palestine       [SYR] w 3-0 [-/0]         5000 PAG       []
+12/09/76 Saudi Arabia    [KSA] w 2-0 [1-0]        10000 Fr        [A.Amanallah 10>H.Amcharrat 58]
+18/04/76 Nigeria         [MAR] w 1-0 [0-0]        30000 Ogq       [H.Amcharrat 53]
+03/04/76 Nigeria         [NGA] l 1-3 [0-1]        40000 Ogq       [M.Choukri 61]
+14/03/76 GUINEA          [ETH] D 1-1 [0-1]        25000 CAN Final [A.Megrouh 86]
+11/03/76 NIGERIA         [ETH] W 2-1 [0-0]        10000 CAN Final [A.Faras 82>R.Guezzar 87]
+09/03/76 EGYPT           [ETH] W 2-1 [1-1]        10000 CAN Final [A.Faras 27>A.Zahraoui 88]
+06/03/76 NIGERIA         [ETH] W 3-1 [2-1]         4000 CAN Rd 1  [A.Faras 8>A.Tazi 19>L.Aherdane 72]
+04/03/76 ZAIRE           [ETH] W 1-0 [0-0]         4000 CAN Rd 1  [A.Zahraoui 80]
+01/03/76 SUDAN           [ETH] D 2-2 [1-1]         4000 CAN Rd 1  [M.El-Fetoui 1>A.Ben Bouali 58]
+20/02/76 Saudi Arabia    [KSA] w 2-0 [1-0]        10000 Fr        [A.Faras 40>A.Ben Bouali 86]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+14/12/75 Tunisia         [MAR] w 1-0 [1-0]        30000 Ogq       [A.Faras 17]
+30/11/75 Tunisia         [TUN] w 1-0 [1-0]        45000 Ogq       [H.Amcharrat 8]
+06/09/75 Tunisia         [ALG] d 1-1 [0-0] [3-4]   5000 MED 3-4   [M.El-Fetoui 84]
+04/09/75 France Am       [ALG] d 1-1 [-/-] [1-3] -      MED Sf*   [M.Yaghcha]
+31/08/75 Tunisia         [ALG] d 0-0 [0-0]         5000 MED Rd 1
+28/08/75 Yugoslavia Am   [ALG] d 0-0 [0-0]       -      MED Rd 1*
+24/08/75 Turkey Am       [ALG] w 1-0 [-/0]       -      MED Rd 1* []
+13/07/75 GHANA           [MAR] W 2-0 [1-0] [6-5]  30000 CANQ      [L.Chebbak 1>H.Amcharrat 89Pen]
+29/06/75 GHANA           [GHA] L 0-2 [0-0]        40000 CANQ
+13/04/75 SENEGAL         [SEN] L 1-2 [0-2]        20000 CANQ      [A.Faras 86]
+30/03/75 SENEGAL         [MAR] W 4-0 [2-0]        10000 CANQ      [A.Faras 30>H.Amcharrat 38>R.Guezzar 77>A.Najah 90]
+14/03/75 Libya           [LBY] w 1-0 [-/0]        40000 Ogq       []
+02/03/75 Tunisia         [MAR] d 0-0 [0-0]        10000 Fr
+23/02/75 Libya           [MAR] w 2-1 [1-0]        15000 Ogq       [A.Faras 3>H.Amcharrat 77]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+07/12/74 GAMBIA          [GMB] W 3-0 [-/0]         1000 CANQ      [R.Guezzar>]
+24/11/74 GAMBIA          [MAR] W 3-0 [-/0]        10000 CANQ      [A.Faras x2>R.Guezzar]
+31/10/74 Algeria         [ALG] d 0-0 [0-0]        20000 Fr
+09/10/74 Syria           [SYR] d 1-1 [-/-] [4-3]  30000 SYR Final [A.Faras]
+07/10/74 Sudan           [SYR] w 2-0 [-/0]         1000 SYR Sf    [A.Faras>D.Ouadich]
+03/10/74 Lebanon         [SYR] w 3-0 [-/0]          500 SYR Rd 1  [A.Hardan>A.Faras>A.Safoui]
+01/10/74 Tunisia         [SYR] w 3-1 [-/-]          500 SYR Rd 1  [A.Safoui>A.Faras x2]
+29/09/74 Egypt           [SYR] w 4-2 [1/-]          500 SYR Rd 1* [D.Ouadich 40,70>A.Safoui 62>A.Megrouh 67]
+27/09/74 Jordan          [SYR] w 2-1 [-/-]          500 SYR Rd 1  [B.Ismail OG>A.Faras]
+07/04/74 Algeria         [MAR] w 2-0 [0-0]        15000 Fr        [A.Moujahid 62>D.Haddadi 88]
+06/03/74 Saudi Arabia    [KSA] d 0-0 [0-0]        10000 Fr
+01/03/74 Bahrain         [BHR] w 1-0 [-/0]         1000 Fr        []
+28/02/74 Qatar           [QAT] w 1-0 [-/0]         1000 Fr        []
+26/02/74 Kuwait          [KUW] w 2-0 [-/0]         5000 Fr        []
+24/02/74 Iraq            [IRQ] d 0-0 [0-0]        10000 Fr
+22/02/74 Iraq            [IRQ] d 0-0 [0-0]        15000 Fr
+----------------------------------------------------------------------------------------------------------------------------------------------------
+09/12/73 ZAIRE           [ZAI] L 0-3 [0-1]         7750 WCQ
+25/11/73 ZAMBIA          [MAR] W 2-0 [1-0]         5456 WCQ       [M.Maghfour 14>A.Faras 70]
+31/10/73 Algeria         [ALG] l 0-2 [0-1]        11633 Fr
+21/10/73 ZAMBIA          [ZAM] L 0-4 [0-2]        37239 WCQ
+30/06/73 Austria         [MAR] w 1-0 [-/-]       -      Fr*       []
+03/06/73 IVORY COAST     [MAR] W 4-1 [2-0]        11000 WCQ       [A.Faras 24,34>M.El-Fetoui 60>M.Choukri 85]
+20/05/73 IVORY COAST     [CIV] D 1-1 [1-0]        25000 WCQ       [H.Amcharrat 39]
+25/02/73 GUINEA          [MAR] W 2-0 [0-0]        13122 WCQ       [A.Faras 60,88]
+11/02/73 GUINEA          [GUI] D 1-1 [1-1]         2200 WCQ       [A.Tazi 38]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+03/12/72 SENEGAL         [SEN] W 2-1 [1-1]         9860 WCQ       [M.Ghazouani 26>M.Choukri 72]
+19/11/72 SENEGAL         [MAR] D 0-0 [0-0]        10650 WCQ
+08/09/72 Poland          [FRG] l 0-5 [0-3]          500 OLY Rd 2*
+05/09/72 Denmark         [FRG] l 1-3 [0-0]         3100 OLY Rd 2* [M.Merzaq 89]
+03/09/72 U.S.S.R.        [FRG] l 0-3 [0-2]        55000 OLY Rd 2*
+31/08/72 Malaysia        [FRG] w 6-0 [4-0]         2500 OLY Rd 1* [B.Benkhrif 16>A.Faras 19,21,25>M.El-Filali 56>M.Zouita 85]
+29/08/72 West Germany    [FRG] l 0-3 [0-2]        16000 OLY Rd 1*
+27/08/72 United States   [FRG] d 0-0 [0-0]         4000 OLY Rd 1*
+17/07/72 Senegal         [SEN] w 3-1 [-/-]         5000 Fr        [M.Yaghcha>]
+21/05/72 Mali            [MLI] w 4-1 [1-1]         1000 Ogq       [A.Tazi 44,89>A.Faras 65>M.Kabli 83]
+14/05/72 Tunisia         [MAR] d 0-0 [0-0]        25000 Ogq
+30/04/72 Mali            [MAR] w 2-1 [2-1]        15000 Ogq       [A.Faras 2>M.Yaghcha 35]
+23/04/72 Tunisia         [TUN] d 3-3 [2-2]        30000 Ogq       [A.Zahraoui 20>A.Tazi 26>A.Faras 82]
+29/02/72 ZAIRE           [CMR] D 1-1 [1-1]        20000 CAN Rd 1  [A.Faras 3]
+27/02/72 SUDAN           [CMR] D 1-1 [1-0]         7000 CAN Rd 1  [A.Faras 32]
+25/02/72 CONGO           [CMR] D 1-1 [1-1]        15000 CAN Rd 1  [A.Faras 34]
+20/02/72 Nigeria         [NGA] l 0-3 [0-2]        10000 Fr
+29/01/72 Romania         [MAR] l 2-4 [0-2]        20000 Fr        [A.Ben Bouali 49,65]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+13/10/71 Yugoslavia Am   [TUR] l 0-1 [-/-] [Abd] -      MED Rd 1*
+10/10/71 Greece Am       [TUR] w 1-0 [-/-]       -      MED Rd 1* []
+08/10/71 Egypt           [TUR] w 1-0 [1-0]       -      MED Rd 1  [A.Faras 34]
+11/09/71 Mexico          [MAR] w 2-1 [0-0]        25000 Fr        [M.Choukri 63>B.Benkhrif 88]
+25/04/71 Niger           [NIG] w 3-1 [1-1]         5000 Ogq       [A.Faras 8>M.Khazar 58>K.Slimani 63]
+16/04/71 EGYPT           [EGY] L 2-3 [0/-]        70000 CANQ      [D.Bamous 50>L.Aherdane 74]
+28/03/71 Niger           [MAR] W 5-2 [3-0]        10000 Ogq       [A.Faras 3,79>D.Bamous 18,85>M.Choukri 20]
+14/03/71 EGYPT           [MAR] W 3-0 [-/0]        35000 CANQ      [M.El-Filali>M.Choukri>D.Bamous]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+27/12/70 ALGERIA         [MAR] W 3-0 [2-0] AET    20000 CANQ      [D.Bamous 30>M.Choukri 38>B.Benkhrif 94]
+10/12/70 ALGERIA         [ALG] L 1-3 [1-0]        20000 CANQ      [A.Bendayane 6]
+11/06/70 BULGARIA        [MEX] D 1-1 [0-1]        12299 WCF Rd 1  [M.Ghazouani 61]
+06/06/70 PERU            [MEX] L 0-3 [0-0]        13537 WCF Rd 1
+03/06/70 WEST GERMANY    [MEX] L 1-2 [1-0]        12942 WCF Rd 1  [M.Jarir 21]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+28/12/69 Bulgaria        [MAR] w 3-0 [3-0]         5118 Fr        [M.Ghazouani>M.Maaroufi x2(1Pen)]
+09/11/69 Ivory Coast     [CIV] l 0-1 [0/-]         5000 Fr
+08/11/69 NIGERIA         [NGA] L 0-2 [0-0]        11156 WCQ
+30/10/69 Algeria         [ALG] l 0-1 [0-0]        15000 Fr
+26/10/69 SUDAN           [MAR] W 3-0 [1-0]        19600 WCQ       [M.El-Filali 41>M.Jarir 76,86]
+10/10/69 SUDAN           [SDN] D 0-0 [0-0]        18020 WCQ
+21/09/69 NIGERIA         [MAR] W 2-1 [0-0]         3600 WCQ       [M.El-Filali 50>A.Faras 62]
+13/06/69 TUNISIA         [FRA] D 2-2 [1-1][W Coin] 4185 WCQ       [M.Khanoussi 27>M.Jarir 53]
+18/05/69 TUNISIA         [MAR] D 0-0 [0-0] AET     9781 WCQ
+27/04/69 TUNISIA         [TUN] D 0-0 [0-0]        26706 WCQ
+23/03/69 ALGERIA         [MAR] W 1-0 [0-0]        10000 CANQ      [M.Maaroufi 83]
+09/03/69 ALGERIA         [ALG] L 0-2 [0-2]        12783 CANQ
+13/02/69 SENEGAL         [ESP] W 2-0 [0-0]         2582 WCQ       [D.Bamous 54>C.Hafnaoui 60]
+09/01/69 Hungary         [MAR] l 1-4 [1-3]        15000 Fr*       [M.Ghazouani 8]
+05/01/69 SENEGAL         [SEN] L 1-2 [1-2]        11487 WCQ       [H.Akesbi 14]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+03/11/68 SENEGAL         [MAR] W 1-0 [0-0]         7924 WCQ       [B.Benkhrif 72]
+30/06/68 Ghana           [GHA] w 2-1 [0-1]        40000 Ogq       [A.Faras>]
+09/06/68 Ghana           [MAR] d 1-1 [1-0]        25000 Ogq       [S.Ghandi 7]
+17/03/68 Algeria         [MAR] d 0-0 [0-0]        15000 Fr
+----------------------------------------------------------------------------------------------------------------------------------------------------
+26/11/67 Tunisia         [TUN] d 0-0 [0-0][Wlots] 28000 Ogq
+05/11/67 Tunisia         [MAR] d 1-1 [0-1]        20000 Ogq       [H.Hamidouch 54]
+30/09/67 Mali            [MAR] w 2-0 [-/0]         2000 Fr        []
+12/09/67 Algeria         [TUN] l 1-3 [0-1]         5000 MED Rd 1  [M.Jarir 68]
+10/09/67 France Am       [TUN] l 0-2 [0-0]       -      MED Rd 1*
+07/09/67 Italy C         [TUN] w 1-0 [0-0]       -      MED Rd 1* [M.Ghazouani 60]
+22/02/67 West Germany    [FRG] l 1-5 [0-2]        33000 Fr        [M.Bouassa 51]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+24/11/66 Algeria         [ALG] d 2-2 [0-1]        14500 Fr        [A.Hadjami 77>D.Bamous 79]
+19/04/66 Switzerland     [SUI] l 4-6 [3-3]         5500 Fr*       [H.Akesbi 14,61>M.Bouassa 18>S.Ghandi 42]
+20/03/66 France B        [FRA] d 2-2 [1-1]         6323 Fr*       [H.Akesbi 24>N.Sadni 71]
+19/03/66 Iraq            [LBY] w 2-1 [-/-]         5000 LBY Final []
+18/03/66 Tunisia         [LBY] w 1-0 [-/0]         3000 LBY Tmt*  []
+15/03/66 Iraq            [LBY] w 1-0 [-/0]         2000 LBY Tmt   []
+12/03/66 Libya           [LBY] l 0-4 [0/-]         5000 LBY Tmt
+06/03/66 Algeria         [MAR] w 1-0 [1-0]        12000 Fr        [M.Khanoussi 6]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+31/10/65 Algeria         [ALG] d 0-0 [0-0]        18000 Fr
+02/05/65 Tunisia         [MAR] l 0-1 [0-1]         6000 Agq
+19/03/65 Libya           [LBY] l 0-1 [0/-]         5000 LBY Tmt
+14/03/65 Tunisia         [LBY] d 0-0 [0-0]         3000 LBY Tmt*
+12/03/65 Kuwait          [LBY] w 2-0 [-/0]         1000 LBY Tmt   []
+28/02/65 Tunisia         [TUN] d 0-0 [0-0]        20000 Agq
+----------------------------------------------------------------------------------------------------------------------------------------------------
+13/10/64 Yugoslavia      [JPN] l 1-3 [1-2]        12675 OLY Rd 1* [A.Bouachra 2]
+11/10/64 Hungary         [JPN] l 0-6 [0-2]        65793 OLY Rd 1*
+24/05/64 Ethiopia        [MAR] w 1-0 [0-0]        10000 Ogq       [A.Bouachra 75]
+10/05/64 Ethiopia        [ETH] w 1-0 [0-0]        35000 Ogq       [A.Bendayane 80]
+25/04/64 Uruguay         [MAR] l 0-1 [0-1]        10000 Fr
+28/03/64 Nigeria         [SEN] w 2-1 [-/1]         5000 Ogq       [D.Bamous>]
+08/03/64 Nigeria         [MAR] w 4-1 [1/1]        15000 Ogq       [M.Lamari 42,89>A.Omowon 59 OG>A.Bendayane 66]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+29/12/63 West Germany    [MAR] l 1-4 [1-2]        15000 Fr        [A.Bendayane 27]
+01/12/63 U.S.S.R.        [MAR] d 1-1 [1-1]        15000 Fr        [R.Sadni 25]
+16/11/63 Nigeria         [NGA] l 0-3 [0-2]        40000 Ogq
+29/09/63 Spain B         [ITA] l 1-2 [1-1]       -      MED 3-4*  [A.Bendayane 30]
+27/09/63 Italy C         [ITA] l 1-4 [0-3]       -      MED Sf*   [M.Rhiad 60]
+25/09/63 Tunisia         [ITA] w 1-0 [0-0]         2000 MED Rd 1  [A.Bendayane 53]
+23/09/63 Syria           [ITA] w 1-0 [-/0]        12000 MED Rd 1  []
+02/07/63 TUNISIA         [MAR] W 4-2 [1-0]        30000 CANQ      [M.Khalfi 10>A.Bendayane 46>M.Bettache 59Pen>H.Akesbi 78]
+15/06/63 TUNISIA         [TUN] L 1-4 [0-1]        20000 CANQ      [A.Mokhlatif 75]
+28/04/63 France B        [MAR] w 2-1 [1-1]        20000 Fr*       [H.Akesbi 36>M.Rhiad 56]
+03/03/63 Budapest XI     [MAR] l 1-2 [1-2]        10000 Fr*       [A.Mokhlatif 14]
+13/01/63 Switzerland     [MAR] w 1-0 [0-0]        12500 Fr        [M.Horeira 47]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+23/12/62 Romania         [MAR] w 3-1 [3-1]        10000 Fr        [M.Laatif 31>M.Ben Abdelkader 34>M.Ben Abadenahan 44]
+11/10/62 Poland          [POL] d 1-1 [0-0]        17000 Fr        [M.Ben Abdelkader 75]
+07/10/62 U.S.S.R B       [URS] l 1-3 [1-1]        30000 Fr*       [W.Maati 9]
+30/09/62 Romania         [ROM] l 0-4 [0-2]        45000 Fr
+15/04/62 Poland          [MAR] l 1-3 [1-0]        15000 Fr        [M.Ben Abdelkader 8]
+11/02/62 Switzerland B   [MAR] w 3-1 [0-1]         5000 Fr*       [M.Rhiad 46.50>M.Lamari 83]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+10/12/61 East Germany    [MAR] w 2-0 [1-0]        10000 Fr        [A.Azhar 22>M.Jennane 82]
+23/11/61 SPAIN           [ESP] L 2-3 [1-2]        40000 WCQ       [R.Sellam 40>A.Ben Barek 65]
+12/11/61 SPAIN           [MAR] L 0-1 [0-0]        26000 WCQ
+11/10/61 Switzerland     [SUI] l 1-8 [0-2]        11000 Fr*       [M.Abdallah 55]
+10/09/61 Egypt           [MAR] d 2-2 [0-0]        30000 PAG*      [M.Zidane 65>M.Lamari 75]
+08/09/61 Kuwait          [MAR] w 3-1 [-/-]         5000 PAG       []
+06/09/61 Saudi Arabia    [MAR] w13-1 [7-0]        10000 PAG       [M.Zidane 16,23,56,60,74,81>M.Lamari 27,33,37>H.Bahigh 41,64>
+                                                                   M.Rhiad 44>L.Khattabi 71]
+04/09/61 Libya           [MAR] w 6-2 [-/-]        10000 PAG       [M.Zidane 10,44,69,80>]
+03/09/61 Lebanon         [MAR] w 1-0 [-/0]        10000 PAG       []
+21/06/61 East Germany    [DDR] w 2-1 [1-0]        25000 Fr        [M.Tibari 29>M.Ben Abadenahan 82]
+18/06/61 Yugoslavia      [YUG] l 2-3 [2-0]        20000 Fr        [M.Horeira 20>A.Bouachra 39]
+28/05/61 GHANA           [MAR] w 1-0 [1-0]        12000 WCQ       [M.Khalfi 37]
+02/04/61 GHANA           [GHA] D 0-0 [0-0]        39995 WCQ
+26/01/61 Italy C         [ITA] l 0-3 [0-1]         5000 Fr*
+22/01/61 TUNISIA         [ITA] D 1-1 [1-0] [WLots] 8000 WCQ       [A.Azhar 35]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+11/12/60 East Germany    [MAR] l 2-3 [0-2]        20000 Fr        [H.Akesbi 51,71]
+13/11/60 TUNISIA         [TUN] L 1-2 [0-0] AET    12000 WCQ       [L.Ben Larbi 64]
+30/10/60 TUNISIA         [MAR] W 2-1 [1-1]        12360 WCQ       [M.Khalfi 33>A.Azhar 60Pen]
+12/10/60 Spain B         [ESP] l 3-4 [2-4]        10000 Fr*       [H.Akesbi 35,80>A.Azhar 39]
+12/06/60 Italy C         [MAR] l 1-3 [1-2]        10000 Fr*       [A.Mourchid 40]
+15/05/60 Spain B         [MAR] d 3-3 [1-1]        15000 Fr*       [L.Ben Larbi 45Pen>M.Ben Abadenahan 71>M.Abdallah 74]
+01/01/60 Yugoslavia      [MAR] l 0-5 [0-2]         7000 Fr
+----------------------------------------------------------------------------------------------------------------------------------------------------
+27/12/59 Tunisia         [MAR] w 3-1 [1-1]        15000 Ogq       [A.Benchekroun 4,73>A.Mokhlatif 48]
+13/12/59 Malta           [MAR] w 2-1 [2-1]         5000 Ogq       [M.Machiche 13>A.Mourchid 42]
+15/11/59 Tunisia         [TUN] l 0-2 [0-2]        10000 Ogq
+08/11/59 Malta           [MLT] d 2-2 [0-1]        10000 Ogq       [A.Benchekroun 57>M.Ben Abadenahan 73]
+25/10/59 Bulgaria        [MAR] w 1-0 [-/0]        10000 Fr*       [M.Ben Abdadenahan]
+01/01/59 Syria           [MAR] w 1-0 [-/0]         5000 Fr        []
+----------------------------------------------------------------------------------------------------------------------------------------------------
+11/05/58 Libya           [TUN] w 2-1 [-/-]         5000 TDB 3-4   [M.Zidane>M.Horeira]
+09/05/58 Algeria FLN     [TUN] l 1-2 [-/-]         2000 TDB Sf*   [L.Larbi]
+17/02/58 Syria           [MAR] w 3-1 [-/-]         5000 Fr        []
+----------------------------------------------------------------------------------------------------------------------------------------------------
+26/10/57 Syria           [LEB] d 1-1 [-/-] [LLots]40000 PAG Sf    [M.Rhiad]
+23/10/57 Tunisia         [LEB] w 3-1 [1-1]         5000 PAG Rd 1  [M.Rhiad 20,50,58]
+21/10/57 Libya           [LEB] w 5-1 [-/-]         1000 PAG Rd 1  [A.Benchekroun>M.Rhiad x3>B.Ouldmou]
+19/10/57 Iraq            [LEB] d 3-3 [1-0]         5000 PAG Rd 1  [A.El-Madani 36>A.Benchekroun 80Pen>M.Rhiad 86]
+----------------------------------------------------------------------------------------------------------------------------------------------------
+Pre-Independence Results:
+25/12/52 France B        [FRA] l 0-3 [0-1]         8700 Fr*
+20/04/52 France B        [MAR] d 0-0 [0-0]         6000 Fr*
+23/05/48 France B        [MAR] l 0-2 [0-0]         8200 Fr*
+20/04/41 France B        [MAR] d 1-1 [1-1]        12000 Borotra*  [L.Ben Barek 35]
+11/03/37 France B        [MAR] w 4-2 [3-1]       -      Fr*       [Clairouin 15,50,?>Albacette 23]
+
+WCF               = World Cup Finals
+WCQ               = World Cup Qualifier
+CAN               = Cup of African Nations Finals
+CANQ              = Cup of African Nations Qualifier
+ANC               = African Championship Finals
+ANCQ              = African Championship Qualifier
+OGF               = Olympic Games Finals
+Ogq               = Olympic Games Qualifier
+Med               = Mediterranean Games
+PAG               = Pan Arab Games
+TDB               = Tournoi Djamila Bouhired
+MER               = Merdeka Tournament
+Fr                = Friendly International
+*                 = Unsure of status/not a full international
+
+All matches without a '*' from the results are included.
+
+LAST UPDATE: 20/01/2026

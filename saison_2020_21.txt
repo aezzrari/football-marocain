@@ -1,0 +1,497 @@
+GNF I
+
+Final Table:
+
+ 1.WAC Casablanca       30  20  7  3  58-26  67                         Champions
+ 2.Raja Casablanca      30  17  8  5  48-26  59  [C]
+ 3.FAR Rabat            30  14  9  7  39-29  51
+ 4.RS Berkane           30  13  6 11  37-36  45
+ 5.MC Oujda             30  12  6 12  38-35  42
+ 6.HUS Agadir           30   9 10 11  23-24  37
+ 7.MAS Fès              30   7 15  8  30-34  36  [P]  [2 1 1 0 2-1 4]
+ 8.IR Tanger            30  10  6 14  29-36  36       [2 0 1 1 1-2 1]
+ 9.FUS Rabat            30   8 11 11  32-36  35       [6 3 2 1 7- 5 11]
+10.SCC Mohammédia       30   7 14  9  26-25  35  [P]  [6 2 3 1 6- 3  9]
+11.OC Safi              30   8 11 11  30-41  35       [6 2 1 3 7-10  7]
+12.DH El Jadida         30   9  8 13  32-40  35       [6 1 2 3 7- 9  5]
+13.Rapide Oued Zem      30   7 12 11  28-36  33       [2 1 1 0 3-1 4]
+14.CAY Berrechid        30   7 12 11  23-33  33       [2 0 1 1 1-3 1]
+-----------------------------------------------
+15.MA Tétouan           30   6 14 10  36-43  32                         Relegated
+16.RCA Zemamra          30   7  9 14  31-40  30                         Relegated
+
+Round 1
+[Dec 4]
+MA Tétouan         0-2 SCC Mohammédia
+MAS Fès            2-1 FAR Rabat
+[Dec 5]
+RCA Zemamra        0-2 RS Berkane
+Rapide Oued Zem    1-1 MC Oujda
+OC Safi            4-3 DH El Jadida
+[Dec 6]
+HUS Agadir         0-1 IR Tanger
+WAC Casablanca     2-0 CAY Berrechid
+FUS Rabat          3-3 Raja Casablanca
+
+Round 2
+[Dec 8]
+RS Berkane         1-1 MAS Fès          
+FAR Rabat          2-3 MA Tétouan     
+SCC Mohammédia     1-0 RCA Zemamra     
+[Dec 9]
+DH El Jadida       0-1 WAC Casablanca     
+CAY Berrechid      0-0 HUS Agadir     
+IR Tanger          1-0 OC Safi          
+[Dec 10]
+MC Oujda           0-1 FUS Rabat     
+Raja Casablanca    3-2 Rapide Oued Zem     
+
+Round 3
+[Dec 11]
+RCA Zemamra        0-2 FAR Rabat     
+[Dec 12]
+MAS Fès            1-1 CAY Berrechid     
+OC Safi            2-1 WAC Casablanca     
+HUS Agadir         0-0 SCC Mohammédia     
+[Dec 13]
+Rapide Oued Zem    1-3 RS Berkane     
+MA Tétouan         2-2 DH El Jadida     
+Raja Casablanca    3-0 MC Oujda     
+FUS Rabat          0-1 IR Tanger     
+
+Round 4
+[Dec 19]
+CAY Berrechid      0-0 OC Safi          
+WAC Casablanca     3-0 HUS Agadir     
+SCC Mohammédia     0-0 Rapide Oued Zem     
+RS Berkane         0-1 Raja Casablanca     
+[Dec 20]
+FAR Rabat          0-0 FUS Rabat     
+MC Oujda           1-2 RCA Zemamra     
+IR Tanger          1-1 MA Tétouan     
+DH El Jadida       1-2 MAS Fès          
+
+Round 5
+[Dec 25]
+MA Tétouan         0-0 CAY Berrechid     
+FUS Rabat          1-1 DH El Jadida     
+[Dec 26]
+Rapide Oued Zem    0-0 FAR Rabat     
+Raja Casablanca    1-0 SCC Mohammédia     
+MAS Fès            0-1 WAC Casablanca     
+[Dec 27]
+RCA Zemamra        4-1 IR Tanger     
+HUS Agadir         2-0 OC Safi          
+MC Oujda           0-1 RS Berkane  
+
+Round 6
+[Feb 13]
+HUS Agadir         1-1 MA Tétouan     
+IR Tanger          0-1 Rapide Oued Zem     
+DH El Jadida       1-0 RCA Zemamra     
+[Feb 14]
+SCC Mohammédia     0-1 MC Oujda     
+OC Safi            1-1 MAS Fès          
+CAY Berrechid      1-0 RS Berkane     
+[Feb 16]
+WAC Casablanca     3-2 FUS Rabat     
+[Feb 17]
+FAR Rabat          1-1 Raja Casablanca      
+
+Round 7
+[Feb 19]
+RCA Zemamra        1-2 WAC Casablanca     
+[Feb 20]
+MA Tétouan         1-3 OC Safi          
+FUS Rabat          1-2 CAY Berrechid     
+MC Oujda           1-2 FAR Rabat     
+[Feb 21]
+RS Berkane         1-1 SCC Mohammédia     
+Rapide Oued Zem    0-2 DH El Jadida     
+MAS Fès            0-0 HUS Agadir     
+[Feb 25]
+Raja Casablanca    2-0 IR Tanger     
+
+Round 8
+[Feb 26]
+FAR Rabat          1-1 SCC Mohammédia     
+MAS Fès            0-0 MA Tétouan     
+[Feb 27]
+HUS Agadir         1-0 RCA Zemamra     
+CAY Berrechid      1-1 Rapide Oued Zem     
+[Feb 28]
+OC Safi            0-1 FUS Rabat     
+IR Tanger          1-2 MC Oujda     
+DH El Jadida       0-0 Raja Casablanca     
+[May 2]
+WAC Casablanca     4-0 RS Berkane     
+
+Round 9
+[Mar 6]
+RS Berkane         1-2 FAR Rabat    
+[Mar 7]
+Raja Casablanca    1-1 CAY Berrechid    
+[Mar 11]
+MA Tétouan         2-2 WAC Casablanca    
+[Mar 13]
+RCA Zemamra        1-2 OC Safi        
+FUS Rabat          0-0 HUS Agadir    
+[Mar 14]
+MC Oujda           4-0 DH El Jadida    
+SCC Mohammédia     1-2 IR Tanger    
+Rapide Oued Zem    0-0 MAS Fès        
+
+Round 10
+[Mar 21]
+OC Safi            0-0 RS Berkane    
+WAC Casablanca     2-0 Raja Casablanca    
+[Apr 2]
+IR Tanger          1-2 FAR Rabat    
+HUS Agadir         3-1 Rapide Oued Zem    
+[Apr 3]
+MA Tétouan         3-0 RCA Zemamra    
+DH El Jadida       0-0 SCC Mohammédia    
+CAY Berrechid      0-1 MC Oujda    
+[Apr 4]
+MAS Fès            1-1 FUS Rabat    
+
+Round 11
+[Apr 7]
+RS Berkane         1-2 IR Tanger    
+Raja Casablanca    0-1 HUS Agadir    
+Rapide Oued Zem    0-1 WAC Casablanca    
+[Apr 9]
+FAR Rabat          1-0 DH El Jadida    
+[Apr 10]
+MC Oujda           3-0 MAS Fès        
+[Apr 11]
+RCA Zemamra        0-0 CAY Berrechid    
+SCC Mohammédia     3-0 OC Safi        
+FUS Rabat          2-1 MA Tétouan    
+
+Round 12
+[Apr 15]
+WAC Casablanca     1-1 MC Oujda    
+[Apr 16]
+HUS Agadir         1-2 RS Berkane    
+MA Tétouan         2-3 Raja Casablanca    
+[Apr 17]
+OC Safi            2-1 Rapide Oued Zem    
+FUS Rabat          1-2 RCA Zemamra    
+[Apr 18]
+CAY Berrechid      1-1 FAR Rabat    
+MAS Fès            1-1 SCC Mohammédia    
+DH El Jadida       0-0 IR Tanger    
+
+Round 13
+[Apr 23]
+FAR Rabat          0-2 HUS Agadir    
+RCA Zemamra        1-1 MAS Fès        
+[Apr 24]
+Rapide Oued Zem    2-1 FUS Rabat    
+MC Oujda           1-2 MA Tétouan    
+SCC Mohammédia     0-1 CAY Berrechid    
+[Apr 25]
+IR Tanger          3-2 WAC Casablanca    
+Raja Casablanca    2-0 OC Safi        
+RS Berkane         2-0 DH El Jadida    
+
+Round 14
+[Apr 29]
+WAC Casablanca     1-1 SCC Mohammédia    
+[Apr 30]
+HUS Agadir         1-0 MC Oujda    
+[May 1]
+CAY Berrechid      0-1 DH El Jadida    
+OC Safi            0-3 FAR Rabat    
+MAS Fès            2-1 IR Tanger    
+[May 2]
+MA Tétouan         1-1 Rapide Oued Zem    
+RCA Zemamra        1-1 Raja Casablanca    
+[May 5]
+FUS Rabat          3-1 RS Berkane    
+
+Round 15
+[May 7]
+IR Tanger          2-0 CAY Berrechid    
+[May 8]
+Rapide Oued Zem    3-2 RCA Zemamra    
+MC Oujda           3-2 OC Safi        
+SCC Mohammédia     0-0 FUS Rabat    
+DH El Jadida       1-0 HUS Agadir    
+[May 9]
+Raja Casablanca    1-0 MAS Fès        
+RS Berkane         1-1 MA Tétouan    
+FAR Rabat          0-0 WAC Casablanca    
+
+Halfway Table:
+
+ 1.WAC Casablanca       15   9  4  2  26-12  31
+ 2.Raja Casablanca      15   8  5  2  22-13  29  [C]
+ 3.FAR Rabat            15   6  6  3  18-13  24
+ 4.HUS Agadir           15   6  5  4  12- 9  23
+ 5.IR Tanger            15   7  2  6  17-18  23
+ 6.MC Oujda             15   6  2  7  19-17  20
+ 7.RS Berkane           15   5  4  6  16-18  19
+ 8.FUS Rabat            15   4  6  5  17-17  18
+ 9.MAS Fès              15   3  9  3  12-14  18  [P]
+10.OC Safi              15   5  3  7  16-23  18
+11.SCC Mohammédia       15   3  8  4  11- 9  17  [P]
+12.MA Tétouan           15   3  8  4  20-21  17
+13.CAY Berrechid        15   3  8  4   8-11  17
+14.DH El Jadida         15   4  5  6  12-17  17
+-----------------------------------------------
+15.Rapide Oued Zem      15   3  6  6  14-20  15
+16.RCA Zemamra          15   3  3  9  14-22  12
+
+Round 16
+[May 11]
+IR Tanger          1-1 HUS Agadir
+MC Oujda           0-0 Rapide Oued Zem
+DH El Jadida       0-1 OC Safi
+[May 12]
+Raja Casablanca    1-1 FUS Rabat
+SCC Mohammédia     0-0 MA Tétouan
+FAR Rabat          3-2 MAS Fès
+RS Berkane         2-0 RCA Zemamra
+[Jun 3]
+CAY Berrechid      0-1 WAC Casablanca
+
+Round 17
+[May 15]
+OC Safi            1-1 IR Tanger
+RCA Zemamra        1-1 SCC Mohammédia
+MA Tétouan         0-0 FAR Rabat
+[May 16]
+FUS Rabat          0-3 MC Oujda
+MAS Fès            2-0 RS Berkane
+HUS Agadir         2-1 CAY Berrechid
+[Jun 3]
+Rapide Oued Zem    0-2 Raja Casablanca
+[Jun 9]
+WAC Casablanca     4-2 DH El Jadida
+
+Round 18
+[May 18]
+DH El Jadida       2-2 MA Tétouan
+WAC Casablanca     3-1 OC Safi
+[May 19]
+CAY Berrechid      1-1 MAS Fès
+SCC Mohammédia     0-0 HUS Agadir
+RS Berkane         0-0 Rapide Oued Zem
+[May 20]
+IR Tanger          1-2 FUS Rabat
+MC Oujda           0-2 Raja Casablanca
+FAR Rabat          2-1 RCA Zemamra
+
+Round 19
+[May 22]
+MAS Fès            1-3 DH El Jadida
+Rapide Oued Zem    3-2 SCC Mohammédia
+OC Safi            1-1 CAY Berrechid
+[May 23]
+FUS Rabat          2-1 FAR Rabat
+RCA Zemamra        3-4 MC Oujda
+MA Tétouan         1-0 IR Tanger
+[Jun 13]
+HUS Agadir         3-5 WAC Casablanca
+Raja Casablanca    0-1 RS Berkane
+
+Round 20
+[May 25]
+OC Safi            1-0 HUS Agadir
+[May 26]
+WAC Casablanca     2-0 MAS Fès
+IR Tanger          2-0 RCA Zemamra
+DH El Jadida       3-1 FUS Rabat
+FAR Rabat          1-1 Rapide Oued Zem
+[May 27]
+CAY Berrechid      0-3 MA Tétouan
+SCC Mohammédia     1-2 Raja Casablanca
+[Jun 3]
+RS Berkane         3-1 MC Oujda
+
+Round 21
+[May 29]
+RCA Zemamra        1-0 DH El Jadida
+MAS Fès            1-2 OC Safi
+Rapide Oued Zem    1-2 IR Tanger
+[May 30]
+MC Oujda           3-2 SCC Mohammédia
+FUS Rabat          0-0 WAC Casablanca
+Raja Casablanca    3-2 FAR Rabat
+MA Tétouan         2-1 HUS Agadir
+[Jun 9]
+RS Berkane         1-1 CAY Berrechid
+
+Round 22
+[Jun 16]
+WAC Casablanca     0-0 RCA Zemamra
+IR Tanger          0-3 Raja Casablanca
+[Jun 19]
+FAR Rabat          1-0 MC Oujda
+OC Safi            0-0 MA Tétouan
+SCC Mohammédia     2-0 RS Berkane
+[Jun 20]
+DH El Jadida       1-1 Rapide Oued Zem
+CAY Berrechid      2-1 FUS Rabat
+HUS Agadir         1-1 MAS Fès
+
+Round 23
+[Jun 22]
+RS Berkane         0-2 WAC Casablanca
+[Jun 24]
+Raja Casablanca    2-0 DH El Jadida
+[Jun 26]
+MA Tétouan         0-0 MAS Fès
+MC Oujda           0-0 IR Tanger
+Rapide Oued Zem    2-0 CAY Berrechid
+[Jun 27]
+RCA Zemamra        1-0 HUS Agadir
+SCC Mohammédia     0-2 FAR Rabat
+FUS Rabat          2-1 OC Safi
+
+Round 24
+[Jun 29]
+DH El Jadida       2-2 MC Oujda
+MAS Fès            2-1 Rapide Oued Zem
+[Jun 30]
+HUS Agadir         0-0 FUS Rabat
+WAC Casablanca     4-2 MA Tétouan
+CAY Berrechid      1-0 Raja Casablanca
+[Jul 1]
+FAR Rabat          3-1 RS Berkane
+IR Tanger          0-1 SCC Mohammédia
+OC Safi            2-2 RCA Zemamra
+
+Round 25
+[Jul 3]
+FUS Rabat          0-1 MAS Fès
+MC Oujda           3-1 CAY Berrechid
+Rapide Oued Zem    0-1 HUS Agadir
+Raja Casablanca    1-2 WAC Casablanca
+[Jul 4]
+RCA Zemamra        3-0 MA Tétouan
+FAR Rabat          2-1 IR Tanger
+SCC Mohammédia     2-0 DH El Jadida
+RS Berkane         3-0 OC Safi
+
+Round 26
+[Jul 6]
+HUS Agadir         0-0 Raja Casablanca
+MAS Fès            2-1 MC Oujda
+[Jul 7]
+CAY Berrechid      1-1 RCA Zemamra
+OC Safi            1-1 SCC Mohammédia
+WAC Casablanca     2-0 Rapide Oued Zem
+[Jul 8]
+MA Tétouan         2-2 FUS Rabat
+DH El Jadida       1-0 FAR Rabat
+IR Tanger          0-2 RS Berkane
+
+Round 27
+[Jul 13]
+RCA Zemamra        1-0 FUS Rabat
+FAR Rabat          3-2 CAY Berrechid
+RS Berkane         1-0 HUS Agadir
+Rapide Oued Zem    2-1 OC Safi
+[Jul 14]
+Raja Casablanca    4-1 MA Tétouan
+IR Tanger          0-1 DH El Jadida
+MC Oujda           0-2 WAC Casablanca
+SCC Mohammédia     1-1 MAS Fès
+
+Round 28
+[Jul 17]
+OC Safi            2-2 Raja Casablanca    
+HUS Agadir         0-1 FAR Rabat          
+MA Tétouan         0-1 MC Oujda           
+[Jul 18]
+WAC Casablanca     2-4 IR Tanger          
+FUS Rabat          0-0 Rapide Oued Zem    
+MAS Fès            2-2 RCA Zemamra        
+CAY Berrechid      0-1 SCC Mohammédia     
+DH El Jadida       3-1 RS Berkane         
+
+Round 29
+[Jul 23]
+DH El Jadida       2-3 CAY Berrechid
+Rapide Oued Zem    2-1 MA Tétouan
+Raja Casablanca    1-0 RCA Zemamra
+RS Berkane         3-2 FUS Rabat
+[Jul 24]
+SCC Mohammédia     1-1 WAC Casablanca
+MC Oujda           1-0 HUS Agadir
+FAR Rabat          0-0 OC Safi
+IR Tanger          0-0 MAS Fès
+
+Round 30
+[Jul 27]
+CAY Berrechid      1-0 IR Tanger
+RCA Zemamra        1-1 Rapide Oued Zem
+FUS Rabat          2-0 SCC Mohammédia
+MA Tétouan         2-3 RS Berkane
+[Jul 28]
+MAS Fès            2-3 Raja Casablanca
+WAC Casablanca     2-0 FAR Rabat
+OC Safi            0-0 MC Oujda
+HUS Agadir         2-0 DH El Jadida
+
+Final Table:
+
+ 1.WAC Casablanca       30  20  7  3  58-26  67                         Champions
+ 2.Raja Casablanca      30  17  8  5  48-26  59  [C]
+ 3.FAR Rabat            30  14  9  7  39-29  51
+ 4.RS Berkane           30  13  6 11  37-36  45
+ 5.MC Oujda             30  12  6 12  38-35  42
+ 6.HUS Agadir           30   9 10 11  23-24  37
+ 7.MAS Fès              30   7 15  8  30-34  36  [P]  [2 1 1 0 2-1 4]
+ 8.IR Tanger            30  10  6 14  29-36  36       [2 0 1 1 1-2 1]
+ 9.FUS Rabat            30   8 11 11  32-36  35       [6 3 2 1 7- 5 11]
+10.SCC Mohammédia       30   7 14  9  26-25  35  [P]  [6 2 3 1 6- 3  9]
+11.OC Safi              30   8 11 11  30-41  35       [6 2 1 3 7-10  7]
+12.DH El Jadida         30   9  8 13  32-40  35       [6 1 2 3 7- 9  5]
+13.Rapide Oued Zem      30   7 12 11  28-36  33       [2 1 1 0 3-1 4]
+14.CAY Berrechid        30   7 12 11  23-33  33       [2 0 1 1 1-3 1]
+-----------------------------------------------
+15.MA Tétouan           30   6 14 10  36-43  32                         Relegated
+16.RCA Zemamra          30   7  9 14  31-40  30                         Relegated
+
+Coupe du Trône 2022
+
+NB: nominally this is the tournament belonging to the 2020/21 season, but
+    all rounds below were contested in 2022.
+
+1/8 Finals
+[Mar 18, 2022]
+JS Soualem         1-2 CAY Berrechid      
+[Mar 19, 2022]
+MAS Fès            3-1 OC Safi            
+[Mar 20, 2022]
+Ass. Al-Mansoria   1-0 IR Tanger          
+HUS Agadir         1-3 FUS Rabat          
+[Mar 21, 2022]
+CA Khénifra        1-2 Union Touarga Sport  
+[Apr 10, 2022]
+WAC Casablanca     3-2 SCC Mohammédia     
+[Apr 11, 2022]
+Raja Béni Mellal   3-3 Raja Casablanca    [aet, 2-4 pen]
+DH El Jadida       0-0 RS Berkane         [aet, 2-4 pen]
+ 
+Quarterfinals
+[May 28, 2022]
+MAS Fès            0-2 CAY Berrechid      
+[May 29, 2022]
+FUS Rabat          3-1 Union Touarga Sport
+[Jul 7, 2022]
+WAC Casablanca     2-0 Raja Casablanca    
+Ass. Al-Mansoria   0-1 RS Berkane         
+
+Semifinals
+[Jul 19, 2022]
+RS Berkane         2-2 CAY Berrechid      [aet, 4-3 pen]
+[Jul 20, 2022]
+WAC Casablanca     0-0 FUS Rabat          [aet, 5-4 pen]
+
+Final [Jul 28, 2022]
+WAC Casablanca     0-0 RS Berkane         [aet, 2-3 pen]

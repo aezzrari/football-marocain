@@ -1,0 +1,599 @@
+GNF I
+
+Final Table:
+
+ 1.FUS Rabat            30  16 10  4  40-21  58  Champions
+ 2.WAC Casablanca       30  16  8  6  34-19  56  [C]
+ 3.IR Tanger            30  14  8  8  36-23  50  [P]
+ 4.FAR Rabat            30  13  8  9  40-35  47  [2 2 0 0 5-1 6]
+ 5.Raja Casablanca      30  13  8  9  48-30  47  [2 0 0 2 1-5 0]
+ 6.MA Tétouan           30  12  7 11  34-43  43  [2 1 1 0 1-0 4]
+ 7.RS Berkane           30  10 13  7  24-19  43  [2 0 1 1 0-1 1]
+ 8.HUS Agadir           30  11  8 11  44-46  41
+ 9.OC Safi              30   9 10 11  23-27  37
+10.CR Al Hoceima        30  10  6 14  27-34  36
+11.Kénitra AC           30  10  5 15  26-37  35
+12.OC Khouribga         30   9  7 14  26-35  34  [2 1 1 0 4-2 4]
+13.DH El Jadida         30   7 13 10  26-30  34  [2 0 1 1 2-4 1]
+14.KAC Marrakech        30   7  9 14  23-30  30
+-----------------------------------------------
+15.MC Oujda             30   7  8 15  26-41  29  [2 1 1 0 2-1 4]  [P]  Relegated
+16.MAS Fès              30   5 14 11  24-31  29  [2 0 1 1 1-2 1]  Relegated
+
+Round 1
+[Sep 5]
+HUS Agadir      2-1 CR Al Hoceima   
+IR Tanger       2-0 MAS Fès         
+[Sep 6]
+Kénitra AC      0-0 DH El Jadida    
+FUS Rabat       2-0 Raja Casablanca 
+WAC Casablanca  4-2 FAR Rabat       
+RS Berkane      0-0 OC Khouribga    
+KAC Marrakech   2-0 MC Oujda        
+[Sep 18]
+OC Safi         1-0 MA Tétouan      
+
+Round 2
+[Sep 12]
+CR Al Hoceima   1-0 IR Tanger       
+FAR Rabat       1-1 OC Safi         
+Raja Casablanca 1-1 KAC Marrakech   
+[Sep 13]
+MC Oujda        1-0 Kénitra AC      
+DH El Jadida    0-1 RS Berkane      
+OC Khouribga    1-3 WAC Casablanca  
+MAS Fès         1-1 FUS Rabat       
+[Sep 22]
+MA Tétouan      2-4 HUS Agadir      
+ 
+Round 3
+[Oct 2]
+OC Safi         0-1 OC Khouribga    
+[Oct 3]
+IR Tanger       2-2 MA Tétouan      
+KAC Marrakech   0-0 MAS Fès         
+FUS Rabat       1-1 CR Al Hoceima   
+[Oct 4]
+Kénitra AC      1-2 RS Berkane      
+MC Oujda        0-1 Raja Casablanca 
+WAC Casablanca  2-1 DH El Jadida    
+[Oct 5]
+HUS Agadir      1-0 FAR Rabat       
+
+Round 4
+[Oct 9]
+MA Tétouan      0-3 FUS Rabat       
+[Oct 10]
+Raja Casablanca 0-1 Kénitra AC      
+CR Al Hoceima   1-0 KAC Marrakech   
+MAS Fès         1-2 MC Oujda        
+[Oct 11]
+FAR Rabat       1-2 IR Tanger       
+DH El Jadida    0-0 OC Safi         
+OC Khouribga    2-1 HUS Agadir      
+RS Berkane      0-0 WAC Casablanca  
+
+Round 5
+[Oct 30]
+IR Tanger       2-1 OC Khouribga    
+[Oct 31]
+KAC Marrakech   2-1 MA Tétouan      
+FUS Rabat       2-3 FAR Rabat       
+Raja Casablanca 3-0 MAS Fès         
+[Nov 1]
+Kénitra AC      0-1 WAC Casablanca  
+HUS Agadir      1-1 DH El Jadida    
+MC Oujda        2-3 CR Al Hoceima   
+OC Safi         1-0 RS Berkane      
+
+Round 6
+[Nov 6]
+RS Berkane      1-1 HUS Agadir      
+[Nov 7]
+DH El Jadida    1-1 IR Tanger       
+FAR Rabat       1-0 KAC Marrakech   
+[Nov 8]
+OC Khouribga    1-2 FUS Rabat       
+WAC Casablanca  2-0 OC Safi         
+MAS Fès         0-0 Kénitra AC      
+CR Al Hoceima   0-2 Raja Casablanca 
+[Nov 9]
+MA Tétouan      1-1 MC Oujda        
+
+Round 7
+[Nov 13]
+IR Tanger       1-0 RS Berkane      
+FUS Rabat       0-0 DH El Jadida    
+KAC Marrakech   1-0 OC Khouribga    
+[Nov 14]
+Kénitra AC      2-1 OC Safi         
+MC Oujda        0-0 FAR Rabat       
+MAS Fès         1-0 CR Al Hoceima   
+[Nov 17]
+Raja Casablanca 2-3 MA Tétouan      
+[Nov 25]
+HUS Agadir      0-1 WAC Casablanca  
+
+Round 8
+[Nov 20]
+CR Al Hoceima   1-2 Kénitra AC      
+[Nov 21]
+OC Safi         2-4 HUS Agadir      
+DH El Jadida    1-0 KAC Marrakech   
+WAC Casablanca  2-2 IR Tanger       
+[Nov 22]
+FAR Rabat       1-0 Raja Casablanca 
+MA Tétouan      1-0 MAS Fès         
+[Nov 23]
+OC Khouribga    1-2 MC Oujda        
+RS Berkane      0-1 FUS Rabat       
+
+Round 9
+[Nov 28]
+CR Al Hoceima   1-2 MA Tétouan      
+IR Tanger       0-1 OC Safi         
+KAC Marrakech   0-0 RS Berkane      
+[Nov 29]
+Kénitra AC      3-1 HUS Agadir      
+FUS Rabat       1-0 WAC Casablanca  
+Raja Casablanca 1-2 OC Khouribga    
+MAS Fès         0-1 FAR Rabat       
+[Nov 30]
+MC Oujda        1-0 DH El Jadida    
+
+Round 10
+[Dec 4]
+HUS Agadir      1-3 IR Tanger       
+[Dec 5]
+FAR Rabat       2-2 CR Al Hoceima   
+WAC Casablanca  2-0 KAC Marrakech   
+[Dec 6]
+DH El Jadida    1-1 Raja Casablanca 
+OC Khouribga    0-3 MAS Fès         
+RS Berkane      2-1 MC Oujda        
+MA Tétouan      1-0 Kénitra AC      
+[Dec 7]
+OC Safi         0-1 FUS Rabat       
+
+Round 11
+[Dec 11]
+MAS Fès         0-0 DH El Jadida    
+[Dec 12]
+MC Oujda        1-1 WAC Casablanca  
+MA Tétouan      1-1 FAR Rabat       
+Raja Casablanca 1-0 RS Berkane      
+[Dec 13]
+CR Al Hoceima   1-0 OC Khouribga    
+Kénitra AC      0-0 IR Tanger       
+KAC Marrakech   1-2 OC Safi         
+FUS Rabat       2-0 HUS Agadir      
+
+Round 12
+[Dec 18]
+RS Berkane      2-1 MAS Fès         
+[Dec 19]
+OC Khouribga    0-1 MA Tétouan      
+DH El Jadida    3-0 CR Al Hoceima   
+FAR Rabat       2-1 Kénitra AC      
+HUS Agadir      1-1 KAC Marrakech   
+[Dec 20]
+WAC Casablanca  0-0 Raja Casablanca 
+IR Tanger       0-1 FUS Rabat       
+OC Safi         0-0 MC Oujda        
+
+Round 13
+[Dec 25]
+FAR Rabat       0-0 OC Khouribga    
+KAC Marrakech   0-1 IR Tanger       
+[Dec 26]
+CR Al Hoceima   1-2 RS Berkane      
+Kénitra AC      2-1 FUS Rabat       
+Raja Casablanca 0-0 OC Safi         
+[Dec 27]
+MAS Fès         0-0 WAC Casablanca  
+MC Oujda        2-3 HUS Agadir      
+MA Tétouan      1-1 DH El Jadida    
+
+Round 14
+[Dec 31]
+RS Berkane      0-0 MA Tétouan      
+[Jan 1]
+IR Tanger       3-0 MC Oujda        
+OC Safi         2-2 MAS Fès         
+HUS Agadir      1-1 Raja Casablanca 
+FUS Rabat       1-1 KAC Marrakech   
+[Jan 2]
+DH El Jadida    2-3 FAR Rabat       
+Kénitra AC      2-2 OC Khouribga    
+WAC Casablanca  0-0 CR Al Hoceima   
+
+Round 15
+[Jan 5]
+FAR Rabat       0-0 RS Berkane      
+[Jan 6]
+OC Khouribga    1-1 DH El Jadida    
+MAS Fès         2-0 HUS Agadir      
+MA Tétouan      0-0 WAC Casablanca  
+[Jan 7]
+CR Al Hoceima   3-2 OC Safi         
+MC Oujda        2-1 FUS Rabat       
+KAC Marrakech   1-2 Kénitra AC      
+Raja Casablanca 2-2 IR Tanger       
+
+Halfway Table:
+
+ 1.WAC Casablanca       15   7  7  1  18- 8  28  [C]
+ 2.FUS Rabat            15   8  4  3  20-11  28
+ 3.IR Tanger            15   7  5  3  21-13  26  [P]
+ 4.FAR Rabat            15   6  6  3  18-16  24
+ 5.Kénitra AC           15   6  4  5  16-14  22
+ 6.RS Berkane           15   5  6  4  10- 9  21
+ 7.MA Tétouan           15   5  6  4  16-18  21
+ 8.HUS Agadir           15   5  4  6  21-24  19
+ 9.MC Oujda             15   5  4  6  15-19  19  [P]
+10.Raja Casablanca      15   4  6  5  15-14  18
+11.CR Al Hoceima        15   5  3  7  16-21  18
+12.OC Safi              15   4  5  6  13-17  17
+13.DH El Jadida         15   2  9  4  12-12  15
+14.MAS Fès              15   3  6  6  11-14  15
+-----------------------------------------------
+15.KAC Marrakech        15   3  5  7  10-14  14
+16.OC Khouribga         15   3  4  8  12-20  13
+
+Round 16
+[Feb 12]
+Raja Casablanca 1-1 FUS Rabat       
+[Feb 13]
+CR Al Hoceima   0-1 HUS Agadir      
+MAS Fès         0-0 IR Tanger       
+DH El Jadida    0-1 Kénitra AC      
+[Feb 14]
+MA Tétouan      0-0 OC Safi         
+[Feb 16]
+OC Khouribga    2-2 RS Berkane      
+[Feb 17]
+FAR Rabat       0-2 WAC Casablanca  
+MC Oujda        1-1 KAC Marrakech   
+
+Round 17
+[Feb 19]
+FUS Rabat       0-0 MAS Fès         
+[Feb 20]
+HUS Agadir      0-1 MA Tétouan      
+RS Berkane      3-1 DH El Jadida    
+[Feb 21]
+IR Tanger       0-2 CR Al Hoceima   
+Kénitra AC      0-1 MC Oujda        
+WAC Casablanca  1-0 OC Khouribga    
+KAC Marrakech   0-2 Raja Casablanca 
+[Feb 22]
+OC Safi         2-1 FAR Rabat       
+
+Round 18
+[Feb 26]
+RS Berkane      1-0 Kénitra AC      
+[Feb 27]
+CR Al Hoceima   2-1 FUS Rabat       
+[Feb 18]
+MA Tétouan      1-0 IR Tanger       
+FAR Rabat       1-4 HUS Agadir      
+Raja Casablanca 4-0 MC Oujda        
+[Mar 1]
+DH El Jadida    0-0 WAC Casablanca  
+[Mar 9]
+MAS Fès         1-1 KAC Marrakech   
+OC Khouribga    0-0 OC Safi         
+
+Round 19
+[Mar 4]
+KAC Marrakech   2-0 CR Al Hoceima   
+FUS Rabat       2-0 MA Tétouan      
+[Mar 5]
+Kénitra AC      0-3 Raja Casablanca 
+HUS Agadir      2-0 OC Khouribga    
+[Mar 6]
+OC Safi         0-1 DH El Jadida    
+MC Oujda        0-0 MAS Fès         
+IR Tanger       1-0 FAR Rabat       
+[May 4]
+WAC Casablanca  1-0 RS Berkane      
+
+Round 20
+[Mar 12]
+CR Al Hoceima   1-0 MC Oujda        
+[Mar 13]
+DH El Jadida    1-1 HUS Agadir      
+RS Berkane      1-0 OC Safi         
+[Mar 24]
+FAR Rabat       1-1 FUS Rabat       
+OC Khouribga    1-0 IR Tanger       
+[Mar 26]
+WAC Casablanca  2-0 Kénitra AC      
+[Mar 27]
+MA Tétouan      1-0 KAC Marrakech   
+MAS Fès         0-3 Raja Casablanca 
+
+Round 21
+[Mar 18]
+HUS Agadir      0-0 RS Berkane      
+[Mar 19]
+IR Tanger       1-0 DH El Jadida    
+MC Oujda        1-2 MA Tétouan      
+Raja Casablanca 2-1 CR Al Hoceima   
+[Mar 20]
+Kénitra AC      1-0 MAS Fès         
+[Mar 29]
+FUS Rabat       1-0 OC Khouribga    
+[Mar 30]
+OC Safi         0-1 WAC Casablanca  
+[Mar 31]
+KAC Marrakech   3-0 FAR Rabat       
+
+Round 22
+[Apr 1]
+CR Al Hoceima   1-1 MAS Fès         
+[Apr 2]
+DH El Jadida    0-0 FUS Rabat       
+RS Berkane      0-0 IR Tanger       
+[Apr 3]
+MA Tétouan      2-5 Raja Casablanca 
+OC Safi         1-2 Kénitra AC      
+WAC Casablanca  1-2 HUS Agadir      
+[Apr 4]
+FAR Rabat       1-0 MC Oujda        
+OC Khouribga    2-1 KAC Marrakech   
+
+Round 23
+[Apr 9]
+MAS Fès         2-0 MA Tétouan      
+[Apr 10]
+Kénitra AC      1-0 CR Al Hoceima   
+MC Oujda        1-0 OC Khouribga    
+HUS Agadir      0-0 OC Safi         
+[Apr 11]
+Raja Casablanca 1-4 FAR Rabat       
+[Apr 12]
+FUS Rabat       0-0 RS Berkane      
+[Apr 13]
+IR Tanger       3-0 WAC Casablanca  
+[May 13]
+KAC Marrakech   1-3 DH El Jadida    
+
+Round 24
+[Apr 15]
+DH El Jadida    3-2 MC Oujda        
+[Apr 16]
+RS Berkane      2-0 KAC Marrakech   
+HUS Agadir      5-1 Kénitra AC      
+[Apr 17]
+FAR Rabat       1-0 MAS Fès         
+OC Khouribga    1-3 Raja Casablanca 
+OC Safi         2-0 IR Tanger       
+MA Tétouan      1-2 CR Al Hoceima   
+[May 14]
+WAC Casablanca  0-1 FUS Rabat       
+
+Round 25
+[Apr 23]
+MC Oujda        0-0 RS Berkane
+Kénitra AC      3-4 MA Tétouan
+[Apr 24]
+Raja Casablanca 0-1 DH El Jadida
+IR Tanger       3-1 HUS Agadir
+CR Al Hoceima   1-1 FAR Rabat
+MAS Fès         1-1 OC Khouribga
+[Apr 27]
+KAC Marrakech   1-0 WAC Casablanca
+FUS Rabat       3-1 OC Safi
+
+Round 26
+[Apr 29]
+FAR Rabat       5-2 MA Tétouan
+[Apr 30]
+DH El Jadida    2-1 MAS Fès
+RS Berkane      1-1 Raja Casablanca
+OC Khouribga    1-0 CR Al Hoceima
+IR Tanger       1-0 Kénitra AC
+[May 1]
+WAC Casablanca  2-1 MC Oujda
+OC Safi         1-0 KAC Marrakech
+HUS Agadir      1-1 FUS Rabat
+
+Round 27
+[May 7]
+Kénitra AC      0-2 FAR Rabat
+MC Oujda        1-1 OC Safi
+[May 8]
+MA Tétouan      1-2 OC Khouribga
+MAS Fès         2-2 RS Berkane
+CR Al Hoceima   0-0 DH El Jadida
+Raja Casablanca 3-0 WAC Casablanca
+[May 25]
+FUS Rabat       2-1 IR Tanger
+KAC Marrakech   3-2 HUS Agadir
+
+Round 28 [May 22]
+OC Khouribga    0-1 FAR Rabat
+IR Tanger       0-0 KAC Marrakech
+RS Berkane      0-1 CR Al Hoceima
+FUS Rabat       2-1 Kénitra AC
+OC Safi         1-0 Raja Casablanca
+WAC Casablanca  3-0 MAS Fès
+HUS Agadir      1-0 MC Oujda
+DH El Jadida    1-2 MA Tétouan
+
+Round 29 [May 29]
+MA Tétouan      1-0 RS Berkane
+MC Oujda        1-2 IR Tanger
+MAS Fès         0-0 OC Safi
+Raja Casablanca 5-1 HUS Agadir
+KAC Marrakech   0-1 FUS Rabat
+FAR Rabat       3-0 DH El Jadida
+OC Khouribga    1-0 Kénitra AC
+CR Al Hoceima   0-1 WAC Casablanca
+
+Round 30 [Jun 4]
+RS Berkane      2-1 FAR Rabat
+DH El Jadida    1-3 OC Khouribga
+HUS Agadir      2-5 MAS Fès
+WAC Casablanca  2-0 MA Tétouan
+OC Safi         1-0 CR Al Hoceima
+FUS Rabat       4-2 MC Oujda
+Kénitra AC      0-0 KAC Marrakech
+IR Tanger       3-0 Raja Casablanca
+
+Final Table:
+
+ 1.FUS Rabat            30  16 10  4  40-21  58  Champions
+ 2.WAC Casablanca       30  16  8  6  34-19  56  [C]
+ 3.IR Tanger            30  14  8  8  36-23  50  [P]
+ 4.FAR Rabat            30  13  8  9  40-35  47  [2 2 0 0 5-1 6]
+ 5.Raja Casablanca      30  13  8  9  48-30  47  [2 0 0 2 1-5 0]
+ 6.MA Tétouan           30  12  7 11  34-43  43  [2 1 1 0 1-0 4]
+ 7.RS Berkane           30  10 13  7  24-19  43  [2 0 1 1 0-1 1]
+ 8.HUS Agadir           30  11  8 11  44-46  41
+ 9.OC Safi              30   9 10 11  23-27  37
+10.CR Al Hoceima        30  10  6 14  27-34  36
+11.Kénitra AC           30  10  5 15  26-37  35
+12.OC Khouribga         30   9  7 14  26-35  34  [2 1 1 0 4-2 4]
+13.DH El Jadida         30   7 13 10  26-30  34  [2 0 1 1 2-4 1]
+14.KAC Marrakech        30   7  9 14  23-30  30
+-----------------------------------------------
+15.MC Oujda             30   7  8 15  26-41  29  [2 1 1 0 2-1 4]  [P]  Relegated
+16.MAS Fès              30   5 14 11  24-31  29  [2 0 1 1 1-2 1]  Relegated
+
+Coupe du Trône 2016
+
+Round 3
+
+Groupe Nord
+[May 28]
+CODM Meknès			0-1 Rachad Bernoussi
+Union Sidi Kacem		2-1 AS Salé
+Union S Témara			3-2 Stade Marocain
+RS Renaissance Martil		1-0 Chabab Atlas Khénifra
+Hasania Benslimane		1-2 Ittihad Khemisset
+Raja Al Hoceima			1-2 Hassania Lazari Oujda
+[May 29]
+Fath Wislan Meknes		1-1 Chabab Larache			[3-1 pen]
+Widad Témara			2-1 Widad de Fès
+
+Groupe Sud [May 28]
+Jeunesse Sportive El Massira	0-0 Union Bouskoura			[3-2 pen]
+Olympique Dcheira		0-2 Racing Casablanca
+Raja de Beni Mellal		1-0 Adrar Union Athletique Souss
+Olympique de Marrakech		4-1 USM Ait Melloul
+Chabab Kasba Tadla		1-2 Club Rajaa Sportive Jadida
+Chabab Al Janoub Boujdour	0-3 Amal Souk Sebt
+Chabab Benguerir		3-4 Youssoufia Berrechid
+Union Sportif Amal Tiznit	1-0 Renaissance Khemis Ezzmamra
+
+1/16 Finals
+
+First Legs
+[Jun 10]
+Chabab Al Hoceima 		1-0 Hassania Lazari Oujda
+Club Rajaa Sportive Jadida	0-3 Hassania Agadir
+[Jun 11]
+Jeunesse Sportive El Massira	2-1 Raja de Beni Mellal
+Ittihad Tanger 			4-0 Moghreb Tétouan
+Union S Témara			1-4 Maghreb de Fès
+Mouloudia Oujda 		0-3 AS Forces Royales
+RS Renaissance Martil		1-1 Ittihad Khemisset
+Fath Wislan Meknes		3-1 Kénitra Athlétic
+Kawkab Marrakech	        1-2 Olympique Khouribga
+Racing Casablanca 		1-2 Fath US de Rabat
+Wydad de Casablanca 		5-0 Union Sportif Amal Tiznit
+[Jun 12]
+Rachad Bernoussi		1-1 Renaissance Berkane
+Widad Témara			2-2 Union Sidi Kacem
+Difaâ d’El Jadida 		1-1 Raja de Casablanca
+Olympique de Marrakech		1-4 Olympic de Safi
+Amal Souk Sebt			2-0 Youssoufia Berrechid
+
+Second Legs
+[Jun 17]
+Hassania Agadir			4-2 Club Rajaa Sportive Jadida		[agg 7-2]
+Ittihad Khemisset		1-0 RS Renaissance Martil		[agg 2-1]
+[Jun 18]
+Maghreb de Fès			6-1 Union S Témara			[agg 10-2]
+Kénitra Athlétic		2-0 Fath Wislan Meknes			[agg 3-3; Kénitra on away goal]
+AS Forces Royales		1-1 Mouloudia Oujda			[agg 4-1]
+Raja de Beni Mellal		2-2 Jeunesse Sportive El Massira	[agg 3-4]
+Youssoufia Berrechid		1-3 Amal Souk Sebt			[agg 1-5]
+Union Sidi Kacem		3-2 Widad Témara			[agg 5-4]
+Hassania Lazari Oujda		3-2 Chabab Al Hoceima			[agg 3-3; Al Hoceima on away goal]
+Moghreb Tétouan			2-0 Ittihad Tanger			[agg 2-4]
+Renaissance Berkane		3-0 Rachad Bernoussi			[agg 4-1]
+[Jun 19]
+Raja de Casablanca		2-2 Difaâ d’El Jadida			[agg 3-3; Difaâ d’El Jadida on away goal]
+Olympic de Safi			7-1 Olympique de Marrakech
+[Jun 21]
+Olympique Khouribga		0-0 Kawkab Marrakech			[agg 2-1]
+[Jun 22]
+Fath de Rabat			4-1 Racing Casablanca			[agg 6-2]
+[Jun 23]
+Union Sportif Amal Tiznit	0-2 Wydad de Casablanca			[agg 0-7]
+
+1/8 Finals
+
+First Legs
+[Sep 2]
+Difaâ d’El Jadida		3-1 Amal Souk Sebt
+[Sep 3]
+Chabab Al Hoceima		0-4 AS Forces Royales
+Olympic de Safi			2-1 Union Sidi Kacem
+[Sep 4]
+Ittihad Khemisset		1-0 Hassania Agadir
+[Sep 5]
+Maghreb de Fès			1-0 Wydad de Casablanca
+Ittihad Tanger			2-0 Olympique Khouribga
+[Sep 6]
+Fath de Rabat			2-1 Kénitra Athlétic
+[Sep 7]
+Jeunesse Sportive El Massira	1-1 Renaissance Berkane
+
+Second Legs
+[Sep 9]
+Amal Souk Sebt			0-3 Difaâ d’El Jadida			[agg 1-6]
+Union Sidi Kacem		0-1 Olympic de Safi			[agg 1-3]
+Wydad de Casablanca		1-1 Maghreb de Fès			[agg 1-2]
+[Sep 10]
+Hassania Agadir			0-1 Ittihad Khemisset			[agg 0-2]
+Kénitra Athlétic		0-2 Fath de Rabat			[agg 1-4]
+AS Forces Royales		1-1 Chabab Al Hoceima			[agg 5-1]
+Renaissance Berkane		0-0 Jeunesse Sportive El Massira	[agg 1-1; Berkane on away goal]
+Olympique Khouribga		1-1 Ittihad Tanger			[agg 1-3]
+
+Quarterfinals
+
+First Legs
+[Sep 27]
+Maghreb de Fès			0-1 AS Forces Royales
+[Sep 28]
+Olympic de Safi			3-0 Fath de Rabat
+Ittihad Khemisset		1-1 Ittihad Tanger
+Difaâ d’El Jadida		3-1 Renaissance Berkane
+
+Second Legs
+[Oct 1]
+AS Forces Royales		0-1 Maghreb de Fès                 	[agg 1-1; 2-4 pen]
+[Oct 2]
+Ittihad Tanger			1-0 Ittihad Khemisset			[agg 2-1]
+Renaissance Berkane		0-0 Difaâ d’El Jadida                   [agg 1-3]
+Fath de Rabat			3-0 Olympic de Safi			[agg 3-3; 2-4 pen]
+
+Semifinals
+
+First Legs [Oct 19]
+Olympic de Safi			0-1 Difaâ d’El Jadida		        
+Maghreb de Fès			0-0 Ittihad Tanger			
+
+Second Legs [Nov 2]
+Difaâ d’El Jadida		0-1 Olympic de Safi                     [agg 1-1; 0-3 pen]
+Ittihad Tanger			1-1 Maghreb de Fès                      [agg 1-1; Maghreb de Fès on away goal]
+
+Final [Nov 18, Stade Cheikh Mohamed Laghdaf, Laayoune]
+Maghreb de Fès			2-1 Olympic de Safi	                [aet]
+  [Franck Guiza 3, 99; Mehdi Namli 67pen]
+

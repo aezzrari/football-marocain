@@ -1,0 +1,88 @@
+GNF I
+
+Final Table:
+
+ 1.Raja Casablanca    30 18  6  6 45-23 60  Champions     
+ 2.MAS Fès            30 14 11  5 34-23 53    
+ 3.WAC Casablanca     30 13 12  5 31-18 51    
+ 4.OC Khouribga       30 14  8  8 31-20 50    
+ 5.OC Safi            30 12 13  5 31-25 49    
+ 6.FAR Rabat          30 10 10 10 28-27 40    
+ 7.FUS Rabat          30  8 14  8 22-21 38    
+ 8.MA Tétouan         30  8 12 10 26-28 36    
+ 9.HUS Agadir         30  8 12 10 22-24 36    
+10.DH El Jadida       30  7 14  9 25-25 35    
+11.JS El Massira      30  8 10 12 24-35 34    
+12.CR Al Hoceima      30  6 15  9 21-24 33    
+13.Kénitra AC         30  6 14 10 16-24 32    
+14.Wydad A. Fès       30  6 13 11 21-30 31 
+------------------------------------------   
+15.KAC Marrakech      30  4 16 10 19-25 28  Relegated    
+16.Chabab Kasba Tadla 30  4  8 18 17-41 20  Relegated
+
+Coupe du Trône
+
+1/16 Finals
+[Aug 4]
+FAR Rabat          0-1 FUS Rabat          
+[Aug 5]
+DH El Jadida       2-2 USM Aït Melloul    [aet, 5-3 pen]
+[Aug 6]
+WAC Casablanca     4-3 OC Khouribga       [aet]
+[Aug 7]
+MAS Fès            3-0 Ittihad Azilal     
+[Aug 8]
+Raja Casablanca    2-3 OC Safi            
+[Aug 9]
+US Mohammédia      2-1 HA Nador           
+[Aug 10]
+TAS Casablanca     0-1 COD Meknès         
+[Aug 11]
+MA Tétouan         0-1 AS Salé            
+[Aug 12]
+CR Al Hoceima      1-0 WA Fès             
+[Aug 13]
+Chabab Houara      0-1 Kénitra AC         [aet]
+[Aug 14]
+JS El Massira      6-0 WA Serghini        
+[Aug 15]
+HUS Agadir         1-0 US Temara          
+[Aug 16]
+SCC Mohammédia     4-1 KASSYG             
+[Aug 17]
+Rachad Bernoussi   2-2 Kasbah Tadla       [aet, 2-3 pen]
+[Aug 18]
+CSM Toulal         2-0 Chabab Darouich    
+[Aug 19]
+Fath Sidi Bennour  0-3 KAC Marrakech      
+
+1/8 Finals
+[Sep 6]
+KAC Marrakech      0-1 MAS Fès            [aet]
+[Sep 10]
+Kénitra AC         0-2 FUS Rabat          
+AS Salé            1-2 US Mohammédia      
+HUS Agadir         1-0 Kasbah Tadla       
+[Sep 11]
+SCC Mohammédia     0-1 CR Al Hoceima      
+COD Meknès         0-0 OC Safi            [aet, 4-3 pen]
+DH El Jadida       2-0 CSM Toulal         [aet]
+[Sep 21}
+JS El Massira      1-4 WAC Casablanca     
+
+Quarterfinals
+[oct 1]
+COD Meknès         2-1 US Mohammédia      
+[Oct 2]
+DH El Jadida       2-1 CR Al Hoceima      
+HUS Agadir         0-1 MAS Fès            
+[Oct 26]
+FUS Rabat          1-1 WAC Casablanca     [aet, 4-5 pen]
+
+Semifinals [Nov 15]
+COD Meknès         1-0 DH El Jadida       
+MAS Fès            1-1 WAC Casablanca     [aet, 3-2 pen]
+
+Final [Dec 11, 2011, Rabat]
+MAS Fès            1-0 COD Meknès         
+  [Luiz Jeferson Escher 74]
