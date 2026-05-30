@@ -1314,29 +1314,37 @@ function nationalSquadType(match) {
 
 function computeNationalScorerStats(matches) {
   const scorers = new Map();
+  const getPlayerKey = (name) => {
+    return name.trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/'/g, "");
+  };
+
+  const ensure = (rawName) => {
+    const key = getPlayerKey(rawName);
+    if (!scorers.has(key)) {
+      scorers.set(key, { name: rawName, goals: 0, penalties: 0, matches: 0, years: new Set() });
+    } else {
+      if (rawName.includes("Ï") || rawName.includes("ï") || rawName.includes("É") || rawName.includes("é") || rawName.includes("È") || rawName.includes("è")) {
+        scorers.get(key).name = rawName;
+      }
+    }
+    return scorers.get(key);
+  };
 
   matches.flatMap((match) => match.scorers).forEach((scorer) => {
-    if (!scorers.has(scorer.name)) {
-      scorers.set(scorer.name, {
-        name: scorer.name,
-        goals: 0,
-        penalties: 0,
-        matches: 0,
-        years: new Set()
-      });
-    }
-
-    const row = scorers.get(scorer.name);
+    const row = ensure(scorer.name);
     row.goals += scorer.goals;
     row.penalties += scorer.penalties;
   });
 
   matches.forEach((match) => {
-    const names = new Set(match.scorers.map((scorer) => scorer.name));
-    names.forEach((name) => {
-      const row = scorers.get(name);
-      row.matches += 1;
-      row.years.add(match.year);
+    // We must normalize scorer names before adding to set to avoid counting the same player twice in one match under different names
+    const names = new Set(match.scorers.map((scorer) => getPlayerKey(scorer.name)));
+    names.forEach((key) => {
+      const row = scorers.get(key);
+      if (row) {
+        row.matches += 1;
+        row.years.add(match.year);
+      }
     });
   });
 
@@ -1347,11 +1355,22 @@ function computeNationalScorerStats(matches) {
 
 function computeNationalDetailedPlayerStats(matches) {
   const stats = new Map();
-  const ensure = (name) => {
-    if (!stats.has(name)) {
-      stats.set(name, { name, matches: 0, starts: 0, minutes: 0, goals: 0, yellow: 0, red: 0 });
+  const getPlayerKey = (name) => {
+    return name.trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/'/g, "");
+  };
+  
+  const ensure = (rawName) => {
+    const key = getPlayerKey(rawName);
+    // Prefer accented names (e.g., SAÏSS over SAISS) for the display name if we already have it, or vice versa
+    if (!stats.has(key)) {
+      stats.set(key, { name: rawName, matches: 0, starts: 0, minutes: 0, goals: 0, yellow: 0, red: 0 });
+    } else {
+      // If the new rawName has an accent and the stored one doesn't, upgrade the display name
+      if (rawName.includes("Ï") || rawName.includes("ï") || rawName.includes("É") || rawName.includes("é") || rawName.includes("È") || rawName.includes("è")) {
+        stats.get(key).name = rawName;
+      }
     }
-    return stats.get(name);
+    return stats.get(key);
   };
 
   matches
