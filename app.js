@@ -1,5 +1,5 @@
 const state = {
-  season: seasons[0],
+  season: seasons.find((s) => s.id === "2021-22") || seasons[0],
   activeTab: "championship",
   query: ""
 };
@@ -814,6 +814,7 @@ function renderSeasonOptions() {
   els.seasonSelect.innerHTML = seasons
     .map((season) => `<option value="${season.id}">${season.label}</option>`)
     .join("");
+  els.seasonSelect.value = state.season.id;
 }
 
 function renderOverview() {
