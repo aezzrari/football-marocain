@@ -2174,6 +2174,31 @@ function renderStatistics() {
   `;
 }
 
+function normalizeCoachName(name) {
+  if (!name) return "Non renseigne";
+  let n = name.trim().replace(/\.$/, "").replace(/^Coach:\s*/i, "").replace(/^\[COACH:\s*/i, "").replace(/\]$/, "");
+  
+  const lower = n.toLowerCase()
+    .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    .replace(/'/g, "");
+    
+  if (lower.includes("ezaki") || lower.includes("baddou") || lower.includes("badou")) return "Badou ZAKI";
+  if (lower.includes("renard")) return "Hervé RENARD";
+  if (lower.includes("halilhodzic") || lower.includes("khalisosic") || lower.includes("vahid")) return "Vahid HALILHODZIC";
+  if (lower.includes("fakhir")) return "M'hamed FAKHIR";
+  if (lower.includes("ammouta")) return "Lhoussaine AMMOUTA";
+  if (lower.includes("lemerre")) return "Roger LEMERRE";
+  if (lower.includes("michel")) return "Henri MICHEL";
+  if (lower.includes("moumen")) return "Hassan MOUMEN";
+  if (lower.includes("coelho")) return "Humberto COELHO";
+  if (lower.includes("sellami")) return "Jamal SELLAMI";
+  if (lower.includes("kasperczak")) return "Henryk KASPERCZAK";
+  if (lower.includes("troussier")) return "Philippe TROUSSIER";
+  if (lower.includes("madih")) return "Mustapha MADIH";
+  
+  return n;
+}
+
 function computeCoachStats(matches) {
   const coaches = new Map();
 
@@ -2182,7 +2207,8 @@ function computeCoachStats(matches) {
 
     const detailKey = match.detailKey || nationalDetailKey(match.date, match.opponent);
     const detail = nationalMatchDetails.get(detailKey);
-    let coachName = detail && detail.coach ? detail.coach : "Non renseigne";
+    let rawCoachName = detail && detail.coach ? detail.coach : "Non renseigne";
+    let coachName = normalizeCoachName(rawCoachName);
 
     if (coachName === "Non renseigne") return;
     if (coachName === "NAME" || coachName.includes("NAME.")) return;
