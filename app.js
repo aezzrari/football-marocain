@@ -41,7 +41,8 @@ const els = {
   nationalMatchesBody: document.querySelector("#nationalMatchesBody"),
   nationalDetailDialog: document.querySelector("#nationalDetailDialog"),
   nationalDetailContent: document.querySelector("#nationalDetailContent"),
-  closeNationalDetail: document.querySelector("#closeNationalDetail")
+  closeNationalDetail: document.querySelector("#closeNationalDetail"),
+  coachesBody: document.querySelector("#coachesBody")
 };
 
 function clubName(code) {
@@ -2173,6 +2174,80 @@ function renderStatistics() {
   `;
 }
 
+function computeCoachStats(matches) {
+  const coaches = new Map();
+
+  matches.forEach((match) => {
+    if (match.squad !== "A") return;
+
+    const detailKey = nationalDetailKey(match.date, match.opponent);
+    const detail = nationalMatchDetails.get(detailKey);
+    let coachName = detail && detail.coach ? detail.coach : "Non renseigne";
+
+    if (coachName === "Non renseigne") return;
+    if (coachName === "NAME" || coachName.includes("NAME.")) return;
+
+    if (!coaches.has(coachName)) {
+      coaches.set(coachName, {
+        name: coachName,
+        firstMatch: match,
+        lastMatch: match,
+        matches: 0,
+        wins: 0,
+        draws: 0,
+        losses: 0,
+        goalsFor: 0,
+        goalsAgainst: 0
+      });
+    }
+
+    const stats = coaches.get(coachName);
+    stats.matches++;
+    
+    // Sort matches to find first and last correctly (assuming they are processed in order, or we force update)
+    if (match.year < stats.firstMatch.year || (match.year === stats.firstMatch.year && match.date < stats.firstMatch.date)) {
+      stats.firstMatch = match;
+    }
+    if (match.year > stats.lastMatch.year || (match.year === stats.lastMatch.year && match.date > stats.lastMatch.date)) {
+      stats.lastMatch = match;
+    }
+
+    if (match.score) {
+      const parts = match.score.split("-").map(Number);
+      if (parts.length === 2) {
+        stats.goalsFor += parts[0];
+        stats.goalsAgainst += parts[1];
+      }
+    }
+
+    if (match.result === "W") stats.wins++;
+    else if (match.result === "D") stats.draws++;
+    else if (match.result === "L") stats.losses++;
+  });
+
+  return [...coaches.values()].sort((a, b) => b.matches - a.matches);
+}
+
+function renderCoaches() {
+  const stats = computeCoachStats(nationalMatches);
+  els.coachesBody.innerHTML = stats.map((stat) => {
+    const winRate = stat.matches > 0 ? ((stat.wins / stat.matches) * 100).toFixed(1) : "0.0";
+    return `
+      <tr>
+        <th scope="row">${stat.name}</th>
+        <td>${stat.firstMatch.year} - ${stat.lastMatch.year}</td>
+        <td><strong>${stat.matches}</strong></td>
+        <td style="color: var(--green)">${stat.wins}</td>
+        <td style="color: var(--muted)">${stat.draws}</td>
+        <td style="color: var(--red)">${stat.losses}</td>
+        <td>${stat.goalsFor}</td>
+        <td>${stat.goalsAgainst}</td>
+        <td><strong>${winRate}%</strong></td>
+      </tr>
+    `;
+  }).join("");
+}
+
 function renderAll() {
   renderOverview();
   renderRanking();
@@ -2181,6 +2256,7 @@ function renderAll() {
   renderStatistics();
   renderHonours();
   renderNationalTeam();
+  renderCoaches();
 }
 
 function setActiveTab(tabName) {

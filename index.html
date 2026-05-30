@@ -45,6 +45,7 @@
         <button class="tab" type="button" data-tab="cup">Coupe du Trone</button>
         <button class="tab" type="button" data-tab="statistics">Statistiques</button>
         <button class="tab" type="button" data-tab="honours">Palmares</button>
+        <button class="tab" type="button" data-tab="coaches">Sélectionneurs</button>
         <button class="tab tab-national" type="button" data-tab="national">Sélection Marocaine</button>
         <button class="tab" type="button" data-tab="feedback">Remarques</button>
       </nav>
@@ -275,6 +276,33 @@
               </tr>
             </thead>
             <tbody id="nationalMatchesBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="tab-panel" id="coaches" aria-labelledby="coachesTitle">
+        <div class="section-heading">
+          <div>
+            <h2 id="coachesTitle">Les Sélectionneurs</h2>
+            <p class="muted">Historique et bilan des entraineurs de l'equipe nationale (base sur les fiches de match detaillees).</p>
+          </div>
+        </div>
+        <div class="table-wrap scorer-table-wrap">
+          <table class="ranking-table match-grid">
+            <thead>
+              <tr>
+                <th>Nom</th>
+                <th>Periode</th>
+                <th>Matchs</th>
+                <th>V</th>
+                <th>N</th>
+                <th>D</th>
+                <th>BP</th>
+                <th>BC</th>
+                <th>% Victoires</th>
+              </tr>
+            </thead>
+            <tbody id="coachesBody"></tbody>
           </table>
         </div>
       </section>
