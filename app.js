@@ -2371,5 +2371,35 @@ els.resetStatsFilters.addEventListener("click", () => {
   renderStatistics();
 });
 
+document.querySelectorAll(".sub-tab").forEach((tab) => {
+  tab.addEventListener("click", (e) => {
+    // Hide all sub-panels
+    document.querySelectorAll(".sub-panel").forEach((panel) => {
+      panel.style.display = "none";
+      panel.classList.remove("is-active");
+    });
+    // Remove active state from all sub-tabs
+    document.querySelectorAll(".sub-tab").forEach((btn) => {
+      btn.classList.remove("is-active");
+      btn.style.background = "#ece6d8";
+      btn.style.color = "var(--ink)";
+    });
+    
+    // Activate clicked sub-tab
+    const target = e.target;
+    target.classList.add("is-active");
+    target.style.background = "var(--green)";
+    target.style.color = "white";
+    
+    // Show target sub-panel
+    const panelId = target.dataset.subtab;
+    const panel = document.getElementById(panelId);
+    if (panel) {
+      panel.style.display = "block";
+      panel.classList.add("is-active");
+    }
+  });
+});
+
 renderSeasonOptions();
 renderAll();
