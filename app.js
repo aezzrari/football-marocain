@@ -2252,11 +2252,7 @@ function computeCoachStats(matches) {
       stats.goalsFor += match.goalsFor;
       stats.goalsAgainst += match.goalsAgainst;
     }
-
-    if (match.result === "Victoire") stats.wins++;
-    else if (match.result === "Nul") stats.draws++;
-    else if (match.result === "Defaite") stats.losses++;
-  });
+  }
 
   return [...coaches.values()].sort((a, b) => b.matches - a.matches);
 }
