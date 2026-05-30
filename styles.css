@@ -247,6 +247,32 @@ main {
   color: white;
 }
 
+.tab.tab-national {
+  background: linear-gradient(135deg, #b1191f, #0e6b45);
+  border-color: #8b1118;
+  color: white;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  position: relative;
+  overflow: hidden;
+}
+
+.tab.tab-national::before {
+  content: "\2605";
+  position: absolute;
+  top: 3px;
+  right: 6px;
+  font-size: 0.65rem;
+  color: #f6d488;
+  opacity: 0.7;
+}
+
+.tab.tab-national.is-active {
+  background: linear-gradient(135deg, #d4202c, #0a8a52);
+  border-color: #d4202c;
+  box-shadow: 0 4px 16px rgba(177, 25, 31, 0.35);
+}
+
 .tab-panel {
   display: none;
   padding: 22px;
@@ -1044,5 +1070,89 @@ ol {
   th,
   td {
     padding: 9px 10px;
+  }
+}
+
+/* Feedback form */
+.feedback-form {
+  display: grid;
+  gap: 18px;
+  max-width: 680px;
+}
+
+.feedback-form .form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 14px;
+}
+
+.feedback-form label {
+  display: block;
+}
+
+.feedback-form label span {
+  display: block;
+  color: var(--muted);
+  font-size: 0.82rem;
+  font-weight: 700;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.feedback-form input,
+.feedback-form select,
+.feedback-form textarea {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: white;
+  color: var(--ink);
+  padding: 10px 12px;
+  font: inherit;
+  transition: border-color 0.2s;
+}
+
+.feedback-form input:focus,
+.feedback-form select:focus,
+.feedback-form textarea:focus {
+  outline: none;
+  border-color: var(--green);
+  box-shadow: 0 0 0 3px rgba(14, 107, 69, 0.12);
+}
+
+.feedback-form textarea {
+  resize: vertical;
+  min-height: 120px;
+}
+
+.submit-btn {
+  justify-self: start;
+  min-width: 180px;
+  min-height: 48px;
+  border: none;
+  border-radius: 8px;
+  background: linear-gradient(135deg, #b1191f, #0e6b45);
+  color: white;
+  font-weight: 800;
+  font-size: 1rem;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  transition: transform 0.15s, box-shadow 0.15s;
+  box-shadow: 0 4px 14px rgba(177, 25, 31, 0.25);
+}
+
+.submit-btn:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 6px 20px rgba(177, 25, 31, 0.35);
+}
+
+.submit-btn:active {
+  transform: translateY(0);
+}
+
+@media (max-width: 560px) {
+  .feedback-form .form-row {
+    grid-template-columns: 1fr;
   }
 }

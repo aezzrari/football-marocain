@@ -37,7 +37,8 @@
         <button class="tab" type="button" data-tab="cup">Coupe du Trone</button>
         <button class="tab" type="button" data-tab="statistics">Statistiques</button>
         <button class="tab" type="button" data-tab="honours">Palmares</button>
-        <button class="tab" type="button" data-tab="national">Selection</button>
+        <button class="tab tab-national" type="button" data-tab="national">Sélection Marocaine</button>
+        <button class="tab" type="button" data-tab="feedback">Remarques</button>
       </nav>
 
       <section class="tab-panel is-active" id="championship" aria-labelledby="championshipTitle">
@@ -268,6 +269,48 @@
             <tbody id="nationalMatchesBody"></tbody>
           </table>
         </div>
+      </section>
+
+      <section class="tab-panel" id="feedback" aria-labelledby="feedbackTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Participez</p>
+            <h2 id="feedbackTitle">Remarques & Suggestions</h2>
+            <p class="muted">Aidez-nous a ameliorer cette base de donnees. Signalez une erreur, proposez un ajout ou partagez vos archives.</p>
+          </div>
+        </div>
+        <form name="suggestions" method="POST" data-netlify="true" class="feedback-form">
+          <input type="hidden" name="form-name" value="suggestions">
+          <div class="form-row">
+            <label>
+              <span>Votre nom</span>
+              <input type="text" name="name" placeholder="Ex: Ahmed B." required>
+            </label>
+            <label>
+              <span>Email (optionnel)</span>
+              <input type="email" name="email" placeholder="Pour vous recontacter">
+            </label>
+          </div>
+          <label>
+            <span>Type</span>
+            <select name="type">
+              <option value="correction">Correction d'une erreur</option>
+              <option value="ajout">Proposition d'ajout</option>
+              <option value="archive">Partage d'archives</option>
+              <option value="suggestion">Suggestion generale</option>
+              <option value="autre">Autre</option>
+            </select>
+          </label>
+          <label>
+            <span>Saison / Match concerne (optionnel)</span>
+            <input type="text" name="reference" placeholder="Ex: Saison 1985/86 ou Maroc vs Egypte 12/06/2025">
+          </label>
+          <label>
+            <span>Votre message</span>
+            <textarea name="message" rows="5" placeholder="Decrivez votre remarque ou suggestion en detail..." required></textarea>
+          </label>
+          <button type="submit" class="submit-btn">Envoyer</button>
+        </form>
       </section>
     </main>
 
