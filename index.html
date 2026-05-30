@@ -45,7 +45,6 @@
         <button class="tab" type="button" data-tab="cup">Coupe du Trone</button>
         <button class="tab" type="button" data-tab="statistics">Statistiques</button>
         <button class="tab" type="button" data-tab="honours">Palmares</button>
-        <button class="tab" type="button" data-tab="coaches">Sélectionneurs</button>
         <button class="tab tab-national" type="button" data-tab="national">Sélection Marocaine</button>
         <button class="tab" type="button" data-tab="feedback">Remarques</button>
       </nav>
@@ -196,11 +195,18 @@
       <section class="tab-panel" id="national" aria-labelledby="nationalTitle">
         <div class="section-heading">
           <div>
-            <p class="eyebrow">Equipe nationale</p>
-            <h2 id="nationalTitle">Tableau de bord de la selection</h2>
+            <h2 id="nationalTitle">Sélection Marocaine (Équipe A)</h2>
+            <p class="muted">Historique des matchs internationaux officiels et amicaux.</p>
           </div>
         </div>
-        <div class="stats-filter-panel national-filter-panel">
+
+        <nav class="sub-tabs" style="display: flex; gap: 8px; margin-bottom: 16px;">
+          <button class="sub-tab is-active" type="button" data-subtab="national-matches" style="padding: 8px 16px; border: 1px solid var(--line); background: var(--green); color: white; border-radius: 8px; cursor: pointer;">Matchs</button>
+          <button class="sub-tab" type="button" data-subtab="national-coaches" style="padding: 8px 16px; border: 1px solid var(--line); background: #ece6d8; color: var(--ink); border-radius: 8px; cursor: pointer;">Sélectionneurs</button>
+        </nav>
+
+        <div id="national-matches" class="sub-panel is-active">
+          <div class="stats-filter-panel national-filter-panel">
           <label>
             <span>Type</span>
             <select id="nationalSquadSelect" aria-label="Filtrer par type de selection">
@@ -278,32 +284,27 @@
             <tbody id="nationalMatchesBody"></tbody>
           </table>
         </div>
-      </section>
-
-      <section class="tab-panel" id="coaches" aria-labelledby="coachesTitle">
-        <div class="section-heading">
-          <div>
-            <h2 id="coachesTitle">Les Sélectionneurs</h2>
-            <p class="muted">Historique et bilan des entraineurs de l'equipe nationale (base sur les fiches de match detaillees).</p>
-          </div>
         </div>
-        <div class="table-wrap scorer-table-wrap">
-          <table class="ranking-table match-grid">
-            <thead>
-              <tr>
-                <th>Nom</th>
-                <th>Periode</th>
-                <th>Matchs</th>
-                <th>V</th>
-                <th>N</th>
-                <th>D</th>
-                <th>BP</th>
-                <th>BC</th>
-                <th>% Victoires</th>
-              </tr>
-            </thead>
-            <tbody id="coachesBody"></tbody>
-          </table>
+
+        <div id="national-coaches" class="sub-panel" style="display: none;">
+          <div class="table-wrap scorer-table-wrap">
+            <table class="ranking-table match-grid">
+              <thead>
+                <tr>
+                  <th>Nom</th>
+                  <th>Periode</th>
+                  <th>Matchs</th>
+                  <th>V</th>
+                  <th>N</th>
+                  <th>D</th>
+                  <th>BP</th>
+                  <th>BC</th>
+                  <th>% Victoires</th>
+                </tr>
+              </thead>
+              <tbody id="coachesBody"></tbody>
+            </table>
+          </div>
         </div>
       </section>
 

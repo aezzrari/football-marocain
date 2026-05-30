@@ -2178,9 +2178,9 @@ function computeCoachStats(matches) {
   const coaches = new Map();
 
   matches.forEach((match) => {
-    if (match.squad !== "A") return;
+    if (nationalSquadType(match) !== "A") return;
 
-    const detailKey = nationalDetailKey(match.date, match.opponent);
+    const detailKey = match.detailKey || nationalDetailKey(match.date, match.opponent);
     const detail = nationalMatchDetails.get(detailKey);
     let coachName = detail && detail.coach ? detail.coach : "Non renseigne";
 
@@ -2204,7 +2204,7 @@ function computeCoachStats(matches) {
     const stats = coaches.get(coachName);
     stats.matches++;
     
-    // Sort matches to find first and last correctly (assuming they are processed in order, or we force update)
+    // Sort matches chronologically (matches array is newest first usually, but checking)
     if (match.year < stats.firstMatch.year || (match.year === stats.firstMatch.year && match.date < stats.firstMatch.date)) {
       stats.firstMatch = match;
     }
@@ -2212,17 +2212,14 @@ function computeCoachStats(matches) {
       stats.lastMatch = match;
     }
 
-    if (match.score) {
-      const parts = match.score.split("-").map(Number);
-      if (parts.length === 2) {
-        stats.goalsFor += parts[0];
-        stats.goalsAgainst += parts[1];
-      }
+    if (match.goalsFor !== undefined && match.goalsAgainst !== undefined) {
+      stats.goalsFor += match.goalsFor;
+      stats.goalsAgainst += match.goalsAgainst;
     }
 
-    if (match.result === "W") stats.wins++;
-    else if (match.result === "D") stats.draws++;
-    else if (match.result === "L") stats.losses++;
+    if (match.result === "Victoire") stats.wins++;
+    else if (match.result === "Nul") stats.draws++;
+    else if (match.result === "Defaite") stats.losses++;
   });
 
   return [...coaches.values()].sort((a, b) => b.matches - a.matches);
