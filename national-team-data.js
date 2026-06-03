@@ -1,7 +1,11 @@
 const nationalTeamRawLines = [
     "DATE     VERSUS          VENUE SCORE [HT]  [PEN] CROWD  COMP      SCORERS",
     "",
-    "18/01/26 SENEGAL         [MAR] L 0-1 [0-0] AET    66526 CAN Final",
+    "02/06/26 Madagascar      [MAR] w 4-0 [2-0]        50000 Fr        [I.Saibari 4,25\u003eS.Rahimi 78Pen\u003eA.El-Kaabi 87]",
+    "26/05/26 Burundi         [MAR] w 5-0 [0-0]       -      Fr*       [A.El-Kaabi 59,63\u003eT.Bentayeb 71\u003eS.Benjdida 80,90]",
+    "31/03/26 Paraguay        [FRA] w 2-1 [0-0]        38000 Fr        [B.El Khannouss 48\u003eN.El Aynaoui 53]",
+    "27/03/26 Ecuador         [ESP] d 1-1 [0-0]        61622 Fr        [N.El Aynaoui 88]",
+    "18/01/26 SENEGAL         [MAR] W 3-0 [0-0]        66526 CAN Final  [Victoire sur tapis vert après sortie du terrain de l'équipe du Sénégal]",
     "14/01/26 NIGERIA         [MAR] D 0-0 [0-0] [4-2]  65458 CAN Sf",
     "09/01/26 CAMEROON        [MAR] W 2-0 [1-0]        64178 CAN Qf    [B.Diaz 26\u003eI.Saibari 74]",
     "04/01/26 TANZANIA        [MAR] W 1-0 [0-0]        63894 CAN Rd 2  [B.Diaz 64]",
@@ -50,7 +54,7 @@ const nationalTeamRawLines = [
     "11/01/24 Sierra Leone    [CIV] w 3-1 [2-1]       -      Fr        [Y.En-Nesyri 30,55\u003eS.Boufal 35]",
     "----------------------------------------------------------------------------------------------------------------------------------------------------",
     "21/11/23 TANZANIA        [TAN] W 2-0 [1-0]        60000 WCQ       [H.Ziyech 28\u003eB.Mwamnyeto 54 OG]",
-    "17/10/23 LIBERIA         [MAR] W 3-0 [1-0]       -      WCQ       [A.Harit 45+2\u003eA.El-Kaabi 59Pen\u003eA.Adli 89]",
+    "17/10/23 LIBERIA         [MAR] W 3-0 [1-0]       -      CANQ      [A.Harit 45+2\u003eA.El-Kaabi 59Pen\u003eA.Adli 89]",
     "14/10/23 Ivory Coast     [CIV] d 1-1 [0-0]        22135 Fr        [A.El-Kaabi 81]",
     "12/09/23 Burkina Faso    [FRA] w 1-0 [1-0]       -      Fr        [A.Ounahi 36]",
     "17/06/23 SOUTH AFRICA    [RSA] L 1-2 [0-1]       -      CANQ      [H.Ziyech 60]",
@@ -920,5 +924,5 @@ const nationalTeamRawLines = [
     "",
     "All matches without a \u0027*\u0027 from the results are included.",
     "",
-    "LAST UPDATE: 20/01/2026"
+    "LAST UPDATE: 02/06/2026"
 ];

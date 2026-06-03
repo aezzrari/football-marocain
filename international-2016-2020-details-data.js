@@ -88,7 +88,7 @@ const international2016To2020DetailsRawLines = [
     "GOAL: (0-1) EL-ARABI, Youssef 26' pen",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [7/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [7/0]",
     "3- TANNANE, Oussama [Saint-Étienne-FRA] [1/0] >86’",
     "*7- EL KADDOURI, Omar [Napoli-ITA] [19/5] <86'",
     "4- DA COSTA, Manuel [c] [Olympiacos.-GRE] [10/0]",
@@ -114,7 +114,7 @@ const international2016To2020DetailsRawLines = [
     "(2-0) EL-ARABI, Youssef 61'",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [8/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [8/0]",
     "2- TANNANE, Oussama [Saint-Étienne-FRA] [2/0] >46’",
     "*16- AMRABAT, Nordin [Watford-ENG] [26/4] <46'",
     "4- DA COSTA, Manuel [c] [Olympiacos-GRE] [11/0]",
@@ -169,7 +169,7 @@ const international2016To2020DetailsRawLines = [
     "(1-1) Sanad AL-WARFALI 91’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [9/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [9/0]",
     "3- LAZAAR, Achraf [Città di Palermo-ITA] [16/0]",
     "5- BENATIA, Medhi [c] [Bayern Munich-GER] [39/1]",
     "6- SAÏSS, Romain [Angers-FRA] [5/0]",
@@ -192,7 +192,7 @@ const international2016To2020DetailsRawLines = [
     "ALBANIA 0-0 MOROCCO ",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [10/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [10/0]",
     "2- TANNANE, Oussama [Saint-Étienne-FRA] [3/0] >61’",
     "*13- CHAHECHOUHE, Aatif [Fenerbahçe-TUR] [11/1] <61'",
     "4- DA COSTA, Manuel [Olympiacos-GRE] [13/0]",
@@ -244,7 +244,7 @@ const international2016To2020DetailsRawLines = [
     "GABON 0-0 MOROCCO",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [11/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [11/0]",
     "3- LAZAAR, Achraf [Newcastle United-ENG] [18/0] >87’",
     "*2- MENDYL, Hamza [Lille-FRA] [2/0] <87’",
     "4- DA COSTA, Manuel [c] [Olympiacos-GRE] [15/0]",
@@ -298,7 +298,7 @@ const international2016To2020DetailsRawLines = [
     "MOROCCO 0-0 IVORY COAST ",
     " ",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [12/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [12/0]",
     "2- MENDYL, Hamza [Lille-FRA] [4/0]",
     "4- DA COSTA, Manuel [Olympiacos-GRE] [17/0]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [41/1]",
@@ -359,7 +359,7 @@ const international2016To2020DetailsRawLines = [
     "GOAL: (1-0) KABANANGA, Junior 55’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [13/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [13/0]",
     "2- MENDYL, Hamza [Lille-FRA] [6/0]",
     "4- DA COSTA, Manuel [Olympiacos-GRE] [18/0]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [42/1]",
@@ -386,7 +386,7 @@ const international2016To2020DetailsRawLines = [
     "(3-1) EN-NESYRI, Youssef",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [14/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [14/0]",
     "2- MENDYL, Hamza [Lille-FRA] [7/0]",
     "4- DA COSTA, Manuel [Olympiacos-GRE] [19/0]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [43/1]",
@@ -410,7 +410,7 @@ const international2016To2020DetailsRawLines = [
     "GOAL: (1-0) ALIOUI, Rachid 64’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [15/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [15/0]",
     "2- MENDYL, Hamza [Lille-FRA] [8/0]",
     "4- DA COSTA, Manuel [Olympiacos-GRE] [20/0]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [44/1]",
@@ -434,7 +434,7 @@ const international2016To2020DetailsRawLines = [
     "GOAL: (1-0) KAHRABA 87’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [16/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [16/0]",
     "2- MENDYL, Hamza [Lille-FRA] [9/0]",
     "4- DA COSTA, Manuel [Olympiacos-GRE] [21/0]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [45/1]",
@@ -458,7 +458,7 @@ const international2016To2020DetailsRawLines = [
     "(2-0) BOUHADDOUZ, Aziz 64’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [17/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [17/0]",
     "2- MENDYL, Hamza [Lille-FRA] [10/0] >74’",
     "*3- NAHIRI, Mohamed [Fath Union Sport] [2/0] <74’",
     "5- EL-YAMIQ, Jawad [Raja Club Athletic] [4/0]",
@@ -510,7 +510,7 @@ const international2016To2020DetailsRawLines = [
     "(1-2) BOUSSOUFA, Mbark 72’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [18/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [18/0]",
     "4- DA COSTA, Manuel [c] [Olympiacos-GRE] [22/0]",
     "6- SAÏSS, Romain [Wolverhampton Wanderers-ENG] [15/1]",
     "8- EL AHMADI, Karim [Feyenoord-NED] [40/1] >64’",
@@ -537,7 +537,7 @@ const international2016To2020DetailsRawLines = [
     "GOAL: (1-0) ABOUBAKAR, Vincent 28’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [19/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [19/0]",
     "3- FEDDAL, Zouhair [Deportivo Alavés-ESP] [16/0]",
     "4- AÏT BENNASSER, Youssef [Nancy-Lorraine-FRA] [8/0] >70’",
     "*18- CARCELA-GONZÁLEZ, Mehdi [Granada-ESP] [18/1] <70’",
@@ -618,7 +618,7 @@ const international2016To2020DetailsRawLines = [
     "(6-0) MAHI, Mimoun 88’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [20/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [20/0]",
     "2- HAKIMI, Achraf [Real Madrid-ESP] [2/1]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [46/1]",
     "6- SAÏSS, Romain [Wolverhampton Wanderers-ENG] [17/1]",
@@ -641,7 +641,7 @@ const international2016To2020DetailsRawLines = [
     "MALI 0-0 MOROCCO",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [21/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [21/0]",
     "2- HAKIMI, Achraf [Real Madrid-ESP] [3/1]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [47/1]",
     "6- SAÏSS, Romain [Wolverhampton Wanderers-ENG] [18/1]",
@@ -667,7 +667,7 @@ const international2016To2020DetailsRawLines = [
     "(3-0) BOUTAÏB, Khalid 72’",
     "",
     "MOROCCO:",
-    "1- MOHAND, Munir [Numancia-ESP] [22/0]",
+    "1- Munir El Kajoui [Numancia-ESP] [22/0]",
     "2- HAKIMI, Achraf [Real Madrid-ESP] [4/1]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [48/1] >81’",
     "*4- BENOUN, Badr [Raja Club Athletic] [3/1] <81’",
@@ -722,7 +722,7 @@ const international2016To2020DetailsRawLines = [
     "(0-2) BENATIA, Medhi 30’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [23/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [23/0]",
     "2- HAKIMI, Achraf [Real Madrid-ESP] [6/1]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [49/2]",
     "6- SAÏSS, Romain [Wolverhampton Wanderers-ENG] [20/1]",
@@ -913,7 +913,7 @@ const international2016To2020DetailsRawLines = [
     "(2-1) BOUTAÏB, Khalid 40’",
     "",
     "MOROCCO:",
-    "1- MOHAND, Munir [Numancia-ESP] [24/0]",
+    "1- Munir El Kajoui [Numancia-ESP] [24/0]",
     "3- MENDYL, Hamza [Lille-FRA] [11/0]",
     "4- DA COSTA, Manuel [Başakşehir-TUR] [23/0]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [50/2]",
@@ -938,7 +938,7 @@ const international2016To2020DetailsRawLines = [
     "(2-0) DA COSTA, Manuel 42’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir  [Numancia-ESP] [25/0] >46’",
+    "12- Munir El Kajoui  [Numancia-ESP] [25/0] >46’",
     "*22- TAGNAOUTI, Ahmed Réda [Wydad Athletic Club] [2/0] <46’",
     "2- HAKIMI, Achraf [Real Madrid-ESP] [7/1]",
     "4- DA COSTA, Manuel [c] [Başakşehir-TUR] [24/1]",
@@ -964,7 +964,7 @@ const international2016To2020DetailsRawLines = [
     "MOROCCO 0-0 UKRAINE",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [26/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [26/0]",
     "3- MENDYL, Hamza [Lille-FRA] [12/0] >83’",
     "*21- AMRABAT, Sofyan [Feyenoord-NED] [5/0] <83’",
     "4- DA COSTA, Manuel [Başakşehir-TUR] [25/1]",
@@ -1023,7 +1023,7 @@ const international2016To2020DetailsRawLines = [
     "(1-3) PURJE, Ats 76’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Numancia-ESP] [27/0]",
+    "12- Munir El Kajoui [Numancia-ESP] [27/0]",
     "2- HAKIMI, Achraf [Real Madrid-ESP] [10/1] >76’",
     "*13- BOUTAÏB, Khalid [Malatyaspor-TUR] [17/7] <76’",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [53/2] >46’",
@@ -1050,7 +1050,7 @@ const international2016To2020DetailsRawLines = [
     "GOAL: (0-1) BOUHADDOUZ, Aziz 95’ OG",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir  [Numancia-ESP] [28/0]",
+    "12- Munir El Kajoui  [Numancia-ESP] [28/0]",
     "2- HAKIMI, Achraf [Real Madrid-ESP] [11/1]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [54/2]",
     "6- SAÏSS, Romain [Wolverhampton Wanderers-ENG] [25/1]",
@@ -1074,7 +1074,7 @@ const international2016To2020DetailsRawLines = [
     "GOAL: (1-0) CRISTIANO RONALDO 4’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir  [Numancia-ESP] [29/0]",
+    "12- Munir El Kajoui  [Numancia-ESP] [29/0]",
     "2- HAKIMI, Achraf [Real Madrid-ESP] [12/1]",
     "4- DA COSTA, Manuel [Başakşehir-TUR] [29/1]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [55/2]",
@@ -1101,7 +1101,7 @@ const international2016To2020DetailsRawLines = [
     "(2-2) ASPAS, IAGO 91'",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir  [Numancia-ESP] [30/0]",
+    "12- Munir El Kajoui  [Numancia-ESP] [30/0]",
     "2- HAKIMI, Achraf [Real Madrid-ESP] [13/1]",
     "4- DA COSTA, Manuel [Başakşehir-TUR] [30/1]",
     "6- SAÏSS, Romain [Wolverhampton Wanderers-ENG] [26/1]",
@@ -1178,7 +1178,7 @@ const international2016To2020DetailsRawLines = [
     "(2-2) BEN NABOUHANE, El Fardou 91’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Málaga-ESP] [31/0]",
+    "12- Munir El Kajoui [Málaga-ESP] [31/0]",
     "2- HAKIMI, Achraf [Borussia Dortmund-GER] [16/1]",
     "3- MENDYL, Hamza [Schalke 04-GER] [15/0]",
     "4- SAIDI, Salaheddine [Wydad Athletic Club] [18/1] >35’",
@@ -1227,7 +1227,7 @@ const international2016To2020DetailsRawLines = [
     "GOAL: (0-1) EN-NESYRI, Youssef 41’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Málaga-ESP] [32/0]",
+    "12- Munir El Kajoui [Málaga-ESP] [32/0]",
     "5- BENATIA, Medhi [c] [Juventus-ITA] [57/2] >46’",
     "*4- DA COSTA, Manuel [Başakşehir-TUR] [33/1] <46’",
     "6- SAÏSS, Romain [Wolverhampton Wanderers-ENG] [30/1]",
@@ -1261,7 +1261,7 @@ const international2016To2020DetailsRawLines = [
     "MALAWI 0-0 MOROCCO",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [c] [Málaga-ESP] [33/0]",
+    "12- Munir El Kajoui [c] [Málaga-ESP] [33/0]",
     "3- EL HAJJAM, Oualid [Amiens-FRA] [3/0]",
     "4- BENOUN, Badr [Raja Club Athletic] [10/1]",
     "5- ABDELHAMID, Yunis [Stade de Reims-FRA] [3/0]",
@@ -1391,7 +1391,7 @@ const international2016To2020DetailsRawLines = [
     "GOAL: (0-1) BOUSSOUFA, Mbark 90’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Málaga-ESP] [34/0]",
+    "12- Munir El Kajoui [Málaga-ESP] [34/0]",
     "2- HAKIMI, Achraf [Borussia Dortmund-GER] [23/1]",
     "3- MAZRAOUI, Noussair [Ajax-NED] [6/0] >75’",
     "*17- DIRAR, Nabil [Fenerbahçe-TUR] [41/3] <75’",
@@ -1444,7 +1444,7 @@ const international2016To2020DetailsRawLines = [
     "",
     "MOROCCO:",
     "1- BOUNOU, Yassine [Sevilla-ESP] [20/0] >46’",
-    "*12- MOHAND, Munir [Málaga-ESP] [35/0] <46’",
+    "*12- Munir El Kajoui [Málaga-ESP] [35/0] <46’",
     "2- CHAFIK, Fouad [Dijon-FRA] [11/0]",
     "4- FEDDAL, Zouhair [Betis-ESP] [17/1]",
     "7- ZIYECH, Hakim [Ajax-NED] [29/14]",
@@ -1470,7 +1470,7 @@ const international2016To2020DetailsRawLines = [
     "GOAL: (1-0) EL KARTI, Walid 21’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Málaga-ESP] [36/0]",
+    "12- Munir El Kajoui [Málaga-ESP] [36/0]",
     "3- BAADI, Abdelkrim [Hassania Union Sport d'Agadir] [2/0] >71’",
     "*2- CHAFIK, Fouad [Dijon-FRA] [12/0] <71’",
     "4- FEDDAL, Zouhair [Betis-ESP] [18/1]",
@@ -1551,7 +1551,7 @@ const international2016To2020DetailsRawLines = [
     "(2-3) CHEBAKE, Issam 81’ OG",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Málaga-ESP] [37/0]",
+    "12- Munir El Kajoui [Málaga-ESP] [37/0]",
     "2- HAKIMI, Achraf [Borussia Dortmund-GER] [25/1]",
     "3- MENDYL, Hamza [Dijon-FRA] [17/0] >46’",
     "*24- CHEBAKE, Issam [Malatyaspor-TUR] [3/0] <46’",
@@ -1690,7 +1690,7 @@ const international2016To2020DetailsRawLines = [
     "(1-1) WISSA, Yoane 60’",
     "",
     "MOROCCO:",
-    "12- MOHAND, Munir [Hatayspor-TUR] [38/0]",
+    "12- Munir El Kajoui [Hatayspor-TUR] [38/0]",
     "2- HAKIMI, Achraf [Internazionale-ITA] [29/2] >72’",
     "*21- RHARSALLA, Moha [Slovan Bratislava-SVK] [1/0] <72’",
     "3- MENDYL, Hamza [Schalke 04-GER] [20/0]",
@@ -2238,7 +2238,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -2392,7 +2392,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -2713,10 +2713,16 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "LIBYA",
         "score": "1-1",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Nabil Dirar",
+                "minute": "36",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -2802,7 +2808,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -2859,7 +2865,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -3026,7 +3032,18 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "SAO TOME AND PRINCIPE",
         "score": "2-0",
         "halfTime": "0-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Hakim Ziyech",
+                "minute": "54",
+                "penalty": true
+            },
+            {
+                "name": "Aziz Bouhaddouz",
+                "minute": "83",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -3070,7 +3087,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 76,
                 "minutes": 76,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -3079,7 +3096,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -3172,7 +3189,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -3312,7 +3329,28 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "CANADA",
         "score": "4-0",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Mehdi Carcela-González",
+                "minute": "12",
+                "penalty": false
+            },
+            {
+                "name": "Hakim Ziyech",
+                "minute": "65",
+                "penalty": true
+            },
+            {
+                "name": "Hakim Ziyech",
+                "minute": "81",
+                "penalty": true
+            },
+            {
+                "name": "Rachid Alioui",
+                "minute": "86",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -3347,7 +3385,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 84,
                 "minutes": 84,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -3401,7 +3439,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 67,
                 "minutes": 67,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -3455,7 +3493,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 67,
                 "outMinute": 90,
                 "minutes": 23,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -3485,7 +3523,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -3625,7 +3663,18 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "TOGO",
         "score": "2-1",
         "halfTime": "1-1",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Khalid Boutaïb",
+                "minute": "17",
+                "penalty": false
+            },
+            {
+                "name": "Khalid Boutaïb",
+                "minute": "58",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine El Kharroubi",
@@ -3687,7 +3736,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 77,
                 "minutes": 77,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -3789,7 +3838,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -3929,10 +3978,21 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "TOGO",
         "score": "3-1",
         "halfTime": "2-1",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Aziz Bouhaddouz",
+                "minute": "14",
+                "penalty": false
+            },
+            {
+                "name": "Romain Saïss",
+                "minute": "21",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -3973,7 +4033,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -4027,7 +4087,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -4072,10 +4132,16 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "IVORY COAST",
         "score": "1-0",
         "halfTime": "0-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Rachid Alioui",
+                "minute": "64",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -4188,7 +4254,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 42,
                 "outMinute": 90,
                 "minutes": 48,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -4218,7 +4284,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -4349,10 +4415,21 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "BURKINA FASO",
         "score": "2-0",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Fayçal Fajr",
+                "minute": "35",
+                "penalty": false
+            },
+            {
+                "name": "Aziz Bouhaddouz",
+                "minute": "64",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -4420,7 +4497,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 89,
                 "minutes": 89,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -4447,7 +4524,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 66,
                 "minutes": 66,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -4510,7 +4587,14 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "TUNISIA",
         "score": "1-0",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Hamza Younes",
+                "minute": "14",
+                "penalty": false,
+                "ownGoal": true
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -4653,10 +4737,16 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "NETHERLANDS",
         "score": "1-2",
         "halfTime": "0-1",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Mbark Boussoufa",
+                "minute": "72",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -4715,7 +4805,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -4826,7 +4916,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -4966,7 +5056,13 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "EGYPT",
         "score": "1-1",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Badr Benoun",
+                "minute": "52",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Abdelali Mhamdi",
@@ -5028,7 +5124,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -5109,7 +5205,23 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "EGYPT",
         "score": "3-1",
         "halfTime": "0-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Jawad El-Yamiq",
+                "minute": "50",
+                "penalty": false
+            },
+            {
+                "name": "Abderrahim Makran",
+                "minute": "53",
+                "penalty": false
+            },
+            {
+                "name": "Badr Boulahroud",
+                "minute": "69",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Abdelali Mhamdi",
@@ -5126,7 +5238,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -5153,7 +5265,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 70,
                 "minutes": 70,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -5180,7 +5292,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -5252,10 +5364,41 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "MALI",
         "score": "6-0",
         "halfTime": "2-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Hakim Ziyech",
+                "minute": "19",
+                "penalty": true
+            },
+            {
+                "name": "Khalid Boutaïb",
+                "minute": "27",
+                "penalty": false
+            },
+            {
+                "name": "Hakim Ziyech",
+                "minute": "61",
+                "penalty": false
+            },
+            {
+                "name": "Achraf Hakimi",
+                "minute": "72",
+                "penalty": false
+            },
+            {
+                "name": "Fayçal Fajr",
+                "minute": "85",
+                "penalty": false
+            },
+            {
+                "name": "Mimoun Mahi",
+                "minute": "88",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -5269,7 +5412,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -5296,7 +5439,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -5323,7 +5466,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 81,
                 "minutes": 81,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -5359,7 +5502,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 85,
                 "outMinute": 90,
                 "minutes": 5,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -5368,7 +5511,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 81,
                 "outMinute": 90,
                 "minutes": 9,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -5398,7 +5541,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -5538,10 +5681,26 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "GABON",
         "score": "3-0",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Khalid Boutaïb",
+                "minute": "38",
+                "penalty": false
+            },
+            {
+                "name": "Khalid Boutaïb",
+                "minute": "56",
+                "penalty": false
+            },
+            {
+                "name": "Khalid Boutaïb",
+                "minute": "72",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -5609,7 +5768,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 81,
                 "minutes": 81,
-                "goals": 0,
+                "goals": 3,
                 "cards": []
             },
             {
@@ -5681,7 +5840,23 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "SOUTH KOREA",
         "score": "3-1",
         "halfTime": "0-2",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Oussama Tannane",
+                "minute": "7",
+                "penalty": false
+            },
+            {
+                "name": "Oussama Tannane",
+                "minute": "11",
+                "penalty": false
+            },
+            {
+                "name": "Ismail El Haddad",
+                "minute": "47",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -5743,7 +5918,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -5770,7 +5945,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 75,
                 "minutes": 75,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -5851,10 +6026,21 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "IVORY COAST",
         "score": "2-0",
         "halfTime": "0-2",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Nabil Dirar",
+                "minute": "25",
+                "penalty": false
+            },
+            {
+                "name": "Medhi Benatia",
+                "minute": "30",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -5877,7 +6063,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -5949,7 +6135,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -5994,7 +6180,28 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "MAURITANIA",
         "score": "4-0",
         "halfTime": "0-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Ayoub El Kaabi",
+                "minute": "66",
+                "penalty": false
+            },
+            {
+                "name": "Ismail El Haddad",
+                "minute": "72",
+                "penalty": false
+            },
+            {
+                "name": "Ayoub El Kaabi",
+                "minute": "80",
+                "penalty": false
+            },
+            {
+                "name": "Achraf Bencharki",
+                "minute": "92",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Anas Zniti",
@@ -6038,7 +6245,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 83,
                 "minutes": 83,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -6047,7 +6254,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -6101,7 +6308,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 75,
                 "outMinute": 90,
                 "minutes": 15,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -6137,7 +6344,18 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "GUINEA",
         "score": "3-1",
         "halfTime": "1-1",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Ayoub El Kaabi",
+                "minute": "27",
+                "penalty": false
+            },
+            {
+                "name": "Ayoub El Kaabi",
+                "minute": "68",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Anas Zniti",
@@ -6181,7 +6399,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 77,
                 "minutes": 77,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -6423,7 +6641,18 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "NAMIBIA",
         "score": "2-0",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Ayoub El Kaabi",
+                "minute": "36",
+                "penalty": false
+            },
+            {
+                "name": "Salaheddine Saidi",
+                "minute": "55",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Anas Zniti",
@@ -6458,7 +6687,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 87,
                 "minutes": 87,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -6467,7 +6696,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 79,
                 "minutes": 79,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -6566,7 +6795,23 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "LIBYA",
         "score": "3-1",
         "halfTime": "",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Ayoub El Kaabi",
+                "minute": "73",
+                "penalty": false
+            },
+            {
+                "name": "Ayoub El Kaabi",
+                "minute": "97",
+                "penalty": false
+            },
+            {
+                "name": "Walid El Karti",
+                "minute": "118",
+                "penalty": true
+            }
+        ],
         "players": [
             {
                 "name": "Anas Zniti",
@@ -6610,7 +6855,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 105,
                 "minutes": 105,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -6619,7 +6864,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -6709,7 +6954,28 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "NIGERIA",
         "score": "4-0",
         "halfTime": "",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Zakaria Hadraf",
+                "minute": "45",
+                "penalty": false
+            },
+            {
+                "name": "Walid El Karti",
+                "minute": "61",
+                "penalty": false
+            },
+            {
+                "name": "Zakaria Hadraf",
+                "minute": "64",
+                "penalty": false
+            },
+            {
+                "name": "Ayoub El Kaabi",
+                "minute": "73",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Anas Zniti",
@@ -6735,7 +7001,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 72,
                 "minutes": 72,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -6762,7 +7028,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 82,
                 "minutes": 82,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -6771,7 +7037,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -6852,10 +7118,21 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "SERBIA",
         "score": "2-1",
         "halfTime": "2-1",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Hakim Ziyech",
+                "minute": "29",
+                "penalty": false
+            },
+            {
+                "name": "Khalid Boutaïb",
+                "minute": "40",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -6896,7 +7173,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 92,
                 "minutes": 92,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -6923,7 +7200,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 74,
                 "minutes": 74,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -6995,10 +7272,21 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "UZBEKISTAN",
         "score": "2-0",
         "halfTime": "2-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Ayoub El Kaabi",
+                "minute": "3",
+                "penalty": false
+            },
+            {
+                "name": "Manuel Da Costa",
+                "minute": "42",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 46,
@@ -7021,7 +7309,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -7048,7 +7336,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 62,
                 "minutes": 62,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -7168,7 +7456,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -7335,7 +7623,18 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "SLOVAKIA",
         "score": "2-1",
         "halfTime": "0-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Ayoub El Kaabi",
+                "minute": "63",
+                "penalty": false
+            },
+            {
+                "name": "Younès Belhanda",
+                "minute": "74",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -7406,7 +7705,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -7478,7 +7777,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 60,
                 "outMinute": 90,
                 "minutes": 30,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -7505,10 +7804,26 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "ESTONIA",
         "score": "3-1",
         "halfTime": "0-2",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Younès Belhanda",
+                "minute": "11",
+                "penalty": false
+            },
+            {
+                "name": "Hakim Ziyech",
+                "minute": "38",
+                "penalty": true
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "minute": "72",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -7549,7 +7864,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 46,
                 "minutes": 46,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -7576,7 +7891,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -7657,7 +7972,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 46,
                 "outMinute": 90,
                 "minutes": 44,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             }
         ],
@@ -7678,7 +7993,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -7821,7 +8136,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -7970,7 +8285,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -8119,7 +8434,23 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "MALAWI",
         "score": "3-0",
         "halfTime": "2-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Hakim Ziyech",
+                "minute": "3",
+                "penalty": false
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "minute": "42",
+                "penalty": false
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "minute": "77",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -8154,7 +8485,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -8217,7 +8548,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -8262,7 +8593,13 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "COMOROS",
         "score": "1-0",
         "halfTime": "0-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Fayçal Fajr",
+                "minute": "97",
+                "penalty": true
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -8315,7 +8652,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -8405,10 +8742,21 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "COMOROS",
         "score": "2-2",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Khalid Boutaïb",
+                "minute": "53",
+                "penalty": false
+            },
+            {
+                "name": "Amrabat",
+                "minute": "62",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -8485,7 +8833,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 75,
                 "minutes": 75,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -8548,7 +8896,18 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "CAMEROON",
         "score": "2-0",
         "halfTime": "0-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Hakim Ziyech",
+                "minute": "54",
+                "penalty": true
+            },
+            {
+                "name": "Hakim Ziyech",
+                "minute": "66",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -8601,7 +8960,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -8691,10 +9050,16 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "TUNISIA",
         "score": "1-0",
         "halfTime": "0-1",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Youssef En-Nesyri",
+                "minute": "41",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -8771,7 +9136,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -8855,7 +9220,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -9165,7 +9530,18 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "ZAMBIA",
         "score": "2-3",
         "halfTime": "",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Hakim Ziyech",
+                "minute": "24",
+                "penalty": false
+            },
+            {
+                "name": "Hakim Ziyech",
+                "minute": "54",
+                "penalty": true
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -9209,7 +9585,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -9335,7 +9711,14 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "NAMIBIA",
         "score": "1-0",
         "halfTime": "0-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Itamunua Keimuine",
+                "minute": "89",
+                "penalty": false,
+                "ownGoal": true
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -9478,7 +9861,13 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "IVORY COAST",
         "score": "1-0",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Youssef En-Nesyri",
+                "minute": "23",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -9576,7 +9965,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -9621,10 +10010,16 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "SOUTH AFRICA",
         "score": "1-0",
         "halfTime": "0-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Mbark Boussoufa",
+                "minute": "90",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -9701,7 +10096,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -9764,7 +10159,13 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "BENIN",
         "score": "1-1",
         "halfTime": "",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Youssef En-Nesyri",
+                "minute": "75",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -9862,7 +10263,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -9916,7 +10317,13 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "BURKINA FASO",
         "score": "1-1",
         "halfTime": "0-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Zouhair Feddal",
+                "minute": "88",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -9942,7 +10349,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -10018,7 +10425,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": false,
                 "inMinute": 46,
                 "outMinute": 90,
@@ -10086,10 +10493,16 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "NIGER",
         "score": "1-0",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Walid El Karti",
+                "minute": "21",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -10157,7 +10570,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -10390,10 +10803,21 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "GABON",
         "score": "2-3",
         "halfTime": "1-1",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Nordin Amrabat",
+                "minute": "33",
+                "penalty": false
+            },
+            {
+                "name": "Nordin Amrabat",
+                "minute": "69",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -10470,7 +10894,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 85,
                 "minutes": 85,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -10560,7 +10984,23 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "ALGERIA",
         "score": "3-0",
         "halfTime": "3-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Badr Benoun",
+                "minute": "26",
+                "penalty": true
+            },
+            {
+                "name": "Hamid Ahadad",
+                "minute": "32",
+                "penalty": false
+            },
+            {
+                "name": "Mohamed Nahiri",
+                "minute": "41",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Anas Zniti",
@@ -10604,7 +11044,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -10631,7 +11071,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -10640,7 +11080,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 46,
                 "minutes": 46,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -10846,7 +11286,23 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "BURUNDI",
         "score": "3-0",
         "halfTime": "0-2",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Noussair Mazraoui",
+                "minute": "26",
+                "penalty": false
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "minute": "39",
+                "penalty": false
+            },
+            {
+                "name": "Achraf Hakimi",
+                "minute": "82",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -10863,7 +11319,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -10917,7 +11373,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 58,
                 "minutes": 58,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -10926,7 +11382,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -10989,7 +11445,23 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "SENEGAL",
         "score": "3-1",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Selim Amallah",
+                "minute": "10",
+                "penalty": false
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "minute": "71",
+                "penalty": false
+            },
+            {
+                "name": "Youssef El-Arabi",
+                "minute": "86",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -11013,8 +11485,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Hamza Mendyl",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 54,
-                "minutes": 54,
+                "outMinute": 55,
+                "minutes": 55,
                 "goals": 0,
                 "cards": []
             },
@@ -11031,10 +11503,15 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Issam Chebake",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 59,
-                "minutes": 59,
+                "outMinute": 90,
+                "minutes": 90,
                 "goals": 0,
-                "cards": []
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "37"
+                    }
+                ]
             },
             {
                 "name": "Oussama Tannane",
@@ -11049,9 +11526,9 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Selim Amallah",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 70,
-                "minutes": 70,
-                "goals": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -11069,7 +11546,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 76,
                 "minutes": 76,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -11085,26 +11562,17 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Samy Mmaee",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 90,
-                "minutes": 90,
+                "outMinute": 69,
+                "minutes": 69,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Yunis Abdelhamid",
                 "starter": false,
-                "inMinute": 54,
+                "inMinute": 55,
                 "outMinute": 90,
-                "minutes": 36,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Omar El Kaddouri",
-                "starter": false,
-                "inMinute": 59,
-                "outMinute": 90,
-                "minutes": 31,
+                "minutes": 35,
                 "goals": 0,
                 "cards": []
             },
@@ -11120,9 +11588,9 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Achraf Bencharki",
                 "starter": false,
-                "inMinute": 70,
+                "inMinute": 69,
                 "outMinute": 90,
-                "minutes": 20,
+                "minutes": 21,
                 "goals": 0,
                 "cards": []
             },
@@ -11141,13 +11609,19 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 76,
                 "outMinute": 90,
                 "minutes": 14,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             }
         ],
         "referee": "KEITA, Mahamadou [MALI]",
         "coach": "Vahid Halilhodžić",
-        "cards": [],
+        "cards": [
+            {
+                "name": "Issam Chebake",
+                "type": "Y",
+                "minute": "37"
+            }
+        ],
         "source": "FRIENDLY INTERNATIONAL"
     },
     {
@@ -11159,10 +11633,16 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "DR CONGO",
         "score": "1-1",
         "halfTime": "1-0",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Noussair Mazraoui",
+                "minute": "45",
+                "penalty": false
+            }
+        ],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -11186,7 +11666,12 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "outMinute": 90,
                 "minutes": 90,
                 "goals": 0,
-                "cards": []
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "90+1"
+                    }
+                ]
             },
             {
                 "name": "Yunis Abdelhamid",
@@ -11203,7 +11688,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 57,
                 "minutes": 57,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -11261,11 +11746,11 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Moha Rharsalla",
+                "name": "Youssef En-Nesyri",
                 "starter": false,
-                "inMinute": 72,
+                "inMinute": 46,
                 "outMinute": 90,
-                "minutes": 18,
+                "minutes": 44,
                 "goals": 0,
                 "cards": []
             },
@@ -11279,15 +11764,6 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Achraf Bencharki",
-                "starter": false,
-                "inMinute": 63,
-                "outMinute": 90,
-                "minutes": 27,
-                "goals": 0,
-                "cards": []
-            },
-            {
                 "name": "Oussama Tannane",
                 "starter": false,
                 "inMinute": 63,
@@ -11297,11 +11773,20 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Youssef En-Nesyri",
+                "name": "Achraf Bencharki",
                 "starter": false,
-                "inMinute": 46,
+                "inMinute": 63,
                 "outMinute": 90,
-                "minutes": 44,
+                "minutes": 27,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Mohammed Rharsalla",
+                "starter": false,
+                "inMinute": 72,
+                "outMinute": 90,
+                "minutes": 18,
                 "goals": 0,
                 "cards": []
             },
@@ -11317,7 +11802,13 @@ globalThis.international2016To2020DetailsPreparsed = [
         ],
         "referee": "SOW SANDIGUI, Alioune [SENEGAL]",
         "coach": "Vahid Halilhodžić",
-        "cards": [],
+        "cards": [
+            {
+                "name": "Hamza Mendyl",
+                "type": "Y",
+                "minute": "90+1"
+            }
+        ],
         "source": "FRIENDLY INTERNATIONAL"
     },
     {
@@ -11329,7 +11820,28 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "CENTRAL AFRICAN REPUBLIC",
         "score": "4-1",
         "halfTime": "3-1",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Achraf Hakimi",
+                "minute": "10",
+                "penalty": false
+            },
+            {
+                "name": "Hakim Ziyech",
+                "minute": "31",
+                "penalty": false
+            },
+            {
+                "name": "Hakim Ziyech",
+                "minute": "33",
+                "penalty": false
+            },
+            {
+                "name": "Zakaria Aboukhlal",
+                "minute": "64",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -11346,7 +11858,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 59,
                 "minutes": 59,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -11373,7 +11885,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 72,
                 "minutes": 72,
-                "goals": 0,
+                "goals": 2,
                 "cards": []
             },
             {
@@ -11401,7 +11913,12 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "outMinute": 83,
                 "minutes": 83,
                 "goals": 0,
-                "cards": []
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "64"
+                    }
+                ]
             },
             {
                 "name": "Aymen ’ Barkok",
@@ -11436,7 +11953,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 59,
                 "outMinute": 90,
                 "minutes": 31,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -11469,16 +11986,22 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Issam Chebake",
                 "starter": false,
-                "inMinute": 0,
+                "inMinute": 83,
                 "outMinute": 90,
-                "minutes": 90,
+                "minutes": 7,
                 "goals": 0,
                 "cards": []
             }
         ],
         "referee": "TRAORÉ, Boubou [MALI]",
         "coach": "Vahid Halilhodžić",
-        "cards": [],
+        "cards": [
+            {
+                "name": "Noussair Mazraoui",
+                "type": "Y",
+                "minute": "64"
+            }
+        ],
         "source": "AFRICA CUP OF NATIONS QUALIFIER"
     },
     {
@@ -11490,7 +12013,18 @@ globalThis.international2016To2020DetailsPreparsed = [
         "opponent": "CENTRAL AFRICAN REPUBLIC",
         "score": "2-0",
         "halfTime": "0-1",
-        "scorers": [],
+        "scorers": [
+            {
+                "name": "Hakim Ziyech",
+                "minute": "39",
+                "penalty": false
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "minute": "91",
+                "penalty": false
+            }
+        ],
         "players": [
             {
                 "name": "Yassine Bounou",
@@ -11517,7 +12051,12 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "outMinute": 90,
                 "minutes": 90,
                 "goals": 0,
-                "cards": []
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "90+3"
+                    }
+                ]
             },
             {
                 "name": "Romain Saïss",
@@ -11534,7 +12073,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -11559,8 +12098,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Aymen Barkok",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 92,
-                "minutes": 92,
+                "outMinute": 90,
+                "minutes": 90,
                 "goals": 0,
                 "cards": []
             },
@@ -11568,9 +12107,9 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Youssef En-Nesyri",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 92,
-                "minutes": 92,
-                "goals": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -11612,7 +12151,7 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Nassim Boujellab",
                 "starter": false,
-                "inMinute": 92,
+                "inMinute": 90,
                 "outMinute": 90,
                 "minutes": 0,
                 "goals": 0,
@@ -11621,7 +12160,7 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Achraf Bencharki",
                 "starter": false,
-                "inMinute": 92,
+                "inMinute": 90,
                 "outMinute": 90,
                 "minutes": 0,
                 "goals": 0,
@@ -11639,13 +12178,19 @@ globalThis.international2016To2020DetailsPreparsed = [
         ],
         "referee": "HEERALALL, Ahmad [MAURITIUS]",
         "coach": "Vahid Halilhodžić",
-        "cards": [],
+        "cards": [
+            {
+                "name": "Nayef Aguerd",
+                "type": "Y",
+                "minute": "90+3"
+            }
+        ],
         "source": "AFRICA CUP OF NATIONS QUALIFIER"
     },
     {
         "key": "11/10/2019|libya",
         "date": "11/10/2019",
-        "city": "Stade d?honneur",
+        "city": "Stade d'honneur",
         "stadium": "Oujda",
         "attendance": "",
         "opponent": "LIBYA",
@@ -12065,7 +12610,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         "scorers": [],
         "players": [
             {
-                "name": "Munir Mohand",
+                "name": "Munir El Kajoui",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -12510,7 +13055,12 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "outMinute": 90,
                 "minutes": 90,
                 "goals": 0,
-                "cards": []
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "68"
+                    }
+                ]
             },
             {
                 "name": "Adel Taarabt",
@@ -12574,6 +13124,11 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Aymen Barkok",
                 "type": "Y",
                 "minute": "90+1"
+            },
+            {
+                "name": "Achraf Hakimi",
+                "type": "Y",
+                "minute": "68"
             }
         ],
         "source": "AFRICA CUP OF NATIONS QUALIFIER - ESPN"
@@ -12605,75 +13160,12 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Sofian Chakla",
+                "name": "Jawad El Yamiq",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
                 "minutes": 90,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Soufiane Rahimi",
-                "starter": true,
-                "inMinute": 0,
-                "outMinute": 46,
-                "minutes": 46,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Munir El Haddadi",
-                "starter": true,
-                "inMinute": 0,
-                "outMinute": 46,
-                "minutes": 46,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Yahya Jabrane",
-                "starter": true,
-                "inMinute": 0,
-                "outMinute": 63,
-                "minutes": 63,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Achraf Hakimi",
-                "starter": true,
-                "inMinute": 0,
-                "outMinute": 63,
-                "minutes": 63,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Hakim Ziyech",
-                "starter": true,
-                "inMinute": 0,
-                "outMinute": 76,
-                "minutes": 76,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Youssef En-Nesyri",
-                "starter": true,
-                "inMinute": 0,
-                "outMinute": 76,
-                "minutes": 76,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Selim Amallah",
-                "starter": true,
-                "inMinute": 0,
-                "outMinute": 86,
-                "minutes": 86,
-                "goals": 0,
+                "goals": 1,
                 "cards": []
             },
             {
@@ -12686,7 +13178,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Adam Masina",
+                "name": "Romain Saiss",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -12695,90 +13187,136 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Youssef El Arabi",
-                "starter": false,
-                "inMinute": 46,
+                "name": "Ayoub El Amloud",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 86,
+                "minutes": 86,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Hakimi",
+                "starter": true,
+                "inMinute": 0,
                 "outMinute": 90,
-                "minutes": 44,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofyan Amrabat",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 83,
+                "minutes": 83,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Adel Taarabt",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 76,
+                "minutes": 76,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Selim Amallah",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 68,
+                "minutes": 68,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Munir El Haddadi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 68,
+                "minutes": 68,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Hakim Ziyech",
+                "starter": false,
+                "inMinute": 68,
+                "outMinute": 90,
+                "minutes": 22,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Aymen Barkok",
                 "starter": false,
-                "inMinute": 46,
+                "inMinute": 68,
                 "outMinute": 90,
-                "minutes": 44,
+                "minutes": 22,
+                "goals": 0,
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "72"
+                    }
+                ]
+            },
+            {
+                "name": "Ilias Chair",
+                "starter": false,
+                "inMinute": 76,
+                "outMinute": 90,
+                "minutes": 14,
                 "goals": 0,
                 "cards": []
             },
             {
-                "name": "Jawad El Yamiq",
+                "name": "Yahya Jabrane",
                 "starter": false,
-                "inMinute": 63,
+                "inMinute": 83,
                 "outMinute": 90,
-                "minutes": 27,
-                "goals": 1,
-                "cards": []
-            },
-            {
-                "name": "Faycal Fajr",
-                "starter": false,
-                "inMinute": 63,
-                "outMinute": 90,
-                "minutes": 27,
+                "minutes": 7,
                 "goals": 0,
-                "cards": []
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "90"
+                    }
+                ]
             },
             {
                 "name": "Ayoub El Kaabi",
-                "starter": false,
-                "inMinute": 76,
-                "outMinute": 90,
-                "minutes": 14,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Adel Taarabt",
-                "starter": false,
-                "inMinute": 76,
-                "outMinute": 90,
-                "minutes": 14,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Sofyan Amrabat",
                 "starter": false,
                 "inMinute": 86,
                 "outMinute": 90,
                 "minutes": 4,
                 "goals": 0,
                 "cards": []
-            },
-            {
-                "name": "Ilias Chair",
-                "starter": false,
-                "inMinute": 0,
-                "outMinute": 0,
-                "minutes": 0,
-                "goals": 0,
-                "cards": [
-                    {
-                        "type": "Y",
-                        "minute": "90+4"
-                    }
-                ]
             }
         ],
         "referee": "",
         "coach": "Vahid Halilhodzic",
         "cards": [
             {
-                "name": "Ilias Chair",
+                "name": "Aymen Barkok",
                 "type": "Y",
-                "minute": "90+4"
+                "minute": "72"
+            },
+            {
+                "name": "Yahya Jabrane",
+                "type": "Y",
+                "minute": "90"
             }
         ],
         "source": "FRIENDLY INTERNATIONAL - ESPN / Sky Sports"
@@ -12813,8 +13351,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Achraf Lazaar",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 68,
-                "minutes": 68,
+                "outMinute": 67,
+                "minutes": 67,
                 "goals": 0,
                 "cards": []
             },
@@ -12828,7 +13366,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": [
                     {
                         "type": "Y",
-                        "minute": "87"
+                        "minute": "86"
                     }
                 ]
             },
@@ -12854,8 +13392,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Adel Taarabt",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 82,
-                "minutes": 82,
+                "outMinute": 81,
+                "minutes": 81,
                 "goals": 0,
                 "cards": []
             },
@@ -12872,8 +13410,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Yahya Jabrane",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 68,
-                "minutes": 68,
+                "outMinute": 67,
+                "minutes": 67,
                 "goals": 0,
                 "cards": []
             },
@@ -12881,8 +13419,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Soufiane Rahimi",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 62,
-                "minutes": 62,
+                "outMinute": 61,
+                "minutes": 61,
                 "goals": 0,
                 "cards": []
             },
@@ -12890,8 +13428,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Youssef En-Nesyri",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 84,
-                "minutes": 84,
+                "outMinute": 83,
+                "minutes": 83,
                 "goals": 0,
                 "cards": []
             },
@@ -12899,62 +13437,62 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Hakim Ziyech",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 76,
-                "minutes": 76,
+                "outMinute": 75,
+                "minutes": 75,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Zakaria Aboukhlal",
                 "starter": false,
-                "inMinute": 62,
+                "inMinute": 61,
                 "outMinute": 90,
-                "minutes": 28,
+                "minutes": 29,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Samy Mmaee",
+                "starter": false,
+                "inMinute": 67,
+                "outMinute": 90,
+                "minutes": 23,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Selim Amallah",
                 "starter": false,
-                "inMinute": 68,
+                "inMinute": 67,
                 "outMinute": 90,
-                "minutes": 22,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Ryan Mmaee",
-                "starter": false,
-                "inMinute": 68,
-                "outMinute": 90,
-                "minutes": 22,
+                "minutes": 23,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Munir El Haddadi",
                 "starter": false,
-                "inMinute": 76,
+                "inMinute": 75,
                 "outMinute": 90,
-                "minutes": 14,
+                "minutes": 15,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Ilias Chair",
                 "starter": false,
-                "inMinute": 82,
+                "inMinute": 81,
                 "outMinute": 90,
-                "minutes": 8,
+                "minutes": 9,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Achraf Bencharki",
                 "starter": false,
-                "inMinute": 84,
+                "inMinute": 83,
                 "outMinute": 90,
-                "minutes": 6,
+                "minutes": 7,
                 "goals": 0,
                 "cards": []
             }
@@ -12965,7 +13503,7 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Romain Saiss",
                 "type": "Y",
-                "minute": "87"
+                "minute": "86"
             }
         ],
         "source": "FRIENDLY INTERNATIONAL - ESPN"
@@ -13003,7 +13541,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Romain Saiss",
+                "name": "Romain Saïss",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -13024,8 +13562,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Achraf Hakimi",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 85,
-                "minutes": 85,
+                "outMinute": 90,
+                "minutes": 90,
                 "goals": 0,
                 "cards": []
             },
@@ -13042,8 +13580,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Aymen Barkok",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 66,
-                "minutes": 66,
+                "outMinute": 90,
+                "minutes": 90,
                 "goals": 0,
                 "cards": []
             },
@@ -13051,8 +13589,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Adel Taarabt",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 76,
-                "minutes": 76,
+                "outMinute": 70,
+                "minutes": 70,
                 "goals": 0,
                 "cards": []
             },
@@ -13060,8 +13598,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Ilias Chair",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 64,
-                "minutes": 64,
+                "outMinute": 78,
+                "minutes": 78,
                 "goals": 0,
                 "cards": []
             },
@@ -13069,8 +13607,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Ryan Mmaee",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 90,
-                "minutes": 90,
+                "outMinute": 70,
+                "minutes": 70,
                 "goals": 0,
                 "cards": []
             },
@@ -13078,8 +13616,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Youssef En-Nesyri",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 66,
-                "minutes": 66,
+                "outMinute": 88,
+                "minutes": 88,
                 "goals": 0,
                 "cards": []
             },
@@ -13087,67 +13625,58 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Zakaria Aboukhlal",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 46,
-                "minutes": 46,
+                "outMinute": 78,
+                "minutes": 78,
                 "goals": 0,
                 "cards": []
             },
             {
-                "name": "Munir El Haddadi",
+                "name": "Sofiane Boufal",
                 "starter": false,
-                "inMinute": 46,
+                "inMinute": 70,
                 "outMinute": 90,
-                "minutes": 44,
-                "goals": 0,
-                "cards": [
-                    {
-                        "type": "Y",
-                        "minute": "90+1"
-                    }
-                ]
-            },
-            {
-                "name": "Selim Amallah",
-                "starter": false,
-                "inMinute": 64,
-                "outMinute": 90,
-                "minutes": 26,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Hakim Ziyech",
-                "starter": false,
-                "inMinute": 66,
-                "outMinute": 90,
-                "minutes": 24,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Youssef El Arabi",
-                "starter": false,
-                "inMinute": 66,
-                "outMinute": 90,
-                "minutes": 24,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Ayoub El Kaabi",
-                "starter": false,
-                "inMinute": 76,
-                "outMinute": 90,
-                "minutes": 14,
+                "minutes": 20,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Sofyan Amrabat",
                 "starter": false,
-                "inMinute": 85,
+                "inMinute": 70,
                 "outMinute": 90,
-                "minutes": 5,
+                "minutes": 20,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Munir El Haddadi",
+                "starter": false,
+                "inMinute": 78,
+                "outMinute": 90,
+                "minutes": 12,
+                "goals": 0,
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "90"
+                    }
+                ]
+            },
+            {
+                "name": "Selim Amallah",
+                "starter": false,
+                "inMinute": 78,
+                "outMinute": 90,
+                "minutes": 12,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Bencharki",
+                "starter": false,
+                "inMinute": 88,
+                "outMinute": 90,
+                "minutes": 2,
                 "goals": 0,
                 "cards": []
             }
@@ -13158,7 +13687,7 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Munir El Haddadi",
                 "type": "Y",
-                "minute": "90+1"
+                "minute": "90"
             }
         ],
         "source": "WORLD CUP QUALIFIER - Transfermarkt / Africa Top Sports"
@@ -13294,8 +13823,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Ryan Mmaee",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 84,
-                "minutes": 84,
+                "outMinute": 83,
+                "minutes": 83,
                 "goals": 0,
                 "cards": []
             },
@@ -13338,9 +13867,9 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Achraf Bencharki",
                 "starter": false,
-                "inMinute": 84,
+                "inMinute": 83,
                 "outMinute": 90,
-                "minutes": 6,
+                "minutes": 7,
                 "goals": 0,
                 "cards": []
             }
@@ -13631,8 +14160,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Imran Louza",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 73,
-                "minutes": 73,
+                "outMinute": 85,
+                "minutes": 85,
                 "goals": 0,
                 "cards": []
             },
@@ -13649,8 +14178,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Ryan Mmaee",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 74,
-                "minutes": 74,
+                "outMinute": 85,
+                "minutes": 85,
                 "goals": 0,
                 "cards": []
             },
@@ -13658,8 +14187,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Ayoub El Kaabi",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 69,
-                "minutes": 69,
+                "outMinute": 73,
+                "minutes": 73,
                 "goals": 1,
                 "cards": []
             },
@@ -13675,27 +14204,27 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Sofiane Boufal",
                 "starter": false,
-                "inMinute": 69,
+                "inMinute": 73,
                 "outMinute": 90,
-                "minutes": 21,
+                "minutes": 17,
                 "goals": 1,
                 "cards": []
             },
             {
                 "name": "Faycal Fajr",
                 "starter": false,
-                "inMinute": 73,
+                "inMinute": 85,
                 "outMinute": 90,
-                "minutes": 17,
+                "minutes": 5,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Zakaria Aboukhlal",
                 "starter": false,
-                "inMinute": 74,
+                "inMinute": 85,
                 "outMinute": 90,
-                "minutes": 16,
+                "minutes": 5,
                 "goals": 0,
                 "cards": []
             }
@@ -13985,8 +14514,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Aymen Barkok",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 82,
-                "minutes": 82,
+                "outMinute": 90,
+                "minutes": 90,
                 "goals": 0,
                 "cards": [
                     {
@@ -14095,14 +14624,14 @@ globalThis.international2016To2020DetailsPreparsed = [
         "coach": "Vahid Halilhodzic",
         "cards": [
             {
-                "name": "Adam Masina",
-                "type": "Y",
-                "minute": "68"
-            },
-            {
                 "name": "Aymen Barkok",
                 "type": "Y",
                 "minute": "82"
+            },
+            {
+                "name": "Adam Masina",
+                "type": "Y",
+                "minute": "68"
             }
         ],
         "source": "WORLD CUP QUALIFIER - Transfermarkt / DailyMercato"
@@ -14717,12 +15246,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "outMinute": 90,
                 "minutes": 90,
                 "goals": 0,
-                "cards": [
-                    {
-                        "type": "Y",
-                        "minute": ""
-                    }
-                ]
+                "cards": []
             },
             {
                 "name": "Selim Amallah",
@@ -14808,13 +15332,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         ],
         "referee": "",
         "coach": "Vahid Halilhodzic",
-        "cards": [
-            {
-                "name": "Sofyan Amrabat",
-                "type": "Y",
-                "minute": ""
-            }
-        ],
+        "cards": [],
         "source": "AFRICA CUP OF NATIONS - ESPN / Ahram / Sky Sports"
     },
     {
@@ -15680,8 +16198,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Adam Masina",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 89,
-                "minutes": 89,
+                "outMinute": 68,
+                "minutes": 68,
                 "goals": 0,
                 "cards": []
             },
@@ -15707,8 +16225,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Ilias Chair",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 81,
-                "minutes": 81,
+                "outMinute": 68,
+                "minutes": 68,
                 "goals": 0,
                 "cards": []
             },
@@ -15716,17 +16234,17 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Tarik Tissoudali",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 62,
-                "minutes": 62,
+                "outMinute": 60,
+                "minutes": 60,
                 "goals": 0,
                 "cards": []
             },
             {
-                "name": "Amine Harit",
+                "name": "Selim Amallah",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 81,
-                "minutes": 81,
+                "outMinute": 90,
+                "minutes": 90,
                 "goals": 0,
                 "cards": []
             },
@@ -15751,36 +16269,27 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Ayoub El Kaabi",
                 "starter": false,
-                "inMinute": 62,
+                "inMinute": 60,
                 "outMinute": 90,
-                "minutes": 28,
+                "minutes": 30,
                 "goals": 1,
                 "cards": []
             },
             {
-                "name": "Soufiane Rahimi",
+                "name": "Amine Harit",
                 "starter": false,
-                "inMinute": 81,
+                "inMinute": 68,
                 "outMinute": 90,
-                "minutes": 9,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Sofiane Boufal",
-                "starter": false,
-                "inMinute": 81,
-                "outMinute": 90,
-                "minutes": 9,
+                "minutes": 22,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Yahya Attiyat Allah",
                 "starter": false,
-                "inMinute": 89,
+                "inMinute": 68,
                 "outMinute": 90,
-                "minutes": 1,
+                "minutes": 22,
                 "goals": 0,
                 "cards": []
             },
@@ -15822,7 +16331,7 @@ globalThis.international2016To2020DetailsPreparsed = [
         ],
         "players": [
             {
-                "name": "Munir El Kajoui",
+                "name": "Yassine Bounou",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -15831,7 +16340,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Achraf Hakimi",
+                "name": "Yahya Attiyat Allah",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -15849,7 +16358,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Nayef Aguerd",
+                "name": "Achraf Hakimi",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -15867,7 +16376,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Adam Masina",
+                "name": "Yahya Jabrane",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -15879,8 +16388,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Azzedine Ounahi",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 65,
-                "minutes": 65,
+                "outMinute": 66,
+                "minutes": 66,
                 "goals": 0,
                 "cards": []
             },
@@ -15906,8 +16415,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Ayoub El Kaabi",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 83,
-                "minutes": 83,
+                "outMinute": 85,
+                "minutes": 85,
                 "goals": 0,
                 "cards": []
             },
@@ -15915,8 +16424,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Youssef En-Nesyri",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 69,
-                "minutes": 69,
+                "outMinute": 66,
+                "minutes": 66,
                 "goals": 1,
                 "cards": []
             },
@@ -15932,18 +16441,18 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Selim Amallah",
                 "starter": false,
-                "inMinute": 65,
+                "inMinute": 66,
                 "outMinute": 90,
-                "minutes": 25,
+                "minutes": 24,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Zakaria Aboukhlal",
                 "starter": false,
-                "inMinute": 69,
+                "inMinute": 66,
                 "outMinute": 90,
-                "minutes": 21,
+                "minutes": 24,
                 "goals": 0,
                 "cards": [
                     {
@@ -15964,9 +16473,9 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Tarik Tissoudali",
                 "starter": false,
-                "inMinute": 83,
+                "inMinute": 85,
                 "outMinute": 90,
-                "minutes": 7,
+                "minutes": 5,
                 "goals": 0,
                 "cards": []
             }
@@ -16104,7 +16613,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Walid Cheddira",
+                "name": "Amine Harit",
                 "starter": false,
                 "inMinute": 67,
                 "outMinute": 90,
@@ -16113,7 +16622,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Abdelhamid Sabiri",
+                "name": "Walid Cheddira",
                 "starter": false,
                 "inMinute": 67,
                 "outMinute": 90,
@@ -16122,7 +16631,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Ez Abde",
+                "name": "Abdelhamid Sabiri",
                 "starter": false,
                 "inMinute": 76,
                 "outMinute": 90,
@@ -16131,7 +16640,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Ilias Chair",
+                "name": "Zakaria Aboukhlal",
                 "starter": false,
                 "inMinute": 76,
                 "outMinute": 90,
@@ -16149,18 +16658,29 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Amine Harit",
+                "name": "Abde Ezzalzouli",
                 "starter": false,
                 "inMinute": 82,
                 "outMinute": 90,
                 "minutes": 8,
                 "goals": 0,
-                "cards": []
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "90+4"
+                    }
+                ]
             }
         ],
         "referee": "",
         "coach": "Walid Regragui",
-        "cards": [],
+        "cards": [
+            {
+                "name": "Abde Ezzalzouli",
+                "type": "Y",
+                "minute": "90+4"
+            }
+        ],
         "source": "FRIENDLY INTERNATIONAL - Transfermarkt / Sky Sports"
     },
     {
@@ -16223,8 +16743,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Sofyan Amrabat",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 85,
-                "minutes": 85,
+                "outMinute": 84,
+                "minutes": 84,
                 "goals": 0,
                 "cards": []
             },
@@ -16232,8 +16752,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Azzedine Ounahi",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 46,
-                "minutes": 46,
+                "outMinute": 64,
+                "minutes": 64,
                 "goals": 0,
                 "cards": []
             },
@@ -16281,9 +16801,9 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Walid Cheddira",
                 "starter": false,
-                "inMinute": 46,
+                "inMinute": 64,
                 "outMinute": 90,
-                "minutes": 44,
+                "minutes": 26,
                 "goals": 0,
                 "cards": []
             },
@@ -16306,7 +16826,7 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "cards": []
             },
             {
-                "name": "Ez Abde",
+                "name": "Abde Ezzalzouli",
                 "starter": false,
                 "inMinute": 76,
                 "outMinute": 90,
@@ -16326,9 +16846,9 @@ globalThis.international2016To2020DetailsPreparsed = [
             {
                 "name": "Zakaria Aboukhlal",
                 "starter": false,
-                "inMinute": 85,
+                "inMinute": 84,
                 "outMinute": 90,
-                "minutes": 5,
+                "minutes": 6,
                 "goals": 0,
                 "cards": []
             }
@@ -16384,13 +16904,13 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Achraf Hakimi",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 90,
-                "minutes": 90,
+                "outMinute": 46,
+                "minutes": 46,
                 "goals": 0,
                 "cards": []
             },
             {
-                "name": "Achraf Dari",
+                "name": "Nayef Aguerd",
                 "starter": true,
                 "inMinute": 0,
                 "outMinute": 90,
@@ -16402,8 +16922,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Romain Saiss",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 90,
-                "minutes": 90,
+                "outMinute": 63,
+                "minutes": 63,
                 "goals": 0,
                 "cards": []
             },
@@ -16411,8 +16931,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Yahya Attiyat Allah",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 82,
-                "minutes": 82,
+                "outMinute": 90,
+                "minutes": 90,
                 "goals": 0,
                 "cards": []
             },
@@ -16420,8 +16940,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Yahya Jabrane",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 85,
-                "minutes": 85,
+                "outMinute": 90,
+                "minutes": 90,
                 "goals": 0,
                 "cards": [
                     {
@@ -16434,8 +16954,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Azzedine Ounahi",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 73,
-                "minutes": 73,
+                "outMinute": 46,
+                "minutes": 46,
                 "goals": 0,
                 "cards": []
             },
@@ -16443,8 +16963,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Selim Amallah",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 62,
-                "minutes": 62,
+                "outMinute": 63,
+                "minutes": 63,
                 "goals": 0,
                 "cards": []
             },
@@ -16452,8 +16972,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Hakim Ziyech",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 82,
-                "minutes": 82,
+                "outMinute": 69,
+                "minutes": 69,
                 "goals": 1,
                 "cards": []
             },
@@ -16461,8 +16981,8 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Sofiane Boufal",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 78,
-                "minutes": 78,
+                "outMinute": 90,
+                "minutes": 90,
                 "goals": 1,
                 "cards": []
             },
@@ -16470,62 +16990,62 @@ globalThis.international2016To2020DetailsPreparsed = [
                 "name": "Youssef En-Nesyri",
                 "starter": true,
                 "inMinute": 0,
-                "outMinute": 62,
-                "minutes": 62,
+                "outMinute": 46,
+                "minutes": 46,
                 "goals": 1,
                 "cards": []
             },
             {
-                "name": "Abdelhamid Sabiri",
+                "name": "Abderrazak Hamdallah",
                 "starter": false,
-                "inMinute": 62,
+                "inMinute": 46,
                 "outMinute": 90,
-                "minutes": 28,
+                "minutes": 44,
                 "goals": 0,
                 "cards": []
             },
             {
-                "name": "Walid Cheddira",
+                "name": "Sofyan Amrabat",
                 "starter": false,
-                "inMinute": 62,
+                "inMinute": 46,
                 "outMinute": 90,
-                "minutes": 28,
+                "minutes": 44,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Noussair Mazraoui",
+                "starter": false,
+                "inMinute": 46,
+                "outMinute": 90,
+                "minutes": 44,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Jawad El Yamiq",
+                "starter": false,
+                "inMinute": 63,
+                "outMinute": 90,
+                "minutes": 27,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Ilias Chair",
                 "starter": false,
-                "inMinute": 73,
+                "inMinute": 63,
                 "outMinute": 90,
-                "minutes": 17,
+                "minutes": 27,
                 "goals": 0,
                 "cards": []
             },
             {
                 "name": "Anass Zaroury",
                 "starter": false,
-                "inMinute": 82,
+                "inMinute": 69,
                 "outMinute": 90,
-                "minutes": 8,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Badr Benoun",
-                "starter": false,
-                "inMinute": 82,
-                "outMinute": 90,
-                "minutes": 8,
-                "goals": 0,
-                "cards": []
-            },
-            {
-                "name": "Bilal El Khannouss",
-                "starter": false,
-                "inMinute": 85,
-                "outMinute": 90,
-                "minutes": 5,
+                "minutes": 21,
                 "goals": 0,
                 "cards": []
             }
@@ -16552,26 +17072,155 @@ globalThis.international2016To2020DetailsPreparsed = [
         "halfTime": "0-0",
         "scorers": [],
         "players": [
-            { "name": "Yassine Bounou", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Nayef Aguerd", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Romain Saiss", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Noussair Mazraoui", "starter": true, "inMinute": 0, "outMinute": 60, "minutes": 60, "goals": 0, "cards": [] },
-            { "name": "Sofyan Amrabat", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [{ "type": "Y", "minute": "78" }] },
-            { "name": "Azzedine Ounahi", "starter": true, "inMinute": 0, "outMinute": 65, "minutes": 65, "goals": 0, "cards": [] },
-            { "name": "Selim Amallah", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Hakim Ziyech", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Sofiane Boufal", "starter": true, "inMinute": 0, "outMinute": 65, "minutes": 65, "goals": 0, "cards": [] },
-            { "name": "Youssef En-Nesyri", "starter": true, "inMinute": 0, "outMinute": 81, "minutes": 81, "goals": 0, "cards": [] },
-            { "name": "Yahya Attiyat Allah", "starter": false, "inMinute": 60, "outMinute": 90, "minutes": 30, "goals": 0, "cards": [] },
-            { "name": "Abdelhamid Sabiri", "starter": false, "inMinute": 65, "outMinute": 90, "minutes": 25, "goals": 0, "cards": [] },
-            { "name": "Abde Ezzalzouli", "starter": false, "inMinute": 65, "outMinute": 90, "minutes": 25, "goals": 0, "cards": [] },
-            { "name": "Abderrazak Hamdallah", "starter": false, "inMinute": 81, "outMinute": 90, "minutes": 9, "goals": 0, "cards": [] }
+            {
+                "name": "Yassine Bounou",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Hakimi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Nayef Aguerd",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Romain Saiss",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Noussair Mazraoui",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 60,
+                "minutes": 60,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofyan Amrabat",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "78"
+                    }
+                ]
+            },
+            {
+                "name": "Azzedine Ounahi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 82,
+                "minutes": 82,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Selim Amallah",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Hakim Ziyech",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofiane Boufal",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 65,
+                "minutes": 65,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 81,
+                "minutes": 81,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Yahya Attiyat Allah",
+                "starter": false,
+                "inMinute": 60,
+                "outMinute": 90,
+                "minutes": 30,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abdelhamid Sabiri",
+                "starter": false,
+                "inMinute": 82,
+                "outMinute": 90,
+                "minutes": 8,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abde Ezzalzouli",
+                "starter": false,
+                "inMinute": 65,
+                "outMinute": 90,
+                "minutes": 25,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abderrazak Hamdallah",
+                "starter": false,
+                "inMinute": 81,
+                "outMinute": 90,
+                "minutes": 9,
+                "goals": 0,
+                "cards": []
+            }
         ],
         "referee": "Fernando Rapallini (Argentina)",
         "coach": "Walid Regragui",
         "cards": [
-            { "name": "Sofyan Amrabat", "type": "Y", "minute": "78" }
+            {
+                "name": "Sofyan Amrabat",
+                "type": "Y",
+                "minute": "78"
+            }
         ],
         "source": "Coupe du Monde 2022 - Transfermarkt"
     },
@@ -16585,30 +17234,177 @@ globalThis.international2016To2020DetailsPreparsed = [
         "score": "2-0",
         "halfTime": "0-0",
         "scorers": [
-            { "name": "Abdelhamid Sabiri", "minute": "73", "penalty": false },
-            { "name": "Zakaria Aboukhlal", "minute": "90+2", "penalty": false }
+            {
+                "name": "Abdelhamid Sabiri",
+                "minute": "73",
+                "penalty": false
+            },
+            {
+                "name": "Zakaria Aboukhlal",
+                "minute": "90+2",
+                "penalty": false
+            }
         ],
         "players": [
-            { "name": "Munir El Kajoui", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 81, "minutes": 81, "goals": 0, "cards": [] },
-            { "name": "Nayef Aguerd", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Romain Saiss", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Noussair Mazraoui", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Sofyan Amrabat", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Azzedine Ounahi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Selim Amallah", "starter": true, "inMinute": 0, "outMinute": 68, "minutes": 68, "goals": 0, "cards": [] },
-            { "name": "Hakim Ziyech", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Sofiane Boufal", "starter": true, "inMinute": 0, "outMinute": 73, "minutes": 73, "goals": 0, "cards": [] },
-            { "name": "Youssef En-Nesyri", "starter": true, "inMinute": 0, "outMinute": 73, "minutes": 73, "goals": 0, "cards": [] },
-            { "name": "Abdelhamid Sabiri", "starter": false, "inMinute": 68, "outMinute": 90, "minutes": 22, "goals": 1, "cards": [] },
-            { "name": "Zakaria Aboukhlal", "starter": false, "inMinute": 73, "outMinute": 90, "minutes": 17, "goals": 1, "cards": [] },
-            { "name": "Abderrazak Hamdallah", "starter": false, "inMinute": 73, "outMinute": 90, "minutes": 17, "goals": 0, "cards": [] },
-            { "name": "Yahya Attiyat Allah", "starter": false, "inMinute": 81, "outMinute": 90, "minutes": 9, "goals": 0, "cards": [] },
-            { "name": "Jawad El Yamiq", "starter": false, "inMinute": 90, "outMinute": 90, "minutes": 0, "goals": 0, "cards": [] }
+            {
+                "name": "Munir El Kajoui",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Hakimi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 68,
+                "minutes": 68,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Nayef Aguerd",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Romain Saiss",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Noussair Mazraoui",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofyan Amrabat",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Azzedine Ounahi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 78,
+                "minutes": 78,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Selim Amallah",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 68,
+                "minutes": 68,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Hakim Ziyech",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofiane Boufal",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 73,
+                "minutes": 73,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 73,
+                "minutes": 73,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Yahya Attiyat Allah",
+                "starter": false,
+                "inMinute": 68,
+                "outMinute": 90,
+                "minutes": 22,
+                "goals": 1,
+                "cards": []
+            },
+            {
+                "name": "Abdelhamid Sabiri",
+                "starter": false,
+                "inMinute": 68,
+                "outMinute": 90,
+                "minutes": 22,
+                "goals": 1,
+                "cards": []
+            },
+            {
+                "name": "Zakaria Aboukhlal",
+                "starter": false,
+                "inMinute": 73,
+                "outMinute": 90,
+                "minutes": 17,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abderrazak Hamdallah",
+                "starter": false,
+                "inMinute": 73,
+                "outMinute": 90,
+                "minutes": 17,
+                "goals": 0,
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "90+5"
+                    }
+                ]
+            },
+            {
+                "name": "Jawad El Yamiq",
+                "starter": false,
+                "inMinute": 78,
+                "outMinute": 90,
+                "minutes": 12,
+                "goals": 0,
+                "cards": []
+            }
         ],
         "referee": "Cesar Arturo Ramos (Mexico)",
         "coach": "Walid Regragui",
-        "cards": [],
+        "cards": [
+            {
+                "name": "Abderrazak Hamdallah",
+                "type": "Y",
+                "minute": "90+5"
+            }
+        ],
         "source": "Coupe du Monde 2022 - Transfermarkt"
     },
     {
@@ -16621,27 +17417,162 @@ globalThis.international2016To2020DetailsPreparsed = [
         "score": "2-1",
         "halfTime": "2-1",
         "scorers": [
-            { "name": "Hakim Ziyech", "minute": "4", "penalty": false },
-            { "name": "Youssef En-Nesyri", "minute": "23", "penalty": false }
+            {
+                "name": "Hakim Ziyech",
+                "minute": "4",
+                "penalty": false
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "minute": "23",
+                "penalty": false
+            }
         ],
         "players": [
-            { "name": "Yassine Bounou", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 85, "minutes": 85, "goals": 0, "cards": [] },
-            { "name": "Nayef Aguerd", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Romain Saiss", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Noussair Mazraoui", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Sofyan Amrabat", "starter": true, "inMinute": 0, "outMinute": 85, "minutes": 85, "goals": 0, "cards": [] },
-            { "name": "Azzedine Ounahi", "starter": true, "inMinute": 0, "outMinute": 76, "minutes": 76, "goals": 0, "cards": [] },
-            { "name": "Abdelhamid Sabiri", "starter": true, "inMinute": 0, "outMinute": 65, "minutes": 65, "goals": 0, "cards": [] },
-            { "name": "Hakim Ziyech", "starter": true, "inMinute": 0, "outMinute": 76, "minutes": 76, "goals": 1, "cards": [] },
-            { "name": "Sofiane Boufal", "starter": true, "inMinute": 0, "outMinute": 65, "minutes": 65, "goals": 0, "cards": [] },
-            { "name": "Youssef En-Nesyri", "starter": true, "inMinute": 0, "outMinute": 85, "minutes": 85, "goals": 1, "cards": [] },
-            { "name": "Selim Amallah", "starter": false, "inMinute": 65, "outMinute": 90, "minutes": 25, "goals": 0, "cards": [] },
-            { "name": "Abde Ezzalzouli", "starter": false, "inMinute": 65, "outMinute": 90, "minutes": 25, "goals": 0, "cards": [] },
-            { "name": "Zakaria Aboukhlal", "starter": false, "inMinute": 76, "outMinute": 90, "minutes": 14, "goals": 0, "cards": [] },
-            { "name": "Jawad El Yamiq", "starter": false, "inMinute": 76, "outMinute": 90, "minutes": 14, "goals": 0, "cards": [] },
-            { "name": "Yahya Jabrane", "starter": false, "inMinute": 85, "outMinute": 90, "minutes": 5, "goals": 0, "cards": [] },
-            { "name": "Abderrazak Hamdallah", "starter": false, "inMinute": 85, "outMinute": 90, "minutes": 5, "goals": 0, "cards": [] }
+            {
+                "name": "Yassine Bounou",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Hakimi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 85,
+                "minutes": 85,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Nayef Aguerd",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Romain Saiss",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Noussair Mazraoui",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofyan Amrabat",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Azzedine Ounahi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 76,
+                "minutes": 76,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abdelhamid Sabiri",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 65,
+                "minutes": 65,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Hakim Ziyech",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 76,
+                "minutes": 76,
+                "goals": 1,
+                "cards": []
+            },
+            {
+                "name": "Sofiane Boufal",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 65,
+                "minutes": 65,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 1,
+                "cards": []
+            },
+            {
+                "name": "Selim Amallah",
+                "starter": false,
+                "inMinute": 65,
+                "outMinute": 90,
+                "minutes": 25,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Zakaria Aboukhlal",
+                "starter": false,
+                "inMinute": 65,
+                "outMinute": 90,
+                "minutes": 25,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abderrazak Hamdallah",
+                "starter": false,
+                "inMinute": 76,
+                "outMinute": 90,
+                "minutes": 14,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Jawad El Yamiq",
+                "starter": false,
+                "inMinute": 76,
+                "outMinute": 90,
+                "minutes": 14,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Yahya Jabrane",
+                "starter": false,
+                "inMinute": 85,
+                "outMinute": 90,
+                "minutes": 5,
+                "goals": 0,
+                "cards": []
+            }
         ],
         "referee": "Raphael Claus (Brazil)",
         "coach": "Walid Regragui",
@@ -16660,34 +17591,191 @@ globalThis.international2016To2020DetailsPreparsed = [
         "penaltyShootout": "3-0",
         "scorers": [],
         "players": [
-            { "name": "Yassine Bounou", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 0, "cards": [] },
-            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 0, "cards": [] },
-            { "name": "Nayef Aguerd", "starter": true, "inMinute": 0, "outMinute": 84, "minutes": 84, "goals": 0, "cards": [] },
-            { "name": "Romain Saiss", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 0, "cards": [{ "type": "Y", "minute": "90" }] },
-            { "name": "Noussair Mazraoui", "starter": true, "inMinute": 0, "outMinute": 82, "minutes": 82, "goals": 0, "cards": [] },
-            { "name": "Sofyan Amrabat", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 0, "cards": [] },
-            { "name": "Azzedine Ounahi", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 0, "cards": [] },
-            { "name": "Selim Amallah", "starter": true, "inMinute": 0, "outMinute": 66, "minutes": 66, "goals": 0, "cards": [] },
-            { "name": "Hakim Ziyech", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 0, "cards": [] },
-            { "name": "Sofiane Boufal", "starter": true, "inMinute": 0, "outMinute": 82, "minutes": 82, "goals": 0, "cards": [] },
-            { "name": "Youssef En-Nesyri", "starter": true, "inMinute": 0, "outMinute": 82, "minutes": 82, "goals": 0, "cards": [] },
-            { "name": "Abdelhamid Sabiri", "starter": false, "inMinute": 66, "outMinute": 120, "minutes": 54, "goals": 0, "cards": [] },
-            { "name": "Abderrazak Hamdallah", "starter": false, "inMinute": 82, "outMinute": 120, "minutes": 38, "goals": 0, "cards": [] },
-            { "name": "Walid Cheddira", "starter": false, "inMinute": 82, "outMinute": 120, "minutes": 38, "goals": 0, "cards": [] },
-            { "name": "Yahya Attiyat Allah", "starter": false, "inMinute": 82, "outMinute": 120, "minutes": 38, "goals": 0, "cards": [] },
-            { "name": "Jawad El Yamiq", "starter": false, "inMinute": 84, "outMinute": 120, "minutes": 36, "goals": 0, "cards": [] },
-            { "name": "Badr Benoun", "starter": false, "inMinute": 120, "outMinute": 120, "minutes": 0, "goals": 0, "cards": [] }
+            {
+                "name": "Yassine Bounou",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 120,
+                "minutes": 120,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Hakimi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 120,
+                "minutes": 120,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Nayef Aguerd",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 84,
+                "minutes": 84,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Romain Saiss",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 120,
+                "minutes": 120,
+                "goals": 0,
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "90"
+                    }
+                ]
+            },
+            {
+                "name": "Noussair Mazraoui",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 82,
+                "minutes": 82,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofyan Amrabat",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 120,
+                "minutes": 120,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Azzedine Ounahi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 120,
+                "minutes": 120,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Selim Amallah",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 82,
+                "minutes": 82,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Hakim Ziyech",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 120,
+                "minutes": 120,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofiane Boufal",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 66,
+                "minutes": 66,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 82,
+                "minutes": 82,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abde Ezzalzouli",
+                "starter": false,
+                "inMinute": 66,
+                "outMinute": 120,
+                "minutes": 54,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abdelhamid Sabiri",
+                "starter": false,
+                "inMinute": 82,
+                "outMinute": 120,
+                "minutes": 38,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Yahya Attiyat Allah",
+                "starter": false,
+                "inMinute": 82,
+                "outMinute": 120,
+                "minutes": 38,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Walid Cheddira",
+                "starter": false,
+                "inMinute": 82,
+                "outMinute": 120,
+                "minutes": 38,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Jawad El Yamiq",
+                "starter": false,
+                "inMinute": 84,
+                "outMinute": 120,
+                "minutes": 36,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Badr Benoun",
+                "starter": false,
+                "inMinute": 120,
+                "outMinute": 120,
+                "minutes": 0,
+                "goals": 0,
+                "cards": []
+            }
         ],
         "referee": "Fernando Rapallini (Argentina)",
         "coach": "Walid Regragui",
         "cards": [
-            { "name": "Romain Saiss", "type": "Y", "minute": "90" }
+            {
+                "name": "Romain Saiss",
+                "type": "Y",
+                "minute": "90"
+            }
         ],
         "shootout": [
-            { "name": "Abdelhamid Sabiri", "result": "scored" },
-            { "name": "Hakim Ziyech", "result": "scored" },
-            { "name": "Badr Benoun", "result": "missed" },
-            { "name": "Achraf Hakimi", "result": "scored" }
+            {
+                "name": "Abdelhamid Sabiri",
+                "result": "scored"
+            },
+            {
+                "name": "Hakim Ziyech",
+                "result": "scored"
+            },
+            {
+                "name": "Badr Benoun",
+                "result": "missed"
+            },
+            {
+                "name": "Achraf Hakimi",
+                "result": "scored"
+            }
         ],
         "source": "Coupe du Monde 2022 - Transfermarkt"
     },
@@ -16701,32 +17789,190 @@ globalThis.international2016To2020DetailsPreparsed = [
         "score": "1-0",
         "halfTime": "1-0",
         "scorers": [
-            { "name": "Youssef En-Nesyri", "minute": "42", "penalty": false }
+            {
+                "name": "Youssef En-Nesyri",
+                "minute": "42",
+                "penalty": false
+            }
         ],
         "players": [
-            { "name": "Yassine Bounou", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Jawad El Yamiq", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Romain Saiss", "starter": true, "inMinute": 0, "outMinute": 57, "minutes": 57, "goals": 0, "cards": [] },
-            { "name": "Yahya Attiyat Allah", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Sofyan Amrabat", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Azzedine Ounahi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Sofiane Boufal", "starter": true, "inMinute": 0, "outMinute": 82, "minutes": 82, "goals": 0, "cards": [] },
-            { "name": "Selim Amallah", "starter": true, "inMinute": 0, "outMinute": 64, "minutes": 64, "goals": 0, "cards": [] },
-            { "name": "Hakim Ziyech", "starter": true, "inMinute": 0, "outMinute": 81, "minutes": 81, "goals": 0, "cards": [] },
-            { "name": "Youssef En-Nesyri", "starter": true, "inMinute": 0, "outMinute": 64, "minutes": 64, "goals": 1, "cards": [] },
-            { "name": "Achraf Dari", "starter": false, "inMinute": 57, "outMinute": 90, "minutes": 33, "goals": 0, "cards": [{ "type": "Y", "minute": "70" }] },
-            { "name": "Badr Benoun", "starter": false, "inMinute": 64, "outMinute": 90, "minutes": 26, "goals": 0, "cards": [] },
-            { "name": "Walid Cheddira", "starter": false, "inMinute": 64, "outMinute": 90, "minutes": 26, "goals": 0, "cards": [{ "type": "Y", "minute": "90+1" }, { "type": "R", "minute": "90+3" }] },
-            { "name": "Zakaria Aboukhlal", "starter": false, "inMinute": 81, "outMinute": 90, "minutes": 9, "goals": 0, "cards": [] },
-            { "name": "Yahya Jabrane", "starter": false, "inMinute": 82, "outMinute": 90, "minutes": 8, "goals": 0, "cards": [] }
+            {
+                "name": "Yassine Bounou",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Jawad El Yamiq",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Romain Saiss",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 57,
+                "minutes": 57,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Yahya Attiyat Allah",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Hakimi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofyan Amrabat",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Azzedine Ounahi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofiane Boufal",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 82,
+                "minutes": 82,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Selim Amallah",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 65,
+                "minutes": 65,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Hakim Ziyech",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 82,
+                "minutes": 82,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 65,
+                "minutes": 65,
+                "goals": 1,
+                "cards": []
+            },
+            {
+                "name": "Achraf Dari",
+                "starter": false,
+                "inMinute": 57,
+                "outMinute": 90,
+                "minutes": 33,
+                "goals": 0,
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "70"
+                    }
+                ]
+            },
+            {
+                "name": "Badr Benoun",
+                "starter": false,
+                "inMinute": 65,
+                "outMinute": 90,
+                "minutes": 25,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Walid Cheddira",
+                "starter": false,
+                "inMinute": 65,
+                "outMinute": 90,
+                "minutes": 25,
+                "goals": 0,
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "90+1"
+                    },
+                    {
+                        "type": "R",
+                        "minute": "90+3"
+                    }
+                ]
+            },
+            {
+                "name": "Zakaria Aboukhlal",
+                "starter": false,
+                "inMinute": 82,
+                "outMinute": 90,
+                "minutes": 8,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Yahya Jabrane",
+                "starter": false,
+                "inMinute": 82,
+                "outMinute": 90,
+                "minutes": 8,
+                "goals": 0,
+                "cards": []
+            }
         ],
         "referee": "Facundo Tello (Argentina)",
         "coach": "Walid Regragui",
         "cards": [
-            { "name": "Achraf Dari", "type": "Y", "minute": "70" },
-            { "name": "Walid Cheddira", "type": "Y", "minute": "90+1" },
-            { "name": "Walid Cheddira", "type": "R", "minute": "90+3" }
+            {
+                "name": "Achraf Dari",
+                "type": "Y",
+                "minute": "70"
+            },
+            {
+                "name": "Walid Cheddira",
+                "type": "Y",
+                "minute": "90+1"
+            },
+            {
+                "name": "Walid Cheddira",
+                "type": "R",
+                "minute": "90+3"
+            }
         ],
         "source": "Coupe du Monde 2022 - Transfermarkt"
     },
@@ -16741,27 +17987,164 @@ globalThis.international2016To2020DetailsPreparsed = [
         "halfTime": "0-1",
         "scorers": [],
         "players": [
-            { "name": "Yassine Bounou", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Romain Saiss", "starter": true, "inMinute": 0, "outMinute": 21, "minutes": 21, "goals": 0, "cards": [] },
-            { "name": "Jawad El Yamiq", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Achraf Dari", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Noussair Mazraoui", "starter": true, "inMinute": 0, "outMinute": 46, "minutes": 46, "goals": 0, "cards": [] },
-            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Sofyan Amrabat", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Azzedine Ounahi", "starter": true, "inMinute": 0, "outMinute": 79, "minutes": 79, "goals": 0, "cards": [] },
-            { "name": "Sofiane Boufal", "starter": true, "inMinute": 0, "outMinute": 66, "minutes": 66, "goals": 0, "cards": [{ "type": "Y", "minute": "27" }] },
-            { "name": "Hakim Ziyech", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Youssef En-Nesyri", "starter": true, "inMinute": 0, "outMinute": 66, "minutes": 66, "goals": 0, "cards": [] },
-            { "name": "Selim Amallah", "starter": false, "inMinute": 21, "outMinute": 90, "minutes": 69, "goals": 0, "cards": [] },
-            { "name": "Yahya Attiyat Allah", "starter": false, "inMinute": 46, "outMinute": 90, "minutes": 44, "goals": 0, "cards": [] },
-            { "name": "Abderrazak Hamdallah", "starter": false, "inMinute": 66, "outMinute": 90, "minutes": 24, "goals": 0, "cards": [] },
-            { "name": "Abde Ezzalzouli", "starter": false, "inMinute": 66, "outMinute": 90, "minutes": 24, "goals": 0, "cards": [] },
-            { "name": "Zakaria Aboukhlal", "starter": false, "inMinute": 79, "outMinute": 90, "minutes": 11, "goals": 0, "cards": [] }
+            {
+                "name": "Yassine Bounou",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Romain Saiss",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 21,
+                "minutes": 21,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Jawad El Yamiq",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Dari",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Noussair Mazraoui",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 46,
+                "minutes": 46,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Hakimi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofyan Amrabat",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Azzedine Ounahi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofiane Boufal",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 66,
+                "minutes": 66,
+                "goals": 0,
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "27"
+                    }
+                ]
+            },
+            {
+                "name": "Hakim Ziyech",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 66,
+                "minutes": 66,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Selim Amallah",
+                "starter": false,
+                "inMinute": 21,
+                "outMinute": 78,
+                "minutes": 57,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Yahya Attiyat Allah",
+                "starter": false,
+                "inMinute": 46,
+                "outMinute": 90,
+                "minutes": 44,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abderrazak Hamdallah",
+                "starter": false,
+                "inMinute": 66,
+                "outMinute": 90,
+                "minutes": 24,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abde Ezzalzouli",
+                "starter": false,
+                "inMinute": 78,
+                "outMinute": 90,
+                "minutes": 12,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Zakaria Aboukhlal",
+                "starter": false,
+                "inMinute": 66,
+                "outMinute": 90,
+                "minutes": 24,
+                "goals": 0,
+                "cards": []
+            }
         ],
         "referee": "Cesar Arturo Ramos (Mexico)",
         "coach": "Walid Regragui",
         "cards": [
-            { "name": "Sofiane Boufal", "type": "Y", "minute": "27" }
+            {
+                "name": "Sofiane Boufal",
+                "type": "Y",
+                "minute": "27"
+            }
         ],
         "source": "Coupe du Monde 2022 - Transfermarkt"
     },
@@ -16775,31 +18158,181 @@ globalThis.international2016To2020DetailsPreparsed = [
         "score": "1-2",
         "halfTime": "1-2",
         "scorers": [
-            { "name": "Achraf Dari", "minute": "9", "penalty": false }
+            {
+                "name": "Achraf Dari",
+                "minute": "9",
+                "penalty": false
+            }
         ],
         "players": [
-            { "name": "Yassine Bounou", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Achraf Dari", "starter": true, "inMinute": 0, "outMinute": 64, "minutes": 64, "goals": 1, "cards": [] },
-            { "name": "Jawad El Yamiq", "starter": true, "inMinute": 0, "outMinute": 67, "minutes": 67, "goals": 0, "cards": [] },
-            { "name": "Yahya Attiyat Allah", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Sofyan Amrabat", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Sofiane Boufal", "starter": true, "inMinute": 0, "outMinute": 64, "minutes": 64, "goals": 0, "cards": [] },
-            { "name": "Abdelhamid Sabiri", "starter": true, "inMinute": 0, "outMinute": 46, "minutes": 46, "goals": 0, "cards": [] },
-            { "name": "Bilal El Khannouss", "starter": true, "inMinute": 0, "outMinute": 56, "minutes": 56, "goals": 0, "cards": [] },
-            { "name": "Hakim Ziyech", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Youssef En-Nesyri", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
-            { "name": "Ilias Chair", "starter": false, "inMinute": 46, "outMinute": 90, "minutes": 44, "goals": 0, "cards": [] },
-            { "name": "Azzedine Ounahi", "starter": false, "inMinute": 56, "outMinute": 90, "minutes": 34, "goals": 0, "cards": [{ "type": "Y", "minute": "56" }] },
-            { "name": "Badr Benoun", "starter": false, "inMinute": 64, "outMinute": 90, "minutes": 26, "goals": 0, "cards": [] },
-            { "name": "Anass Zaroury", "starter": false, "inMinute": 64, "outMinute": 90, "minutes": 26, "goals": 0, "cards": [] },
-            { "name": "Selim Amallah", "starter": false, "inMinute": 67, "outMinute": 90, "minutes": 23, "goals": 0, "cards": [{ "type": "Y", "minute": "69" }] }
+            {
+                "name": "Yassine Bounou",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Dari",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 64,
+                "minutes": 64,
+                "goals": 1,
+                "cards": []
+            },
+            {
+                "name": "Jawad El Yamiq",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 67,
+                "minutes": 67,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Yahya Attiyat Allah",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Hakimi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofyan Amrabat",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofiane Boufal",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 64,
+                "minutes": 64,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abdelhamid Sabiri",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 46,
+                "minutes": 46,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Bilal El Khannouss",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 56,
+                "minutes": 56,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Hakim Ziyech",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Youssef En-Nesyri",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Ilias Chair",
+                "starter": false,
+                "inMinute": 46,
+                "outMinute": 90,
+                "minutes": 44,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Azzedine Ounahi",
+                "starter": false,
+                "inMinute": 56,
+                "outMinute": 90,
+                "minutes": 34,
+                "goals": 0,
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "56"
+                    }
+                ]
+            },
+            {
+                "name": "Badr Benoun",
+                "starter": false,
+                "inMinute": 64,
+                "outMinute": 90,
+                "minutes": 26,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Anass Zaroury",
+                "starter": false,
+                "inMinute": 64,
+                "outMinute": 90,
+                "minutes": 26,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Selim Amallah",
+                "starter": false,
+                "inMinute": 67,
+                "outMinute": 90,
+                "minutes": 23,
+                "goals": 0,
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "69"
+                    }
+                ]
+            }
         ],
         "referee": "Abdulrahman Ibrahim Al-Jassim (Qatar)",
         "coach": "Walid Regragui",
         "cards": [
-            { "name": "Azzedine Ounahi", "type": "Y", "minute": "56" },
-            { "name": "Selim Amallah", "type": "Y", "minute": "69" }
+            {
+                "name": "Azzedine Ounahi",
+                "type": "Y",
+                "minute": "56"
+            },
+            {
+                "name": "Selim Amallah",
+                "type": "Y",
+                "minute": "69"
+            }
         ],
         "source": "Coupe du Monde 2022 - Transfermarkt"
     }

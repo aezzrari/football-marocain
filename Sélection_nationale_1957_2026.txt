@@ -1,6 +1,6 @@
 DATE     VERSUS          VENUE SCORE [HT]  [PEN] CROWD  COMP      SCORERS
 
-18/01/26 SENEGAL         [MAR] L 0-1 [0-0] AET    66526 CAN Final
+18/01/26 SENEGAL         [MAR] W 3-0 [0-0]        66526 CAN Final  [Victoire sur tapis vert après sortie du terrain de l'équipe du Sénégal]
 14/01/26 NIGERIA         [MAR] D 0-0 [0-0] [4-2]  65458 CAN Sf
 09/01/26 CAMEROON        [MAR] W 2-0 [1-0]        64178 CAN Qf    [B.Diaz 26>I.Saibari 74]
 04/01/26 TANZANIA        [MAR] W 1-0 [0-0]        63894 CAN Rd 2  [B.Diaz 64]

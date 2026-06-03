@@ -1,5 +1,17 @@
+function seasonSortValue(season) {
+  const match = season.id.match(/^(\d{4})-(\d{2})$/);
+  if (!match) return Number.NEGATIVE_INFINITY;
+  return Number(match[1]) * 100 + Number(match[2]);
+}
+
+function latestAvailableSeason() {
+  return seasons
+    .slice()
+    .sort((a, b) => seasonSortValue(b) - seasonSortValue(a))[0] || seasons[0];
+}
+
 const state = {
-  season: seasons.find((s) => s.id === "2021-22") || seasons[0],
+  season: latestAvailableSeason(),
   activeTab: "championship",
   query: ""
 };
@@ -709,8 +721,58 @@ function buildMatchDataset() {
   return matches;
 }
 
+function repairMojibakeText(value) {
+  const text = String(value || "");
+  if (![...text].some((char) => [0xc2, 0xc3, 0xe2].includes(char.charCodeAt(0)))) return text;
+  const cp1252 = {
+    0x20ac: 0x80,
+    0x201a: 0x82,
+    0x0192: 0x83,
+    0x201e: 0x84,
+    0x2026: 0x85,
+    0x2020: 0x86,
+    0x2021: 0x87,
+    0x02c6: 0x88,
+    0x2030: 0x89,
+    0x0160: 0x8a,
+    0x2039: 0x8b,
+    0x0152: 0x8c,
+    0x017d: 0x8e,
+    0x2018: 0x91,
+    0x2019: 0x92,
+    0x201c: 0x93,
+    0x201d: 0x94,
+    0x2022: 0x95,
+    0x2013: 0x96,
+    0x2014: 0x97,
+    0x02dc: 0x98,
+    0x2122: 0x99,
+    0x0161: 0x9a,
+    0x203a: 0x9b,
+    0x0153: 0x9c,
+    0x017e: 0x9e,
+    0x0178: 0x9f
+  };
+  const bytes = [];
+  for (const char of text) {
+    const code = char.charCodeAt(0);
+    if (code <= 0xff) {
+      bytes.push(code);
+    } else if (cp1252[code] !== undefined) {
+      bytes.push(cp1252[code]);
+    } else {
+      return text;
+    }
+  }
+  try {
+    return new TextDecoder("utf-8", { fatal: true }).decode(new Uint8Array(bytes));
+  } catch {
+    return text;
+  }
+}
+
 function normalize(value) {
-  return String(value || "").toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+  return repairMojibakeText(value).toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "");
 }
 
 function aliasesForCode(code) {
@@ -1281,6 +1343,10 @@ function formatNationalScorer(scorer) {
   return scorer.minutes.length ? `${scorer.name} ${scorer.minutes.join(", ")}` : scorer.name;
 }
 
+function renderPlayerDetailButton(name, label = name) {
+  return `<button class="detail-pill-button player-detail-button" type="button" data-player-key="${nationalPlayerStatKey(name)}" title="Voir les statistiques de ${label}" aria-label="Voir les statistiques de ${label}">${label}</button>`;
+}
+
 function normalizeMatchKey(value) {
   return normalize(String(value || "").replace(/\./g, "").replace(/\s+/g, " "));
 }
@@ -1291,6 +1357,7 @@ function nationalDetailKey(date, opponent) {
 
 function normalizeNationalOpponentKey(opponent) {
   const key = normalizeMatchKey(opponent);
+  const compactKey = key.replace(/[^a-z0-9]/g, "");
   const aliases = {
     eqguinea: "equatorialguinea",
     uae: "unitedarabemirates",
@@ -1298,25 +1365,26 @@ function normalizeNationalOpponentKey(opponent) {
     capeverdeisl: "capeverde",
     saotomeprin: "saotomeandprincipe",
     drcongo: "democraticrepublicofthecongo",
+    congo: "republicofthecongo",
     comorosislands: "comoros",
-    cenafricanrep: "centralafricanrepublic"
+    cenafricanrep: "centralafricanrepublic",
+    cenafricanr: "centralafricanrepublic"
   };
-  return aliases[key] || key;
+  return aliases[compactKey] || compactKey;
 }
 
 function nationalSquadType(match) {
   const competition = normalizeMatchKey(match.competition).replace(/\*/g, "");
   if (["21/09/2022"].includes(match.date)) return "NON_FIFA";
-  if (["21/12/2022"].includes(match.date) || /U23/i.test(match.opponent)) return "U23";
-  if (["06/01/2018", "08/01/2021", "12/01/2021", "20/08/2022", "23/08/2022", "01/11/2020", "04/11/2020"].includes(match.date)) return "A_PRIME";
+  if (["21/12/2022", "09/01/2023"].includes(match.date) || /U23/i.test(match.opponent)) return "U23";
+  if (match.date === "19/11/2019" && normalizeNationalOpponentKey(match.opponent) === "guinea") return "A_PRIME";
+  if (["12/10/2014", "06/01/2018", "08/01/2021", "12/01/2021", "20/08/2022", "23/08/2022", "01/11/2020", "04/11/2020", "07/01/2023"].includes(match.date)) return "A_PRIME";
   return ["anc", "ancq", "arab", "ara", "arb"].includes(competition) ? "A_PRIME" : "A";
 }
 
 function computeNationalScorerStats(matches) {
   const scorers = new Map();
-  const getPlayerKey = (name) => {
-    return name.trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/'/g, "");
-  };
+  const getPlayerKey = nationalPlayerStatKey;
 
   const ensure = (rawName) => {
     const key = getPlayerKey(rawName);
@@ -1330,7 +1398,9 @@ function computeNationalScorerStats(matches) {
     return scorers.get(key);
   };
 
-  matches.flatMap((match) => match.scorers).forEach((scorer) => {
+  const cleanScorers = (scorerList) => scorerList.filter((s) => !s.name.toLowerCase().includes("tapis vert"));
+
+  matches.flatMap((match) => cleanScorers(match.scorers)).forEach((scorer) => {
     const row = ensure(scorer.name);
     row.goals += scorer.goals;
     row.penalties += scorer.penalties;
@@ -1338,7 +1408,7 @@ function computeNationalScorerStats(matches) {
 
   matches.forEach((match) => {
     // We must normalize scorer names before adding to set to avoid counting the same player twice in one match under different names
-    const names = new Set(match.scorers.map((scorer) => getPlayerKey(scorer.name)));
+    const names = new Set(cleanScorers(match.scorers).map((scorer) => getPlayerKey(scorer.name)));
     names.forEach((key) => {
       const row = scorers.get(key);
       if (row) {
@@ -1353,11 +1423,83 @@ function computeNationalScorerStats(matches) {
     .sort((a, b) => b.goals - a.goals || a.name.localeCompare(b.name));
 }
 
+function nationalPlayerStatKey(name) {
+  return repairMojibakeText(name).trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]/g, "");
+}
+
+function nationalPlayerInitialKey(name) {
+  const words = repairMojibakeText(name)
+    .trim()
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim()
+    .split(/\s+/)
+    .filter(Boolean);
+  if (words.length < 2) return nationalPlayerStatKey(name);
+  return `${words[0][0]}${words.slice(1).join("")}`;
+}
+
+function nationalPlayerStatKeys(name) {
+  return [...new Set([nationalPlayerStatKey(name), nationalPlayerInitialKey(name)].filter(Boolean))];
+}
+
+function detailScorerGoalCounts(detail) {
+  return (detail.scorers || []).reduce((counts, scorer) => {
+    if (scorer.ownGoal) return counts;
+    const key = nationalPlayerStatKey(scorer.name);
+    if (!key) return counts;
+    counts.set(key, (counts.get(key) || 0) + (Number(scorer.goals) || 1));
+    return counts;
+  }, new Map());
+}
+
+function detailPlayersWithScorerGoals(detail) {
+  const scorerGoals = detailScorerGoalCounts(detail);
+  return (detail.players || []).map((player) => {
+    const cleanName = repairMojibakeText(player.name);
+    const cleanPlayer = { ...player, name: cleanName };
+    const goalsFromScorers = scorerGoals.get(nationalPlayerStatKey(cleanName));
+    if (!goalsFromScorers) return cleanPlayer;
+    return { ...cleanPlayer, goals: Math.max(Number(player.goals) || 0, goalsFromScorers) };
+  });
+}
+
+function findDetailPlayerByKey(detail, playerKey) {
+  return detailPlayersWithScorerGoals(detail).find((player) => nationalPlayerStatKeys(player.name).includes(playerKey));
+}
+
+function detailScorersByPlayerKey(detail, playerKey) {
+  return (detail.scorers || []).filter((scorer) => nationalPlayerStatKeys(scorer.name).includes(playerKey));
+}
+
+function isOfficialNationalStatMatch(match) {
+  return !String(match.competition || "").includes("*");
+}
+
+function nationalMatchDateValue(match) {
+  const parts = String(match.date || "").split("/");
+  if (parts.length !== 3) return 0;
+  return Number(parts[2]) * 10000 + Number(parts[1]) * 100 + Number(parts[0]);
+}
+
+function nationalMatchIdentity(match) {
+  return `${match.date}|${normalizeNationalOpponentKey(match.opponent)}|${match.goalsFor}-${match.goalsAgainst}|${match.competition}`;
+}
+
 function computeNationalDetailedPlayerStats(matches) {
   const stats = new Map();
-  const getPlayerKey = (name) => {
-    return name.trim().toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/'/g, "");
-  };
+  const getPlayerKey = nationalPlayerStatKey;
+  const officialMatches = matches.filter(isOfficialNationalStatMatch);
+  const scorerGoalTotals = officialMatches.flatMap((match) => match.scorers || []).reduce((totals, scorer) => {
+    if (String(scorer.name || "").toLowerCase().includes("tapis vert")) return totals;
+    const goals = Number(scorer.goals) || 1;
+    nationalPlayerStatKeys(scorer.name).forEach((key) => {
+      totals.set(key, (totals.get(key) || 0) + goals);
+    });
+    return totals;
+  }, new Map());
   
   const ensure = (rawName) => {
     const key = getPlayerKey(rawName);
@@ -1373,22 +1515,27 @@ function computeNationalDetailedPlayerStats(matches) {
     return stats.get(key);
   };
 
-  matches
+  officialMatches
     .map(detailForNationalMatch)
     .filter(Boolean)
     .forEach((detail) => {
-      detail.players.forEach((player) => {
+      detailPlayersWithScorerGoals(detail).forEach((player) => {
         const row = ensure(player.name);
         row.matches += 1;
         row.starts += player.starter ? 1 : 0;
         row.minutes += player.minutes;
         row.goals += player.goals;
-        row.yellow += player.cards.filter((card) => card.type === "Y").length;
-        row.red += player.cards.filter((card) => card.type === "R").length;
+        row.yellow += (player.cards || []).filter((card) => card.type === "Y").length;
+        row.red += (player.cards || []).filter((card) => card.type === "R").length;
       });
     });
 
-  return [...stats.values()].sort((a, b) => b.matches - a.matches || b.minutes - a.minutes || a.name.localeCompare(b.name));
+  return [...stats.values()]
+    .map((row) => {
+      const scorerGoals = nationalPlayerStatKeys(row.name).reduce((max, key) => Math.max(max, scorerGoalTotals.get(key) || 0), 0);
+      return { ...row, goals: Math.max(row.goals, scorerGoals) };
+    })
+    .sort((a, b) => b.matches - a.matches || b.minutes - a.minutes || a.name.localeCompare(b.name));
 }
 
 function normalizedNationalRawLines(lines) {
@@ -1448,7 +1595,7 @@ function splitCsvOutsideGroups(text) {
 }
 
 function cleanDetailText(text) {
-  return String(text || "")
+  return repairMojibakeText(text)
     .replace(/-\s+/g, "-")
     .replace(/\s+/g, " ")
     .trim();
@@ -1793,9 +1940,150 @@ function parseInternational2000Detail(block) {
     players,
     referee,
     coach,
-    cards: players.flatMap((player) => player.cards.map((card) => ({ ...card, name: player.name }))),
+    cards: players.flatMap((player) => (player.cards || []).map((card) => ({ ...card, name: player.name }))),
     source: block.competition
   };
+}
+
+function parseInternationalRawDetailBlocks(lines) {
+  const blocks = [];
+  let current = [];
+  (lines || []).forEach((line) => {
+    if (/^\d{2}\/\d{2}\/\d{4},/.test(cleanDetailText(line)) && current.length) {
+      blocks.push(current);
+      current = [line];
+    } else if (/^\d{2}\/\d{2}\/\d{4},/.test(cleanDetailText(line)) || current.length) {
+      current.push(line);
+    }
+  });
+  if (current.length) blocks.push(current);
+  return blocks;
+}
+
+function compactNationalDetailKey(date, opponent) {
+  return `${date}|${nationalPlayerStatKey(normalizeNationalOpponentKey(opponent))}`;
+}
+
+function displayNameFromRawGoalName(name, date) {
+  const cleanName = cleanDetailText(name);
+  if (!cleanName.includes(",")) return canonicalDetailPlayerName(titleCaseName(cleanName), date);
+  const [last, first] = cleanName.split(",").map((part) => part.trim());
+  return canonicalDetailPlayerName(titleCaseName(`${first} ${last}`), date);
+}
+
+function parseInternationalRawGoalScorers(lines) {
+  return parseInternationalRawDetailBlocks(lines).reduce((scorersByKey, block) => {
+    const dateInfo = parseDetailDate(cleanDetailText(block[0]).split(",")[0]);
+    const scoreLine = block.map(cleanDetailText).find((line) => /\bMOROCCO\b/i.test(line) && /\d+-\d+/.test(line)) || "";
+    const scoreMatch = scoreLine.match(/^(.+?)\s+(\d+)-(\d+)\s+(.+?)(?:\s+\[(?:HT\s*)?([^\]]+)\])?(?:\s+.*)?$/i);
+    if (!scoreMatch) return scorersByKey;
+
+    const home = scoreMatch[1].trim();
+    const away = scoreMatch[4].trim();
+    const isMoroccoHome = normalizeMatchKey(home) === "morocco";
+    const opponent = isMoroccoHome ? away : home;
+    const key = compactNationalDetailKey(dateInfo, opponent);
+    const scorerStart = block.findIndex((line) => /^GOALS?:/i.test(cleanDetailText(line)));
+    const lineupStart = block.findIndex((line) => /^MOROCCO:/i.test(cleanDetailText(line)));
+    if (scorerStart < 0) {
+      scorersByKey.set(key, []);
+      return scorersByKey;
+    }
+
+    const goalText = block
+      .slice(scorerStart, lineupStart > scorerStart ? lineupStart : block.length)
+      .map(cleanDetailText)
+      .join(" ")
+      .replace(/^GOALS?:\s*/i, "");
+    let previousHome = 0;
+    let previousAway = 0;
+    const scorers = [];
+    const moroccoGoalTotal = isMoroccoHome ? Number(scoreMatch[2]) : Number(scoreMatch[3]);
+    const opponentGoalTotal = isMoroccoHome ? Number(scoreMatch[3]) : Number(scoreMatch[2]);
+    const goalPattern = /\((\d+)-(\d+)\)\s+(.+?)\s+(\d+(?:\+\d+)?)[\u2019']?\s*(pen)?\s*(OG)?(?:\s|$)/gi;
+    let match;
+    while ((match = goalPattern.exec(goalText)) !== null) {
+      const nextHome = Number(match[1]);
+      const nextAway = Number(match[2]);
+      const homeScored = nextHome > previousHome;
+      const awayScored = nextAway > previousAway;
+      previousHome = nextHome;
+      previousAway = nextAway;
+      const moroccoScored = isMoroccoHome ? homeScored : awayScored;
+      if (!moroccoScored) continue;
+      scorers.push({
+        name: displayNameFromRawGoalName(match[3], dateInfo),
+        minute: match[4],
+        penalty: Boolean(match[5]),
+        ownGoal: Boolean(match[6])
+      });
+    }
+    if (!scorers.length && moroccoGoalTotal > 0 && opponentGoalTotal === 0) {
+      const simpleGoalPattern = /([^()]+?)\s+(\d+(?:\+\d+)?)[\u2019']?\s*(pen)?(?:\s|$)/gi;
+      while ((match = simpleGoalPattern.exec(goalText)) !== null && scorers.length < moroccoGoalTotal) {
+        scorers.push({
+          name: displayNameFromRawGoalName(match[1], dateInfo),
+          minute: match[2],
+          penalty: Boolean(match[3])
+        });
+      }
+    }
+    scorersByKey.set(key, scorers);
+    return scorersByKey;
+  }, new Map());
+}
+
+function repairNationalDetail(detail) {
+  const repairCard = (card) => ({ ...card, name: repairMojibakeText(card.name), minute: repairMojibakeText(card.minute) });
+  return {
+    ...detail,
+    city: repairMojibakeText(detail.city),
+    stadium: repairMojibakeText(detail.stadium),
+    attendance: repairMojibakeText(detail.attendance),
+    opponent: repairMojibakeText(detail.opponent),
+    referee: repairMojibakeText(detail.referee),
+    coach: repairMojibakeText(detail.coach),
+    source: repairMojibakeText(detail.source),
+    scorers: (detail.scorers || []).map((scorer) => ({
+      ...scorer,
+      name: repairMojibakeText(scorer.name),
+      minute: repairMojibakeText(scorer.minute)
+    })),
+    players: (detail.players || []).map((player) => ({
+      ...player,
+      name: repairMojibakeText(player.name),
+      cards: (player.cards || []).map(repairCard)
+    })),
+    cards: (detail.cards || []).map(repairCard)
+  };
+}
+
+function enrichNationalDetailFromRawScorers(detail, rawScorersByKey) {
+  const repaired = repairNationalDetail(detail);
+  if ((repaired.scorers || []).length) return repaired;
+  const rawScorers = rawScorersByKey.get(compactNationalDetailKey(repaired.date, repaired.opponent)) || rawScorersByKey.get(compactNationalDetailKey(repaired.date, repaired.key.split("|")[1])) || [];
+  return rawScorers.length ? { ...repaired, scorers: rawScorers } : repaired;
+}
+
+function expandNationalSummaryScorersForDetail(detail, match) {
+  return (match.scorers || []).flatMap((scorer) => {
+    const playerKey = nationalPlayerStatKeys(scorer.name).find((key) => findDetailPlayerByKey(detail, key));
+    const player = playerKey ? findDetailPlayerByKey(detail, playerKey) : null;
+    const name = player?.name || scorer.name;
+    const minutes = scorer.minutes?.length ? scorer.minutes : Array.from({ length: Number(scorer.goals) || 1 }, () => "");
+    return minutes.map((rawMinute) => ({
+      name,
+      minute: String(rawMinute || "").replace(/Pen$/i, ""),
+      penalty: /Pen$/i.test(String(rawMinute || "")),
+      goals: 1
+    }));
+  });
+}
+
+function enrichNationalDetailFromMatchSummary(detail, match) {
+  if (!detail || (detail.scorers || []).length || !(match?.scorers || []).length) return detail;
+  const fallbackScorers = expandNationalSummaryScorersForDetail(detail, match);
+  return fallbackScorers.length ? { ...detail, scorers: fallbackScorers } : detail;
 }
 
 const wcMatchDetailsSource = typeof wcMatchDetailsRawLines === "undefined"
@@ -1804,16 +2092,28 @@ const wcMatchDetailsSource = typeof wcMatchDetailsRawLines === "undefined"
 const international2000DetailsSource = typeof international2000DetailsRawLines === "undefined"
   ? (globalThis.international2000DetailsRawLines || [])
   : international2000DetailsRawLines;
+const international2016To2020DetailsSource = typeof international2016To2020DetailsRawLines === "undefined"
+  ? (globalThis.international2016To2020DetailsRawLines || [])
+  : international2016To2020DetailsRawLines;
+const international2016To2020RawScorers = parseInternationalRawGoalScorers(international2016To2020DetailsSource);
 const parsedWcMatchDetails = parseWcMatchDetailBlocks(wcMatchDetailsSource)
   .map(parseWcMatchDetail)
-  .filter(Boolean);
+  .filter(Boolean)
+  .map(repairNationalDetail);
 const parsedInternational2000Details = Array.isArray(globalThis.international2000DetailsPreparsed)
-  ? globalThis.international2000DetailsPreparsed
+  ? globalThis.international2000DetailsPreparsed.map(repairNationalDetail)
   : parseInternational2000Blocks(international2000DetailsSource)
     .map(parseInternational2000Detail)
-    .filter(Boolean);
+    .filter(Boolean)
+    .map(repairNationalDetail);
+const parsedInternational2010To2015Details = Array.isArray(globalThis.international2010To2015DetailsPreparsed)
+  ? globalThis.international2010To2015DetailsPreparsed.map(repairNationalDetail)
+  : [];
 const parsedInternational2016To2020Details = Array.isArray(globalThis.international2016To2020DetailsPreparsed)
-  ? globalThis.international2016To2020DetailsPreparsed
+  ? globalThis.international2016To2020DetailsPreparsed.map((detail) => enrichNationalDetailFromRawScorers(detail, international2016To2020RawScorers))
+  : [];
+const parsedInternational2021To2025Details = Array.isArray(globalThis.international2021To2025DetailsPreparsed)
+  ? globalThis.international2021To2025DetailsPreparsed.map(repairNationalDetail)
   : [];
 const nationalMatchDetails = new Map();
 parsedWcMatchDetails.forEach((detail) => {
@@ -1822,13 +2122,21 @@ parsedWcMatchDetails.forEach((detail) => {
 parsedInternational2000Details.forEach((detail) => {
   if (!nationalMatchDetails.has(detail.key)) nationalMatchDetails.set(detail.key, detail);
 });
+parsedInternational2010To2015Details.forEach((detail) => {
+  if (!nationalMatchDetails.has(detail.key)) nationalMatchDetails.set(detail.key, detail);
+});
 parsedInternational2016To2020Details.forEach((detail) => {
+  if (!nationalMatchDetails.has(detail.key)) nationalMatchDetails.set(detail.key, detail);
+});
+parsedInternational2021To2025Details.forEach((detail) => {
   if (!nationalMatchDetails.has(detail.key)) nationalMatchDetails.set(detail.key, detail);
 });
 globalThis.nationalDetailDebug = {
   wc: parsedWcMatchDetails.length,
   international2000: parsedInternational2000Details.length,
+  international2010To2015: parsedInternational2010To2015Details.length,
   international2016To2020: parsedInternational2016To2020Details.length,
+  international2021To2025: parsedInternational2021To2025Details.length,
   total: nationalMatchDetails.size
 };
 
@@ -1862,17 +2170,18 @@ function detailMatchesNationalMatch(detail, match) {
 
 function detailForNationalMatch(match) {
   const exact = nationalMatchDetails.get(match.detailKey);
-  if (exact) return exact;
+  if (exact) return enrichNationalDetailFromMatchSummary(exact, match);
   const indexed = nationalMatchDetailsByDateOpponent.get(`${match.date}|${normalizeNationalOpponentKey(match.opponent)}`) || [];
   const indexedMatch = indexed.find((detail) => !detail.score || detail.score === `${match.goalsFor}-${match.goalsAgainst}`) || indexed[0];
-  if (indexedMatch) return indexedMatch;
+  if (indexedMatch) return enrichNationalDetailFromMatchSummary(indexedMatch, match);
   const sameDate = nationalMatchDetailsByDate.get(match.date) || [];
-  if (sameDate.length === 1) return sameDate[0];
+  if (sameDate.length === 1 && detailMatchesNationalMatch(sameDate[0], match)) return enrichNationalDetailFromMatchSummary(sameDate[0], match);
   const sameDayMatch = sameDate.find((detail) => detailMatchesNationalMatch(detail, match));
-  if (sameDayMatch) return sameDayMatch;
-  return adjacentDateLabels(match.date)
+  if (sameDayMatch) return enrichNationalDetailFromMatchSummary(sameDayMatch, match);
+  const adjacentMatch = adjacentDateLabels(match.date)
     .flatMap((date) => nationalMatchDetailsByDate.get(date) || [])
     .find((detail) => detailMatchesNationalMatch(detail, match)) || null;
+  return enrichNationalDetailFromMatchSummary(adjacentMatch, match);
 }
 
 function parseNationalMatchLine(line) {
@@ -1973,31 +2282,34 @@ function renderNationalSelectors() {
 function renderNationalTeam() {
   renderNationalSelectors();
   const matches = filterNationalMatches(getNationalFilters());
-  const scorerStats = computeNationalScorerStats(matches);
+  const officialStatMatches = matches.filter(isOfficialNationalStatMatch);
+  const scorerStats = computeNationalScorerStats(officialStatMatches);
   const detailedPlayerStats = computeNationalDetailedPlayerStats(matches);
   const detailedMatches = matches.map(detailForNationalMatch).filter(Boolean);
-  const wins = matches.filter((match) => match.result === "Victoire").length;
-  const draws = matches.filter((match) => match.result === "Nul").length;
-  const losses = matches.filter((match) => match.result === "Defaite").length;
-  const goalsFor = matches.reduce((sum, match) => sum + match.goalsFor, 0);
-  const goalsAgainst = matches.reduce((sum, match) => sum + match.goalsAgainst, 0);
+  const wins = officialStatMatches.filter((match) => match.result === "Victoire").length;
+  const draws = officialStatMatches.filter((match) => match.result === "Nul").length;
+  const losses = officialStatMatches.filter((match) => match.result === "Defaite").length;
+  const goalsFor = officialStatMatches.reduce((sum, match) => sum + match.goalsFor, 0);
+  const goalsAgainst = officialStatMatches.reduce((sum, match) => sum + match.goalsAgainst, 0);
+  const nonOfficialCount = matches.length - officialStatMatches.length;
 
   els.nationalCards.innerHTML = [
-    kpiCard("Matchs", matches.length),
+    kpiCard("Matchs", officialStatMatches.length),
     kpiCard("Victoires", wins, "positive"),
     kpiCard("Nuls", draws),
     kpiCard("Defaites", losses, "negative"),
     kpiCard("Buts marques", goalsFor),
     kpiCard("Buts encaisses", goalsAgainst),
     kpiCard("Difference", `${goalsFor - goalsAgainst > 0 ? "+" : ""}${goalsFor - goalsAgainst}`, "info"),
-    kpiCard("Victoire %", percentage(wins, matches.length), "warning"),
+    kpiCard("Victoire %", percentage(wins, officialStatMatches.length), "warning"),
+    kpiCard("Non officiels", nonOfficialCount, "info"),
     kpiCard("Fiches", detailedMatches.length, "info")
   ].join("");
 
   els.nationalScorersBody.innerHTML = scorerStats.slice(0, 25).map((scorer, index) => `
     <tr>
       <td>${index + 1}</td>
-      <td><strong>${scorer.name}</strong></td>
+      <td><strong>${renderPlayerDetailButton(scorer.name)}</strong></td>
       <td>${scorer.goals}</td>
       <td>${scorer.matches}</td>
       <td>${scorer.penalties}</td>
@@ -2011,7 +2323,7 @@ function renderNationalTeam() {
 
   els.nationalDetailedPlayersBody.innerHTML = detailedPlayerStats.slice(0, 30).map((player) => `
     <tr>
-      <td><strong>${player.name}</strong></td>
+      <td><strong>${renderPlayerDetailButton(player.name)}</strong></td>
       <td>${player.matches}</td>
       <td>${player.starts}</td>
       <td>${player.minutes}</td>
@@ -2033,7 +2345,7 @@ function renderNationalTeam() {
         <td>${detail ? `<button class="detail-pill-button" type="button" data-detail-key="${detail.key}" title="Voir la feuille de match" aria-label="Voir la feuille de match">Fiche</button>` : ""}</td>
         <td>${match.opponent}</td>
         <td><span class="place-pill">${match.venue}</span></td>
-        <td>${match.competition}</td>
+        <td>${match.competition}${isOfficialNationalStatMatch(match) ? "" : `<small class="match-note">Non comptabilise</small>`}</td>
         <td>${match.phase}${match.extraTime ? `<small class="match-note">Apres prolongation</small>` : ""}${match.penalties ? `<small class="match-note">TAB ${match.penalties}</small>` : ""}</td>
         <td><span class="score-pill ${match.result.toLowerCase()}">${match.goalsFor}-${match.goalsAgainst}</span></td>
         <td>${match.result}</td>
@@ -2048,7 +2360,12 @@ function renderNationalTeam() {
 }
 
 function renderNationalMatchDetail(detail) {
-  const playerRows = detail.players.map((player) => `
+  const formatDetailScorer = (scorer) => {
+    const minute = scorer.minute ? ` ${scorer.minute}` : "";
+    const goals = !scorer.minute && Number(scorer.goals) > 1 ? ` x${scorer.goals}` : "";
+    return `${repairMojibakeText(scorer.name)}${minute}${goals}${scorer.penalty ? " pen" : ""}${scorer.ownGoal ? " OG" : ""}`;
+  };
+  const playerRows = detailPlayersWithScorerGoals(detail).map((player) => `
     <tr>
       <td><strong>${player.name}</strong></td>
       <td>${player.starter ? "Tit." : "Remp."}</td>
@@ -2056,19 +2373,38 @@ function renderNationalMatchDetail(detail) {
       <td>${player.outMinute}${player.estimated ? "*" : ""}</td>
       <td>${player.minutes}</td>
       <td>${player.goals || ""}</td>
-      <td>${player.cards.map((card) => `${card.type === "Y" ? "Jaune" : "Rouge"} ${card.minute}'`).join(" ; ")}</td>
+      <td>${(player.cards || []).map((card) => `${card.type === "Y" ? "Jaune" : "Rouge"} ${card.minute}'`).join(" ; ")}</td>
     </tr>
   `).join("");
+
+  const displayOpponent = (detail.opponent === "NIGERIA" && detail.date === "14/01/2026") 
+    ? "NIGERIA (2-4)" 
+    : detail.opponent;
 
   els.nationalDetailContent.innerHTML = `
     <div class="dialog-heading">
       <p class="eyebrow">Feuille de match</p>
-      <h3>Maroc - ${detail.opponent}</h3>
+      <h3>Maroc - ${displayOpponent}</h3>
       <p>${detail.date} | ${detail.city}${detail.stadium ? `, ${detail.stadium}` : ""}${detail.attendance ? ` | ${detail.attendance}` : ""}</p>
       <p><strong>Score Maroc:</strong> ${detail.score}${detail.halfTime ? ` | <strong>Mi-temps:</strong> ${detail.halfTime}` : ""}${detail.penaltyShootout ? ` | <strong>Tirs au but:</strong> ${detail.penaltyShootout}` : ""}</p>
       ${detail.referee ? `<p><strong>Arbitre:</strong> ${detail.referee}</p>` : ""}
       ${detail.coach ? `<p><strong>Selectionneur:</strong> ${detail.coach}</p>` : ""}
-      ${detail.scorers.length ? `<p><strong>Buteurs:</strong> ${detail.scorers.map((scorer) => `${scorer.name} ${scorer.minute}${scorer.penalty ? " pen" : ""}`).join(" ; ")}</p>` : ""}
+      ${detail.scorers.length ? `<p><strong>Buteurs:</strong> ${detail.scorers.map(formatDetailScorer).join(" ; ")}</p>` : ""}
+      ${detail.shootout && detail.shootout.length ? `
+        <div class="shootout-section" style="margin-top: 12px; margin-bottom: 12px; padding: 12px; background: #f9f9f9; border-radius: 8px; border-left: 4px solid var(--green);">
+          <h4 style="margin: 0 0 8px 0; color: var(--ink); font-size: 0.95em;">Tirs au but (Maroc)</h4>
+          <div style="display: flex; flex-wrap: wrap; gap: 12px; font-size: 0.9em;">
+            ${detail.shootout.map((s) => `
+              <span style="display: inline-flex; align-items: center; gap: 4px; padding: 4px 8px; background: white; border: 1px solid var(--line); border-radius: 6px;">
+                <strong>${s.name}</strong> 
+                <span style="color: ${s.result === 'scored' ? '#2e7d32' : '#c62828'}; font-weight: bold;">
+                  ${s.result === 'scored' ? '✓' : '✗'}
+                </span>
+              </span>
+            `).join("")}
+          </div>
+        </div>
+      ` : ""}
       ${detail.players.some((player) => player.estimated) ? `<p><small>* Minute de changement estimee depuis le but du remplacant.</small></p>` : ""}
     </div>
     <div class="table-wrap">
@@ -2088,6 +2424,124 @@ function renderNationalMatchDetail(detail) {
       </table>
     </div>
   `;
+}
+
+function renderNationalPlayerDetail(playerKey, preferredName = "Joueur") {
+  const filters = getNationalFilters();
+  const visibleMatchKeys = new Set(filterNationalMatches(filters).map(nationalMatchIdentity));
+  const sequenceMatches = filterNationalMatches({
+    ...filters,
+    year: "all",
+    competition: "all",
+    opponent: "all",
+    venue: "all"
+  }).slice().sort((a, b) => nationalMatchDateValue(a) - nationalMatchDateValue(b));
+
+  let capNumber = 0;
+  let goalNumber = 0;
+  const rows = sequenceMatches.map((match) => {
+    const detail = detailForNationalMatch(match);
+    if (!detail) return null;
+    const player = findDetailPlayerByKey(detail, playerKey);
+    if (!player) return null;
+    const scorers = detailScorersByPlayerKey(detail, playerKey);
+    const official = isOfficialNationalStatMatch(match);
+    if (official) capNumber += 1;
+    const scoringMinutes = scorers.map((scorer) => {
+      if (!official) return `${scorer.minute}${scorer.penalty ? " pen" : ""} (-)`;
+      goalNumber += 1;
+      return `${scorer.minute}${scorer.penalty ? " pen" : ""} (#${goalNumber})`;
+    });
+    return {
+      match,
+      detail,
+      player,
+      official,
+      capNumber: official ? capNumber : "-",
+      goals: official ? Math.max(Number(player.goals) || 0, scorers.length) : 0,
+      displayGoals: Math.max(Number(player.goals) || 0, scorers.length),
+      scoringMinutes
+    };
+  }).filter(Boolean).filter((row) => visibleMatchKeys.has(nationalMatchIdentity(row.match)));
+
+  const displayName = rows[0]?.player.name || preferredName;
+  const totals = rows.reduce((acc, row) => {
+    if (!row.official) {
+      acc.nonOfficial += 1;
+      return acc;
+    }
+    acc.matches += 1;
+    acc.starts += row.player.starter ? 1 : 0;
+    acc.minutes += Number(row.player.minutes) || 0;
+    acc.goals += row.goals;
+    acc.yellow += (row.player.cards || []).filter((card) => card.type === "Y").length;
+    acc.red += (row.player.cards || []).filter((card) => card.type === "R").length;
+    return acc;
+  }, { matches: 0, starts: 0, minutes: 0, goals: 0, yellow: 0, red: 0, nonOfficial: 0 });
+
+  const renderRows = (items) => items.map(({ match, player, official, capNumber, displayGoals, scoringMinutes }) => `
+    <tr>
+      <td>${capNumber}</td>
+      <td><strong>${match.date}</strong></td>
+      <td>${match.opponent}</td>
+      <td>${match.competition}${match.phase ? ` ${match.phase}` : ""}${official ? "" : `<small class="match-note">Non comptabilise</small>`}</td>
+      <td><span class="score-pill ${match.result.toLowerCase()}">${match.goalsFor}-${match.goalsAgainst}</span></td>
+      <td>${player.starter ? "Tit." : "Remp."}</td>
+      <td>${player.starter ? "0" : player.inMinute}</td>
+      <td>${player.outMinute}</td>
+      <td>${player.minutes}</td>
+      <td>${displayGoals || ""}</td>
+      <td>${scoringMinutes.join(", ")}</td>
+      <td>${(player.cards || []).map((card) => `${card.type === "Y" ? "Jaune" : "Rouge"} ${card.minute}'`).join(" ; ")}</td>
+    </tr>
+  `).join("");
+
+  const scoringRows = rows.filter((row) => row.displayGoals > 0);
+  els.nationalDetailContent.innerHTML = `
+    <div class="dialog-heading">
+      <p class="eyebrow">Statistiques joueur</p>
+      <h3>${displayName}</h3>
+      <div class="stat-grid">
+        ${kpiCard("Matchs fiches", totals.matches)}
+        ${kpiCard("Titularisations", totals.starts)}
+        ${kpiCard("Minutes", totals.minutes)}
+        ${kpiCard("Buts", totals.goals, "positive")}
+        ${kpiCard("Jaunes", totals.yellow, "warning")}
+        ${kpiCard("Rouges", totals.red, "negative")}
+        ${kpiCard("Non officiels", totals.nonOfficial, "info")}
+      </div>
+    </div>
+    <div class="table-wrap">
+      <h4>Matchs avec but</h4>
+      <table class="ranking-table">
+        <thead>
+          <tr>
+            <th>No</th><th>Date</th><th>Adversaire</th><th>Competition</th><th>Score</th><th>Statut</th><th>Entree</th><th>Sortie</th><th>Min.</th><th>Buts</th><th>Minutes buts</th><th>Cartons</th>
+          </tr>
+        </thead>
+        <tbody>${scoringRows.length ? renderRows(scoringRows) : `<tr><td colspan="12" class="empty-results">Aucun but dans les fiches filtrees.</td></tr>`}</tbody>
+      </table>
+    </div>
+    <div class="table-wrap">
+      <h4>Tous les matchs joues</h4>
+      <table class="ranking-table">
+        <thead>
+          <tr>
+            <th>No</th><th>Date</th><th>Adversaire</th><th>Competition</th><th>Score</th><th>Statut</th><th>Entree</th><th>Sortie</th><th>Min.</th><th>Buts</th><th>Minutes buts</th><th>Cartons</th>
+          </tr>
+        </thead>
+        <tbody>${rows.length ? renderRows(rows) : `<tr><td colspan="12" class="empty-results">Aucun match detaille pour ce joueur avec les filtres actuels.</td></tr>`}</tbody>
+      </table>
+    </div>
+  `;
+}
+
+function openNationalDialog() {
+  if (typeof els.nationalDetailDialog.showModal === "function") {
+    els.nationalDetailDialog.showModal();
+  } else {
+    els.nationalDetailDialog.setAttribute("open", "");
+  }
 }
 
 function renderHonours() {
@@ -2218,13 +2672,18 @@ function normalizeCoachName(name) {
   return n;
 }
 
+function coachStatsKey(coachName, match) {
+  if (coachName !== "Badou ZAKI") return coachName;
+  return match.year < 2010 ? "Badou ZAKI|2002-2005" : "Badou ZAKI|2014-2015";
+}
+
 function computeCoachStats(matches) {
   const coaches = new Map();
 
   // Build a lookup of 'A' matches by date
   const aMatchByDate = new Map();
   matches.forEach((match) => {
-    if (nationalSquadType(match) === "A") {
+    if (nationalSquadType(match) === "A" && isOfficialNationalStatMatch(match)) {
       aMatchByDate.set(match.date, match);
     }
   });
@@ -2239,9 +2698,11 @@ function computeCoachStats(matches) {
 
     if (coachName === "Non renseigne" || coachName === "NAME" || coachName.includes("NAME.")) continue;
 
-    if (!coaches.has(coachName)) {
-      coaches.set(coachName, {
+    const coachKey = coachStatsKey(coachName, match);
+    if (!coaches.has(coachKey)) {
+      coaches.set(coachKey, {
         name: coachName,
+        key: coachKey,
         matches: 0,
         wins: 0,
         draws: 0,
@@ -2253,7 +2714,7 @@ function computeCoachStats(matches) {
       });
     }
 
-    const stats = coaches.get(coachName);
+    const stats = coaches.get(coachKey);
     stats.matches++;
     if (match.result === "Victoire") stats.wins++;
     else if (match.result === "Nul") stats.draws++;
@@ -2273,26 +2734,79 @@ function computeCoachStats(matches) {
     }
   }
 
-  return [...coaches.values()].sort((a, b) => b.matches - a.matches);
+  const coachTotals = [...coaches.values()].reduce((totals, stat) => {
+    totals.set(stat.name, (totals.get(stat.name) || 0) + stat.matches);
+    return totals;
+  }, new Map());
+
+  return [...coaches.values()].sort((a, b) => {
+    const totalDelta = (coachTotals.get(b.name) || 0) - (coachTotals.get(a.name) || 0);
+    if (totalDelta) return totalDelta;
+    if (a.name !== b.name) return a.name.localeCompare(b.name);
+    return a.firstMatch.year - b.firstMatch.year;
+  });
 }
 
 function renderCoaches() {
   const stats = computeCoachStats(nationalMatches);
-  els.coachesBody.innerHTML = stats.map((stat) => {
+  const groupedStats = stats.reduce((groups, stat) => {
+    if (!groups.has(stat.name)) groups.set(stat.name, []);
+    groups.get(stat.name).push(stat);
+    return groups;
+  }, new Map());
+
+  const renderCoachCells = (stat, strong = false) => {
     const winRate = stat.matches > 0 ? ((stat.wins / stat.matches) * 100).toFixed(1) : "0.0";
+    const wrap = (value) => strong ? `<strong>${value}</strong>` : value;
     return `
-      <tr>
-        <th scope="row">${stat.name}</th>
-        <td>${stat.firstMatch.year} - ${stat.lastMatch.year}</td>
-        <td><strong>${stat.matches}</strong></td>
-        <td style="color: var(--green)">${stat.wins}</td>
-        <td style="color: var(--muted)">${stat.draws}</td>
-        <td style="color: var(--red)">${stat.losses}</td>
-        <td>${stat.goalsFor}</td>
-        <td>${stat.goalsAgainst}</td>
-        <td><strong>${winRate}%</strong></td>
-      </tr>
+      <td>${wrap(stat.matches)}</td>
+      <td style="color: var(--green)">${wrap(stat.wins)}</td>
+      <td style="color: var(--muted)">${wrap(stat.draws)}</td>
+      <td style="color: var(--red)">${wrap(stat.losses)}</td>
+      <td>${wrap(stat.goalsFor)}</td>
+      <td>${wrap(stat.goalsAgainst)}</td>
+      <td>${wrap(`${winRate}%`)}</td>
     `;
+  };
+
+  const aggregateCoachStats = (name, periods) => periods.reduce((total, stat) => ({
+    name,
+    matches: total.matches + stat.matches,
+    wins: total.wins + stat.wins,
+    draws: total.draws + stat.draws,
+    losses: total.losses + stat.losses,
+    goalsFor: total.goalsFor + stat.goalsFor,
+    goalsAgainst: total.goalsAgainst + stat.goalsAgainst
+  }), { name, matches: 0, wins: 0, draws: 0, losses: 0, goalsFor: 0, goalsAgainst: 0 });
+
+  els.coachesBody.innerHTML = [...groupedStats.entries()].flatMap(([name, periods]) => {
+    if (periods.length === 1) {
+      const stat = periods[0];
+      return [`
+        <tr>
+          <th scope="row">${stat.name}</th>
+          <td>${stat.firstMatch.year} - ${stat.lastMatch.year}</td>
+          ${renderCoachCells(stat)}
+        </tr>
+      `];
+    }
+
+    const total = aggregateCoachStats(name, periods);
+    const periodRows = periods.map((stat, index) => `
+      <tr class="coach-period-row">
+        ${index === 0 ? `<th scope="row" rowspan="${periods.length + 1}" class="coach-name-cell">${name}</th>` : ""}
+        <td>${stat.firstMatch.year} - ${stat.lastMatch.year}</td>
+        ${renderCoachCells(stat)}
+      </tr>
+    `);
+
+    return [
+      ...periodRows,
+      `<tr class="coach-global-row">
+        <td>Global</td>
+        ${renderCoachCells(total, true)}
+      </tr>`
+    ];
   }).join("");
 }
 
@@ -2362,11 +2876,16 @@ els.nationalMatchesBody.addEventListener("click", (event) => {
   const detail = nationalMatchDetails.get(button.dataset.detailKey);
   if (!detail) return;
   renderNationalMatchDetail(detail);
-  if (typeof els.nationalDetailDialog.showModal === "function") {
-    els.nationalDetailDialog.showModal();
-  } else {
-    els.nationalDetailDialog.setAttribute("open", "");
-  }
+  openNationalDialog();
+});
+
+[els.nationalScorersBody, els.nationalDetailedPlayersBody].forEach((body) => {
+  body.addEventListener("click", (event) => {
+    const button = event.target.closest("[data-player-key]");
+    if (!button) return;
+    renderNationalPlayerDetail(button.dataset.playerKey, button.textContent.trim());
+    openNationalDialog();
+  });
 });
 
 els.closeNationalDetail.addEventListener("click", () => {

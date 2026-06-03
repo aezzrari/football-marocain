@@ -369,6 +369,19 @@ tbody tr:last-child th {
   background: rgba(161, 59, 43, 0.07);
 }
 
+.coach-period-row td,
+.coach-global-row td {
+  font-size: 0.82rem;
+}
+
+.coach-name-cell {
+  vertical-align: middle;
+}
+
+.coach-global-row {
+  background: rgba(14, 107, 69, 0.06);
+}
+
 .ranking-section-row td {
   background: #ece6d8;
   color: var(--blue);
