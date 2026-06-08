@@ -1,5 +1,10 @@
 DATE     VERSUS          VENUE SCORE [HT]  [PEN] CROWD  COMP      SCORERS
 
+07/06/26 Norway          [USA] d 1-1 [1-0]       -      Fr        [B.Diaz 8]
+02/06/26 Madagascar      [MAR] w 4-0 [2-0]        50000 Fr        [I.Saibari 4,25>S.Rahimi 78Pen>A.El-Kaabi 87]
+26/05/26 Burundi         [MAR] w 5-0 [0-0]       -      Fr*       [A.El-Kaabi 59,63>T.Bentayeb 71>S.Benjdida 80,90]
+31/03/26 Paraguay        [FRA] w 2-1 [0-0]        38000 Fr        [B.El Khannouss 48>N.El Aynaoui 53]
+27/03/26 Ecuador         [ESP] d 1-1 [0-0]        61622 Fr        [N.El Aynaoui 88]
 18/01/26 SENEGAL         [MAR] W 3-0 [0-0]        66526 CAN Final  [Victoire sur tapis vert après sortie du terrain de l'équipe du Sénégal]
 14/01/26 NIGERIA         [MAR] D 0-0 [0-0] [4-2]  65458 CAN Sf
 09/01/26 CAMEROON        [MAR] W 2-0 [1-0]        64178 CAN Qf    [B.Diaz 26>I.Saibari 74]
@@ -466,7 +471,7 @@ DATE     VERSUS          VENUE SCORE [HT]  [PEN] CROWD  COMP      SCORERS
 25/06/94 SAUDI ARABIA    [USA] L 1-2 [1-2]        76322 WCF Rd 1  [M.Chaouch 26]
 19/06/94 BELGIUM         [USA] L 0-1 [0-1]        61219 WCF Rd 1
 01/06/94 Canada          [CAN] d 1-1 [0-0]         3816 Fr        [M.Chaouch 57]
-20/04/94 Argentina       [ARG] l 1-3 [1-1]        35000 Fr        [M.Chaouch 43]
+20/04/94 Argentina       [ARG] l 1-3 [1-1]        35000 Fr        [H.Kachloul 43]
 23/03/94 Luxembourg      [LUX] w 2-1 [1-0]          500 Fr        [L.Hababi 45+2>A.El-Hadrioui 90+1]
 23/02/94 Finland         [MAR] d 0-0 [0-0]        12000 Fr
 06/02/94 Slovakia        [UAE] w 2-1 [1-1]         8000 UAE Tmt   [Y.Fertout 23>A.El-Hadrioui 87]
@@ -919,4 +924,4 @@ Fr                = Friendly International
 
 All matches without a '*' from the results are included.
 
-LAST UPDATE: 20/01/2026
+LAST UPDATE: 08/06/2026

@@ -1368,7 +1368,8 @@ function normalizeNationalOpponentKey(opponent) {
     congo: "republicofthecongo",
     comorosislands: "comoros",
     cenafricanrep: "centralafricanrepublic",
-    cenafricanr: "centralafricanrepublic"
+    cenafricanr: "centralafricanrepublic",
+    nthireland: "northernireland"
   };
   return aliases[compactKey] || compactKey;
 }
@@ -2106,6 +2107,9 @@ const parsedInternational2000Details = Array.isArray(globalThis.international200
     .map(parseInternational2000Detail)
     .filter(Boolean)
     .map(repairNationalDetail);
+const parsedInternational1990To1999Details = Array.isArray(globalThis.international1990To1999DetailsPreparsed)
+  ? globalThis.international1990To1999DetailsPreparsed.map(repairNationalDetail)
+  : [];
 const parsedInternational2010To2015Details = Array.isArray(globalThis.international2010To2015DetailsPreparsed)
   ? globalThis.international2010To2015DetailsPreparsed.map(repairNationalDetail)
   : [];
@@ -2122,6 +2126,9 @@ parsedWcMatchDetails.forEach((detail) => {
 parsedInternational2000Details.forEach((detail) => {
   if (!nationalMatchDetails.has(detail.key)) nationalMatchDetails.set(detail.key, detail);
 });
+parsedInternational1990To1999Details.forEach((detail) => {
+  if (!nationalMatchDetails.has(detail.key)) nationalMatchDetails.set(detail.key, detail);
+});
 parsedInternational2010To2015Details.forEach((detail) => {
   if (!nationalMatchDetails.has(detail.key)) nationalMatchDetails.set(detail.key, detail);
 });
@@ -2133,6 +2140,7 @@ parsedInternational2021To2025Details.forEach((detail) => {
 });
 globalThis.nationalDetailDebug = {
   wc: parsedWcMatchDetails.length,
+  international1990To1999: parsedInternational1990To1999Details.length,
   international2000: parsedInternational2000Details.length,
   international2010To2015: parsedInternational2010To2015Details.length,
   international2016To2020: parsedInternational2016To2020Details.length,
@@ -2337,12 +2345,24 @@ function renderNationalTeam() {
     </tr>
   `;
 
+  const nationalDetailMissingFields = (detail) => {
+    const missing = [];
+    const starters = (detail.players || []).filter((player) => player.starter);
+    if (starters.length < 11) missing.push("composition");
+    return missing;
+  };
+
   els.nationalMatchesBody.innerHTML = matches.map((match) => {
     const detail = detailForNationalMatch(match);
+    const missingFields = detail ? nationalDetailMissingFields(detail) : [];
+    const detailLabel = missingFields.length ? "* Fiche" : "Fiche";
+    const detailTitle = missingFields.length
+      ? `Fiche incomplete : ${missingFields.join(", ")}`
+      : "Voir la feuille de match";
     return `
       <tr>
         <td><strong>${match.date}</strong></td>
-        <td>${detail ? `<button class="detail-pill-button" type="button" data-detail-key="${detail.key}" title="Voir la feuille de match" aria-label="Voir la feuille de match">Fiche</button>` : ""}</td>
+        <td>${detail ? `<button class="detail-pill-button" type="button" data-detail-key="${detail.key}" title="${detailTitle}" aria-label="${detailTitle}">${detailLabel}</button>` : ""}</td>
         <td>${match.opponent}</td>
         <td><span class="place-pill">${match.venue}</span></td>
         <td>${match.competition}${isOfficialNationalStatMatch(match) ? "" : `<small class="match-note">Non comptabilise</small>`}</td>

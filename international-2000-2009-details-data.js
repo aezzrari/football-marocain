@@ -18215,6 +18215,82 @@ globalThis.international2000DetailsPreparsed = [
         "source": "NATIONS CUP QUALIFIER"
     },
     {
+        "key": "29/12/2000|basquecountry",
+        "date": "29/12/2000",
+        "city": "Bilbao",
+        "stadium": "San Mames",
+        "attendance": "36000",
+        "opponent": "BASQUE COUNTRY",
+        "score": "2-3",
+        "halfTime": "0-2",
+        "scorers": [
+            {
+                "name": "Abdejalil Hadda",
+                "minute": "54",
+                "penalty": false
+            },
+            {
+                "name": "Oualid Regragui",
+                "minute": "65",
+                "penalty": false
+            }
+        ],
+        "players": [
+            { "name": "Khalid Fouhami", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Abdellah Fahmi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Abdeslam Ouaddou", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [{ "type": "Y", "minute": "" }] },
+            { "name": "Oualid Regragui", "starter": true, "inMinute": 0, "outMinute": 78, "minutes": 78, "goals": 1, "cards": [], "replacedBy": "Noureddine Ziyati" },
+            { "name": "Abdelkrim El Hadrioui", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [{ "type": "Y", "minute": "" }] },
+            { "name": "Youssef Safri", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Jamal Sellami", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Said Chiba", "starter": true, "inMinute": 0, "outMinute": 46, "minutes": 46, "goals": 0, "cards": [], "replacedBy": "Bouchaib El-Moubarki" },
+            { "name": "Gharib Amzine", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Adil Ramzi", "starter": true, "inMinute": 0, "outMinute": 89, "minutes": 89, "goals": 0, "cards": [], "replacedBy": "Khalid Khama" },
+            { "name": "Abdejalil Hadda", "starter": true, "inMinute": 0, "outMinute": 70, "minutes": 70, "goals": 1, "cards": [], "replacedBy": "Rachid Rokki" },
+            { "name": "Bouchaib El-Moubarki", "starter": false, "inMinute": 46, "outMinute": 90, "minutes": 44, "goals": 0, "cards": [], "replaces": "Said Chiba" },
+            { "name": "Rachid Rokki", "starter": false, "inMinute": 70, "outMinute": 90, "minutes": 20, "goals": 0, "cards": [], "replaces": "Abdejalil Hadda" },
+            { "name": "Noureddine Ziyati", "starter": false, "inMinute": 78, "outMinute": 90, "minutes": 12, "goals": 0, "cards": [], "replaces": "Oualid Regragui" },
+            { "name": "Khalid Khama", "starter": false, "inMinute": 89, "outMinute": 90, "minutes": 1, "goals": 0, "cards": [], "replaces": "Adil Ramzi" }
+        ],
+        "referee": "",
+        "coach": "",
+        "cards": [
+            { "name": "Abdeslam Ouaddou", "type": "Y", "minute": "" },
+            { "name": "Abdelkrim El Hadrioui", "type": "Y", "minute": "" }
+        ],
+        "source": "FootballDatabase.eu match 1034386; user-provided screenshots confirm attendance, lineup, goals, substitutions and cards; Selection nationale 1957-2026 line"
+    },
+    {
+        "key": "22/11/2000|libya",
+        "date": "22/11/2000",
+        "city": "Casablanca",
+        "stadium": "",
+        "attendance": "6000",
+        "opponent": "LIBYA",
+        "score": "0-0",
+        "halfTime": "0-0",
+        "scorers": [],
+        "players": [
+            { "name": "Driss Benzekri", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Rachid Neqrouz", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Faouzi El Brazi", "starter": true, "inMinute": 0, "outMinute": 65, "minutes": 65, "goals": 0, "cards": [], "replacedBy": "Hassan Kachloul" },
+            { "name": "Abdeslam Ouaddou", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Abdelkrim El Hadrioui", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Akram Roumani", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Othman El Assas", "starter": true, "inMinute": 0, "outMinute": 65, "minutes": 65, "goals": 0, "cards": [], "replacedBy": "Youssef Chippo" },
+            { "name": "Youssef Safri", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Lahcen Abrami", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Adil Ramzi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Mustapha Hadji", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Hassan Kachloul", "starter": false, "inMinute": 65, "outMinute": 90, "minutes": 25, "goals": 0, "cards": [], "replaces": "Faouzi El Brazi" },
+            { "name": "Youssef Chippo", "starter": false, "inMinute": 65, "outMinute": 90, "minutes": 25, "goals": 0, "cards": [], "replaces": "Othman El Assas" }
+        ],
+        "referee": "",
+        "coach": "Humberto Coelho",
+        "cards": [],
+        "source": "Transfermarkt match sheet 3548471; user-provided Transfermarkt screenshot confirms lineup and substitutions, with substitution minutes supplied as 65; Selection nationale 1957-2026 line"
+    },
+    {
         "key": "08/10/2000|kenya",
         "date": "08/10/2000",
         "city": "Casablanca",
