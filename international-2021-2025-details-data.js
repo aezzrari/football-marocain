@@ -8247,5 +8247,229 @@ globalThis.international2021To2025DetailsPreparsed = [
         ],
         "notes": "Bilal El Khannouss a donne la passe decisive sur le premier but d'Ismael Saibari. Ylan El Hadary a ete expulse pour Madagascar a la 79e minute.",
         "source": "Friendly Match 2026 - Transfermarkt/Sky Sports"
+    },
+    {
+        "key": "07/06/2026|norway",
+        "date": "07/06/2026",
+        "city": "Harrison",
+        "stadium": "Sports Illustrated Stadium",
+        "attendance": "",
+        "opponent": "NORWAY",
+        "score": "1-1",
+        "halfTime": "1-0",
+        "scorers": [
+            {
+                "name": "Brahim Diaz",
+                "minute": "8",
+                "penalty": false
+            }
+        ],
+        "players": [
+            {
+                "name": "Yassine Bounou",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Chadi Riad",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 65,
+                "minutes": 65,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Issa Diop",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 64,
+                "minutes": 64,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Hakimi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 65,
+                "minutes": 65,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Noussair Mazraoui",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 29,
+                "minutes": 29,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Azzedine Ounahi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 64,
+                "minutes": 64,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Ayyoub Bouaddi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 46,
+                "minutes": 46,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Neil El Aynaoui",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 64,
+                "minutes": 64,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Ismael Saibari",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 65,
+                "minutes": 65,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Abdessamad Ezzalzouli",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 46,
+                "minutes": 46,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Brahim Diaz",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 64,
+                "minutes": 64,
+                "goals": 1,
+                "cards": []
+            },
+            {
+                "name": "Youssef Belammari",
+                "starter": false,
+                "inMinute": 29,
+                "outMinute": 90,
+                "minutes": 61,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Soufiane Rahimi",
+                "starter": false,
+                "inMinute": 46,
+                "outMinute": 90,
+                "minutes": 44,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Sofyan Amrabat",
+                "starter": false,
+                "inMinute": 46,
+                "outMinute": 90,
+                "minutes": 44,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Marwane Saadane",
+                "starter": false,
+                "inMinute": 64,
+                "outMinute": 90,
+                "minutes": 26,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Bilal El Khannouss",
+                "starter": false,
+                "inMinute": 64,
+                "outMinute": 90,
+                "minutes": 26,
+                "goals": 0,
+                "cards": [
+                    {
+                        "type": "Y",
+                        "minute": "82"
+                    }
+                ]
+            },
+            {
+                "name": "Samir El Mourabet",
+                "starter": false,
+                "inMinute": 64,
+                "outMinute": 90,
+                "minutes": 26,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Ayoube Amaimouni-Echghouyab",
+                "starter": false,
+                "inMinute": 64,
+                "outMinute": 90,
+                "minutes": 26,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Zakaria El Ouahdi",
+                "starter": false,
+                "inMinute": 65,
+                "outMinute": 90,
+                "minutes": 25,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Ayoub El Kaabi",
+                "starter": false,
+                "inMinute": 65,
+                "outMinute": 90,
+                "minutes": 25,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Redouane Halhal",
+                "starter": false,
+                "inMinute": 65,
+                "outMinute": 90,
+                "minutes": 25,
+                "goals": 0,
+                "cards": []
+            }
+        ],
+        "referee": "Pierre-Luc Lauziere",
+        "coach": "Mohamed Ouahbi",
+        "cards": [
+            {
+                "name": "Bilal El Khannouss",
+                "type": "Y",
+                "minute": "82"
+            }
+        ],
+        "notes": "Brahim Diaz a marque sur une passe d'Abdessamad Ezzalzouli. Martin Odegaard a egalise pour la Norvege a la 75e minute sur une passe d'Oscar Bobb.",
+        "source": "Friendly Match 2026 - Transfermarkt/Elbotola"
     }
 ];
