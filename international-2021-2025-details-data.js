@@ -8471,5 +8471,173 @@ globalThis.international2021To2025DetailsPreparsed = [
         ],
         "notes": "Brahim Diaz a marque sur une passe d'Abdessamad Ezzalzouli. Martin Odegaard a egalise pour la Norvege a la 75e minute sur une passe d'Oscar Bobb.",
         "source": "Friendly Match 2026 - Transfermarkt/Elbotola"
+    },
+    {
+        "key": "14/06/2026|brazil",
+        "date": "14/06/2026",
+        "city": "East Rutherford",
+        "stadium": "MetLife Stadium",
+        "attendance": "80,663",
+        "opponent": "BRAZIL",
+        "score": "1-1",
+        "halfTime": "1-1",
+        "scorers": [
+            {
+                "name": "Ismael Saibari",
+                "minute": "21",
+                "penalty": false
+            }
+        ],
+        "players": [
+            {
+                "name": "Yassine Bounou",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Chadi Riad",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Issa Diop",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Noussair Mazraoui",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 80,
+                "minutes": 80,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Achraf Hakimi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Azzedine Ounahi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 65,
+                "minutes": 65,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Neil El Aynaoui",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Ayyoub Bouaddi",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 90,
+                "minutes": 90,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Ismael Saibari",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 89,
+                "minutes": 89,
+                "goals": 1,
+                "cards": []
+            },
+            {
+                "name": "Bilal El Khannouss",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 80,
+                "minutes": 80,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Brahim Diaz",
+                "starter": true,
+                "inMinute": 0,
+                "outMinute": 65,
+                "minutes": 65,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Samir El Mourabet",
+                "starter": false,
+                "inMinute": 65,
+                "outMinute": 90,
+                "minutes": 25,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Chemsdine Talbi",
+                "starter": false,
+                "inMinute": 65,
+                "outMinute": 90,
+                "minutes": 25,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Anass Salah-Eddine",
+                "starter": false,
+                "inMinute": 80,
+                "outMinute": 90,
+                "minutes": 10,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Ayoube Amaimouni-Echghouyab",
+                "starter": false,
+                "inMinute": 80,
+                "outMinute": 90,
+                "minutes": 10,
+                "goals": 0,
+                "cards": []
+            },
+            {
+                "name": "Soufiane Rahimi",
+                "starter": false,
+                "inMinute": 89,
+                "outMinute": 90,
+                "minutes": 1,
+                "goals": 0,
+                "cards": []
+            }
+        ],
+        "referee": "Slavko Vincic",
+        "coach": "Mohamed Ouahbi",
+        "cards": [],
+        "notes": "Ismael Saibari a ouvert le score sur une passe de Brahim Diaz. Vinicius Junior a egalise pour le Bresil a la 32e minute sur une passe de Bruno Guimaraes.",
+        "source": "Coupe du monde 2026 - Transfermarkt"
     }
 ];
