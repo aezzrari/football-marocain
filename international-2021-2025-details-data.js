@@ -8639,5 +8639,46 @@ globalThis.international2021To2025DetailsPreparsed = [
         "cards": [],
         "notes": "Ismael Saibari a ouvert le score sur une passe de Brahim Diaz. Vinicius Junior a egalise pour le Bresil a la 32e minute sur une passe de Bruno Guimaraes.",
         "source": "Coupe du monde 2026 - Transfermarkt"
+    },
+    {
+        "key": "20/06/2026|scotland",
+        "date": "20/06/2026",
+        "city": "Foxborough",
+        "stadium": "Gillette Stadium",
+        "attendance": "",
+        "opponent": "SCOTLAND",
+        "score": "1-0",
+        "halfTime": "1-0",
+        "scorers": [
+            {
+                "name": "Ismael Saibari",
+                "minute": "2",
+                "penalty": false
+            }
+        ],
+        "players": [
+            { "name": "Yassine Bounou", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Noussair Mazraoui", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Chadi Riad", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Issa Diop", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [{ "type": "Y", "minute": "33" }] },
+            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Neil El Aynaoui", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Ayyoub Bouaddi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Azzedine Ounahi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Bilal El Khannouss", "starter": true, "inMinute": 0, "outMinute": 84, "minutes": 84, "goals": 0, "cards": [] },
+            { "name": "Ismael Saibari", "starter": true, "inMinute": 0, "outMinute": 84, "minutes": 84, "goals": 1, "cards": [] },
+            { "name": "Brahim Diaz", "starter": true, "inMinute": 0, "outMinute": 84, "minutes": 84, "goals": 0, "cards": [] },
+            { "name": "Soufiane Rahimi", "starter": false, "inMinute": 84, "outMinute": 90, "minutes": 6, "goals": 0, "cards": [] },
+            { "name": "Chemsdine Talbi", "starter": false, "inMinute": 84, "outMinute": 90, "minutes": 6, "goals": 0, "cards": [] },
+            { "name": "Ayoube Amaimouni-Echghouyab", "starter": false, "inMinute": 84, "outMinute": 90, "minutes": 6, "goals": 0, "cards": [] },
+            { "name": "Samir El Mourabet", "starter": false, "inMinute": 90, "outMinute": 90, "minutes": 0, "goals": 0, "cards": [] }
+        ],
+        "referee": "",
+        "coach": "Mohamed Ouahbi",
+        "cards": [
+            { "name": "Issa Diop", "type": "Y", "minute": "33" }
+        ],
+        "notes": "Formation 4-2-3-1. Ismael Saibari a marque a la 2e minute sur une passe de Brahim Diaz. Changements marocains : Rahimi, Talbi et Amaimouni-Echghouyab a la 84e minute, El Mourabet a la 90e minute.",
+        "source": "Transfermarkt, rapport de match 4776628"
     }
 ];

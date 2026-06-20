@@ -1,6 +1,7 @@
 const nationalTeamRawLines = [
     "DATE     VERSUS          VENUE SCORE [HT]  [PEN] CROWD  COMP      SCORERS",
     "",
+    "20/06/26 SCOTLAND        [USA] W 1-0 [1-0]        -      WCF Rd 1  [I.Saibari 2]",
     "14/06/26 BRAZIL          [USA] D 1-1 [1-1]        80663 WCF Rd 1  [I.Saibari 21]",
     "07/06/26 Norway          [USA] d 1-1 [1-0]       -      Fr        [B.Diaz 8]",
     "02/06/26 Madagascar      [MAR] w 4-0 [2-0]        50000 Fr        [I.Saibari 4,25\u003eS.Rahimi 78Pen\u003eA.El-Kaabi 87]",
@@ -926,5 +927,5 @@ const nationalTeamRawLines = [
     "",
     "All matches without a \u0027*\u0027 from the results are included.",
     "",
-    "LAST UPDATE: 02/06/2026"
+    "LAST UPDATE: 21/06/2026"
 ];
