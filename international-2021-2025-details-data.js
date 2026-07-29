@@ -8680,5 +8680,169 @@ globalThis.international2021To2025DetailsPreparsed = [
         ],
         "notes": "Formation 4-2-3-1. Ismael Saibari a marque a la 2e minute sur une passe de Brahim Diaz. Changements marocains : Rahimi, Talbi et Amaimouni-Echghouyab a la 84e minute, El Mourabet a la 90e minute.",
         "source": "Transfermarkt, rapport de match 4776628"
+    },
+    {
+        "key": "24/06/2026|haiti",
+        "date": "24/06/2026",
+        "city": "Atlanta",
+        "stadium": "Mercedes-Benz Stadium",
+        "attendance": "68,239",
+        "opponent": "HAITI",
+        "score": "4-2",
+        "halfTime": "2-2",
+        "scorers": [
+            { "name": "Achraf Hakimi", "minute": "39", "penalty": false },
+            { "name": "Ismael Saibari", "minute": "45+1", "penalty": false },
+            { "name": "Soufiane Rahimi", "minute": "78", "penalty": false },
+            { "name": "Gessime Yassine", "minute": "89", "penalty": false }
+        ],
+        "players": [
+            { "name": "Yassine Bounou", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 1, "cards": [] },
+            { "name": "Redouane Halhal", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Chadi Riad", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Anass Salah-Eddine", "starter": true, "inMinute": 0, "outMinute": 83, "minutes": 83, "goals": 0, "cards": [] },
+            { "name": "Sofyan Amrabat", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Neil El Aynaoui", "starter": true, "inMinute": 0, "outMinute": 83, "minutes": 83, "goals": 0, "cards": [] },
+            { "name": "Bilal El Khannouss", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Ismael Saibari", "starter": true, "inMinute": 0, "outMinute": 70, "minutes": 70, "goals": 1, "cards": [] },
+            { "name": "Brahim Diaz", "starter": true, "inMinute": 0, "outMinute": 70, "minutes": 70, "goals": 0, "cards": [] },
+            { "name": "Ayoub El Kaabi", "starter": true, "inMinute": 0, "outMinute": 70, "minutes": 70, "goals": 0, "cards": [] },
+            { "name": "Gessime Yassine", "starter": false, "inMinute": 70, "outMinute": 90, "minutes": 20, "goals": 1, "cards": [] },
+            { "name": "Azzedine Ounahi", "starter": false, "inMinute": 70, "outMinute": 90, "minutes": 20, "goals": 0, "cards": [] },
+            { "name": "Soufiane Rahimi", "starter": false, "inMinute": 70, "outMinute": 90, "minutes": 20, "goals": 1, "cards": [] },
+            { "name": "Noussair Mazraoui", "starter": false, "inMinute": 83, "outMinute": 90, "minutes": 7, "goals": 0, "cards": [] },
+            { "name": "Samir El Mourabet", "starter": false, "inMinute": 83, "outMinute": 90, "minutes": 7, "goals": 0, "cards": [] }
+        ],
+        "referee": "Danny Makkelie",
+        "coach": "Mohamed Ouahbi",
+        "cards": [],
+        "notes": "3e journee du Groupe C (Coupe du monde 2026). Le Maroc bat Haiti 4-2 : Bounou c.s.c. 10', Hakimi 39', Isidor 43', Saibari 45+1', Rahimi 78', Gessime Yassine 89'. Changements marocains : Gessime Yassine, Ounahi et Rahimi a la 70e, Mazraoui et El Mourabet a la 83e.",
+        "source": "Transfermarkt, rapport de match 4776652"
+    },
+    {
+        "key": "29/06/2026|netherlands",
+        "date": "29/06/2026",
+        "city": "Monterrey",
+        "stadium": "Estadio BBVA",
+        "attendance": "51,243",
+        "opponent": "NETHERLANDS",
+        "score": "1-1",
+        "halfTime": "0-0",
+        "penaltyShootout": "3-4",
+        "scorers": [
+            { "name": "Issa Diop", "minute": "90+1", "penalty": false }
+        ],
+        "shootout": [
+            { "name": "Neil El Aynaoui", "result": "missed" },
+            { "name": "Soufiane Rahimi", "result": "scored" },
+            { "name": "Chemsdine Talbi", "result": "scored" },
+            { "name": "Achraf Hakimi", "result": "missed" },
+            { "name": "Ismael Saibari", "result": "scored" }
+        ],
+        "players": [
+            { "name": "Yassine Bounou", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 0, "cards": [] },
+            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 0, "cards": [] },
+            { "name": "Chadi Riad", "starter": true, "inMinute": 0, "outMinute": 75, "minutes": 75, "goals": 0, "cards": [] },
+            { "name": "Issa Diop", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 1, "cards": [{ "type": "Y", "minute": "47" }] },
+            { "name": "Noussair Mazraoui", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 0, "cards": [] },
+            { "name": "Ayyoub Bouaddi", "starter": true, "inMinute": 0, "outMinute": 79, "minutes": 79, "goals": 0, "cards": [] },
+            { "name": "Neil El Aynaoui", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 0, "cards": [] },
+            { "name": "Bilal El Khannouss", "starter": true, "inMinute": 0, "outMinute": 86, "minutes": 86, "goals": 0, "cards": [] },
+            { "name": "Brahim Diaz", "starter": true, "inMinute": 0, "outMinute": 79, "minutes": 79, "goals": 0, "cards": [] },
+            { "name": "Azzedine Ounahi", "starter": true, "inMinute": 0, "outMinute": 86, "minutes": 86, "goals": 0, "cards": [] },
+            { "name": "Ismael Saibari", "starter": true, "inMinute": 0, "outMinute": 120, "minutes": 120, "goals": 0, "cards": [] },
+            { "name": "Anass Salah-Eddine", "starter": false, "inMinute": 75, "outMinute": 120, "minutes": 45, "goals": 0, "cards": [] },
+            { "name": "Gessime Yassine", "starter": false, "inMinute": 79, "outMinute": 120, "minutes": 41, "goals": 0, "cards": [] },
+            { "name": "Samir El Mourabet", "starter": false, "inMinute": 79, "outMinute": 120, "minutes": 41, "goals": 0, "cards": [] },
+            { "name": "Soufiane Rahimi", "starter": false, "inMinute": 86, "outMinute": 120, "minutes": 34, "goals": 0, "cards": [] },
+            { "name": "Chemsdine Talbi", "starter": false, "inMinute": 86, "outMinute": 120, "minutes": 34, "goals": 0, "cards": [] }
+        ],
+        "referee": "Wilton Pereira Sampaio",
+        "coach": "Mohamed Ouahbi",
+        "cards": [
+            { "name": "Issa Diop", "type": "Y", "minute": "47" }
+        ],
+        "notes": "1/16 de finale (Coupe du monde 2026). Pays-Bas 1-1 Maroc a.p. : Gakpo 72', Diop 90+1' sur centre de Talbi. Le Maroc gagne la seance 3-4 : El Aynaoui et Hakimi manquent, Rahimi, Talbi et Saibari marquent.",
+        "source": "Transfermarkt, rapport de match 4776681"
+    },
+    {
+        "key": "04/07/2026|canada",
+        "date": "04/07/2026",
+        "city": "Houston",
+        "stadium": "NRG Stadium",
+        "attendance": "68,777",
+        "opponent": "CANADA",
+        "score": "3-0",
+        "halfTime": "0-0",
+        "scorers": [
+            { "name": "Azzedine Ounahi", "minute": "50", "penalty": false },
+            { "name": "Azzedine Ounahi", "minute": "82", "penalty": false },
+            { "name": "Soufiane Rahimi", "minute": "90+8", "penalty": false }
+        ],
+        "players": [
+            { "name": "Yassine Bounou", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [{ "type": "Y", "minute": "40" }] },
+            { "name": "Redouane Halhal", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [{ "type": "Y", "minute": "22" }] },
+            { "name": "Issa Diop", "starter": true, "inMinute": 0, "outMinute": 87, "minutes": 87, "goals": 0, "cards": [] },
+            { "name": "Noussair Mazraoui", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Neil El Aynaoui", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Azzedine Ounahi", "starter": true, "inMinute": 0, "outMinute": 87, "minutes": 87, "goals": 2, "cards": [{ "type": "Y", "minute": "45" }] },
+            { "name": "Ayyoub Bouaddi", "starter": true, "inMinute": 0, "outMinute": 63, "minutes": 63, "goals": 0, "cards": [] },
+            { "name": "Ismael Saibari", "starter": true, "inMinute": 0, "outMinute": 22, "minutes": 22, "goals": 0, "cards": [] },
+            { "name": "Brahim Diaz", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Bilal El Khannouss", "starter": true, "inMinute": 0, "outMinute": 63, "minutes": 63, "goals": 0, "cards": [{ "type": "Y", "minute": "45+6" }] },
+            { "name": "Soufiane Rahimi", "starter": false, "inMinute": 22, "outMinute": 90, "minutes": 68, "goals": 1, "cards": [] },
+            { "name": "Chemsdine Talbi", "starter": false, "inMinute": 63, "outMinute": 90, "minutes": 27, "goals": 0, "cards": [] },
+            { "name": "Sofyan Amrabat", "starter": false, "inMinute": 63, "outMinute": 90, "minutes": 27, "goals": 0, "cards": [] },
+            { "name": "Marwane Saadane", "starter": false, "inMinute": 87, "outMinute": 90, "minutes": 3, "goals": 0, "cards": [] },
+            { "name": "Samir El Mourabet", "starter": false, "inMinute": 87, "outMinute": 90, "minutes": 3, "goals": 0, "cards": [] }
+        ],
+        "referee": "Michael Oliver",
+        "coach": "Mohamed Ouahbi",
+        "cards": [
+            { "name": "Redouane Halhal", "type": "Y", "minute": "22" },
+            { "name": "Achraf Hakimi", "type": "Y", "minute": "40" },
+            { "name": "Azzedine Ounahi", "type": "Y", "minute": "45" },
+            { "name": "Bilal El Khannouss", "type": "Y", "minute": "45+6" }
+        ],
+        "notes": "1/8 de finale (Coupe du monde 2026). Victoire 0-3 contre le Canada : Ounahi 50' et 82', Rahimi 90+8'. Saibari sort blesse a la 22e, Rahimi entre et marque en fin de match.",
+        "source": "Transfermarkt, rapport de match 4776695"
+    },
+    {
+        "key": "09/07/2026|france",
+        "date": "09/07/2026",
+        "city": "Foxborough",
+        "stadium": "Gillette Stadium",
+        "attendance": "63,811",
+        "opponent": "FRANCE",
+        "score": "0-2",
+        "halfTime": "0-0",
+        "scorers": [],
+        "players": [
+            { "name": "Yassine Bounou", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Achraf Hakimi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Issa Diop", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [{ "type": "Y", "minute": "63" }] },
+            { "name": "Anass Salah-Eddine", "starter": true, "inMinute": 0, "outMinute": 74, "minutes": 74, "goals": 0, "cards": [] },
+            { "name": "Noussair Mazraoui", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Neil El Aynaoui", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Azzedine Ounahi", "starter": true, "inMinute": 0, "outMinute": 90, "minutes": 90, "goals": 0, "cards": [] },
+            { "name": "Ayyoub Bouaddi", "starter": true, "inMinute": 0, "outMinute": 62, "minutes": 62, "goals": 0, "cards": [] },
+            { "name": "Brahim Diaz", "starter": true, "inMinute": 0, "outMinute": 74, "minutes": 74, "goals": 0, "cards": [] },
+            { "name": "Bilal El Khannouss", "starter": true, "inMinute": 0, "outMinute": 62, "minutes": 62, "goals": 0, "cards": [] },
+            { "name": "Chemsdine Talbi", "starter": true, "inMinute": 0, "outMinute": 85, "minutes": 85, "goals": 0, "cards": [] },
+            { "name": "Soufiane Rahimi", "starter": false, "inMinute": 62, "outMinute": 90, "minutes": 28, "goals": 0, "cards": [] },
+            { "name": "Sofyan Amrabat", "starter": false, "inMinute": 62, "outMinute": 90, "minutes": 28, "goals": 0, "cards": [] },
+            { "name": "Zakaria El Ouahdi", "starter": false, "inMinute": 74, "outMinute": 90, "minutes": 16, "goals": 0, "cards": [] },
+            { "name": "Gessime Yassine", "starter": false, "inMinute": 74, "outMinute": 90, "minutes": 16, "goals": 0, "cards": [] },
+            { "name": "Amine Sbai", "starter": false, "inMinute": 85, "outMinute": 90, "minutes": 5, "goals": 0, "cards": [] }
+        ],
+        "referee": "Facundo Tello",
+        "coach": "Mohamed Ouahbi",
+        "cards": [
+            { "name": "Issa Diop", "type": "Y", "minute": "63" }
+        ],
+        "notes": "1/4 de finale (Coupe du monde 2026). Defaite 0-2 face a la France : Mbappe 60', Dembele 66'. Bounou arrete un penalty de Mbappe a la 28e. Changements marocains : Rahimi et Amrabat a la 62e, El Ouahdi et Gessime Yassine a la 74e, Amine Sbai a la 85e.",
+        "source": "Transfermarkt, rapport de match 4776703"
     }
 ];
