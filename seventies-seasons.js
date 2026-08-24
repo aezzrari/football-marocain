@@ -967,7 +967,7 @@ seasons.push(
       "won": 10,
       "drawn": 10,
       "lost": 10,
-      "goalsFor": 22,
+      "goalsFor": 26,
       "goalsAgainst": 22,
       "points": 60,
       "status": ""
@@ -2523,8 +2523,8 @@ seasons.push(
       "won": 9,
       "drawn": 13,
       "lost": 8,
-      "goalsFor": 25,
-      "goalsAgainst": 27,
+      "goalsFor": 28,
+      "goalsAgainst": 26,
       "points": 61,
       "status": ""
     },
@@ -7076,8 +7076,8 @@ seasons.push(
       "won": 17,
       "drawn": 9,
       "lost": 12,
-      "goalsFor": 44,
-      "goalsAgainst": 32,
+      "goalsFor": 43,
+      "goalsAgainst": 31,
       "points": 81,
       "status": ""
     },

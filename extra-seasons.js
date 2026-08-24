@@ -351,7 +351,7 @@ seasons.push(
       { rank: 2, code: "USK", played: 30, won: 13, drawn: 11, lost: 6, goalsFor: 29, goalsAgainst: 19, points: 67, status: "" },
       { rank: 3, code: "RCA", played: 30, won: 11, drawn: 14, lost: 5, goalsFor: 26, goalsAgainst: 17, points: 66, status: "" },
       { rank: 4, code: "SCCM", played: 30, won: 11, drawn: 12, lost: 7, goalsFor: 38, goalsAgainst: 23, points: 64, status: "" },
-      { rank: 5, code: "WAC", played: 30, won: 11, drawn: 11, lost: 8, goalsFor: 23, goalsAgainst: 17, points: 63, status: "Champion en titre" },
+      { rank: 5, code: "WAC", played: 30, won: 11, drawn: 11, lost: 8, goalsFor: 23, goalsAgainst: 19, points: 63, status: "Champion en titre" },
       { rank: 6, code: "MAS", played: 30, won: 9, drawn: 15, lost: 6, goalsFor: 25, goalsAgainst: 20, points: 63, status: "" },
       { rank: 7, code: "RSS", played: 30, won: 7, drawn: 19, lost: 4, goalsFor: 27, goalsAgainst: 23, points: 63, status: "" },
       { rank: 8, code: "FUS", played: 30, won: 10, drawn: 11, lost: 9, goalsFor: 22, goalsAgainst: 23, points: 61, status: "" },
